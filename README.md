@@ -5,6 +5,8 @@
 
 This is the official documentation repository for [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/). It is highly incomplete.
 
+[`Click/tap here to see more AI2001 documentation`](/Docs/)
+
 ***
 
 ## Datasets
@@ -44,6 +46,6 @@ A: No it wasn't. I have had an interest in Artificial Intelligence since at leas
 
 ***
 
-**File version:** `1 (2023, Tuesday, February 21st at 7:30 pm PST)`
+**File version:** `2 (2023, Monday, March 20th at 6:26 pm PST)`
 
 ***
