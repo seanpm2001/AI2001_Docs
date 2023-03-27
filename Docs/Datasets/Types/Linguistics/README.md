@@ -15,7 +15,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Sunday, March 26th, there are `20` linguistic datasets, with dozens planned in the coming months. They include:
+As of 2023, Monday, March 27th, there are `22` linguistic datasets, with dozens planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -41,6 +41,8 @@ As of 2023, Sunday, March 26th, there are `20` linguistic datasets, with dozens 
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplifid/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Thai`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Thai/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Telugu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Telugu/)
 
 </details>
 
@@ -58,9 +60,9 @@ As of 2023, Sunday, March 26th, there are `20` linguistic datasets, with dozens 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2023, Sunday, March 26th at 10:13 pm PST)`
+**File version:** `7 (2023, Monday, March 27th at 3:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `216`
+**Line count (including blank lines and compiler line):** `238`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -199,6 +201,26 @@ As of 2023, Sunday, March 26th, there are `20` linguistic datasets, with dozens 
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2023, Monday, March 27th at 3:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
 
 </details>
 
