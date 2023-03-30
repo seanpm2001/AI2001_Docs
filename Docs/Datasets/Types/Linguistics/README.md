@@ -15,7 +15,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Tuesday, March 28th, there are `24` linguistic datasets, with dozens planned in the coming months. They include:
+As of 2023, Wednesday, March 29th, there are `26` linguistic datasets, with dozens planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -45,6 +45,8 @@ As of 2023, Tuesday, March 28th, there are `24` linguistic datasets, with dozens
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Telugu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Telugu/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Sindhi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sindhi/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Berber`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Berber/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Sanskrit`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sanskrit/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Cuneiform`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cuneiform/)
 
 </details>
 
@@ -62,9 +64,9 @@ As of 2023, Tuesday, March 28th, there are `24` linguistic datasets, with dozens
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2023, Tuesday, March 28th at 3:17 pm PST)`
+**File version:** `9 (2023, Wednesday, March 29th at 8:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `260`
+**Line count (including blank lines and compiler line):** `282`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -243,6 +245,26 @@ As of 2023, Tuesday, March 28th, there are `24` linguistic datasets, with dozens
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 8
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p lang="en"><b>Version 9 (2023, Wednesday, March 29th at 8:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
 
 </details>
 
