@@ -15,7 +15,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Wednesday, March 29th, there are `26` linguistic datasets, with dozens planned in the coming months. They include:
+As of 2023, Friday, March 30th, there are `30` linguistic datasets, with dozens planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -47,6 +47,10 @@ As of 2023, Wednesday, March 29th, there are `26` linguistic datasets, with doze
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Berber`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Berber/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Sanskrit`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sanskrit/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Cuneiform`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Cuneiform/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Ruthenian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ruthenian/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Zulu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Zulu/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Afrikaans`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afrikaans/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Hungarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hungarian/)
 
 </details>
 
@@ -64,9 +68,9 @@ As of 2023, Wednesday, March 29th, there are `26` linguistic datasets, with doze
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2023, Wednesday, March 29th at 8:15 pm PST)`
+**File version:** `10 (2023, Friday, March 31st at 10:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `282`
+**Line count (including blank lines and compiler line):** `306`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -265,6 +269,26 @@ As of 2023, Wednesday, March 29th, there are `26` linguistic datasets, with doze
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p lang="en"><b>Version 10 (2023, Friday, March 31st at 10:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 4 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
 
 </details>
 
