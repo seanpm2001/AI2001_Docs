@@ -15,7 +15,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens planned in the coming months. They include:
+As of 2023, Monday, April 3rd, there are `36` linguistic datasets, with dozens more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -55,6 +55,8 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Laos`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Laos/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Ethiopian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ethiopian/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Kurdish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kurdish/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Turkish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Turkish/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Yiddish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Yiddish/)
 
 </details>
 
@@ -72,9 +74,9 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2023, Sunday, April 2nd at 3:34 pm PST)`
+**File version:** `13 (2023, Monday, April 3rd at 4:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `350`
+**Line count (including blank lines and compiler line):** `374`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -109,7 +111,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - [x] Added the file version stamp
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- V01 !-->
 
 <details><summary><p lang="en"><b>Version 2 (2023, Wednesday, March 22nd at 3:59 pm PST)</b></p></summary>
 
@@ -134,7 +136,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - [x] Added the footer
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- V02 !-->
 
 <details><summary><p lang="en"><b>Version 3 (2023, Thursday, March 23rd at 3:58 pm PST)</b></p></summary>
 
@@ -154,7 +156,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- V03 !-->
 
 <details><summary><p lang="en"><b>Version 4 (2023, Friday, March 24th at 6:07 pm PST)</b></p></summary>
 
@@ -174,7 +176,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- V04 !-->
 
 <details><summary><p lang="en"><b>Version 5 (2023, Saturday, March 25th at 9:37 pm PST)</b></p></summary>
 
@@ -194,7 +196,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- V05 !-->
 
 <details><summary><p lang="en"><b>Version 6 (2023, Sunday, March 26th at 10:13 pm PST)</b></p></summary>
 
@@ -214,7 +216,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
 
-</details>
+</details> <!-- V06 !-->
 
 <details><summary><p lang="en"><b>Version 7 (2023, Monday, March 27th at 3:37 pm PST)</b></p></summary>
 
@@ -234,7 +236,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
 
-</details>
+</details> <!-- V07 !-->
 
 <details><summary><p lang="en"><b>Version 8 (2023, Tuesday, March 28th at 3:17 pm PST)</b></p></summary>
 
@@ -254,7 +256,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 8
 - [ ] No other changes in version 8
 
-</details>
+</details> <!-- V08 !-->
 
 <details><summary><p lang="en"><b>Version 9 (2023, Wednesday, March 29th at 8:15 pm PST)</b></p></summary>
 
@@ -274,7 +276,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
 
-</details>
+</details> <!-- V09 !-->
 
 <details><summary><p lang="en"><b>Version 10 (2023, Friday, March 31st at 10:28 pm PST)</b></p></summary>
 
@@ -294,7 +296,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 10
 - [ ] No other changes in version 10
 
-</details>
+</details> <!-- V10 !-->
 
 <details><summary><p lang="en"><b>Version 11 (2023, Saturday, April 1st at 6:38 pm PST)</b></p></summary>
 
@@ -314,7 +316,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 11
 - [ ] No other changes in version 11
 
-</details>
+</details> <!-- V11 !-->
 
 <details><summary><p lang="en"><b>Version 12 (2023, Sunday, April 2nd at 3:34 pm PST)</b></p></summary>
 
@@ -323,6 +325,7 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 > **Note** _Normal daily update._
 
 > Changes:
+
 
 - [x] Updated the `Linguistics types` section
 - - [x] Added 2 new entries
@@ -334,7 +337,28 @@ As of 2023, Sunday, April 2nd, there are `34` linguistic datasets, with dozens p
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
 
-</details>
+</details> <!-- V12 !-->
+
+<details><summary><p lang="en"><b>Version 13 (2023, Monday, April 3rd at 4:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update._
+
+> Changes:
+
+- [x] **DEVELOPER** Added number sections (`<!-- V1 !-->`, `<!-- V2 !-->` etc.) to all file history release posts, to ease navigation
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
+
+</details> <!-- V13 !-->
 
 </details> <!-- End of file history !-->
 
