@@ -11,11 +11,13 @@
 
 [`Click/tap here to go back`](/Docs/Datasets/Types/)
 
+***
+
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Wednesday, April 5th, there are `40` linguistic datasets, with dozens more planned in the coming months. They include:
+As of 2023, Friday, April 7th, there are `44` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -61,6 +63,10 @@ As of 2023, Wednesday, April 5th, there are `40` linguistic datasets, with dozen
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Afar`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Afar/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Bulgarian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bulgarian/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Belarusian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Belarusian/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Korean (North)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-North/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Greenlandic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greenlandic/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Ancient Egyptian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ancient-Egyptian/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Pashto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Pashto/)
 
 </details>
 
@@ -68,7 +74,22 @@ As of 2023, Wednesday, April 5th, there are `40` linguistic datasets, with dozen
 
 ***
 
-**🌱️ This [`README.md`](/Docs/Datasets/Types/Linguistics/README.md) file is a major stub and needs significant expansion.**
+#### Usage
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+The current planned usage for these datasets is machine translation. This won't be the only usage. Other uses include:
+
+- Speech synthesis
+- Chatbots
+- Language preservation
+- Other/not yet listed
+
+</details>
+
+***
+
+**🌱️ This [`README.md`](/Docs/Datasets/Types/Linguistics/README.md) file is a stub and needs significant expansion.**
 
 ***
 
@@ -78,9 +99,9 @@ As of 2023, Wednesday, April 5th, there are `40` linguistic datasets, with dozen
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2023, Wednesday, April 5th at 3:20 pm PST)`
+**File version:** `15 (2023, Friday, April 7th at 7:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `397`
+**Line count (including blank lines and compiler line):** `439`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -382,6 +403,27 @@ As of 2023, Wednesday, April 5th, there are `40` linguistic datasets, with dozen
 - [ ] No other changes in version 14
 
 </details> <!-- V14 !-->
+
+<details><summary><p lang="en"><b>Version 15 (2023, Friday, April 7th at 7:01 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update, although I didn't have the time to do this yesterday._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 4 new entries to the list
+- [x] Added the `Usage` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
+
+</details> <!-- V15 !-->
 
 </details> <!-- End of file history !-->
 
