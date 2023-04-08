@@ -17,7 +17,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Friday, April 7th, there are `44` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Saturday, April 8th, there are `46` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -67,6 +67,8 @@ As of 2023, Friday, April 7th, there are `44` linguistic datasets, with many mor
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Greenlandic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Greenlandic/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Ancient Egyptian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Ancient-Egyptian/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Pashto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Pashto/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Punjabi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Punjabi/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Welsh`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Welsh/)
 
 </details>
 
@@ -99,9 +101,9 @@ The current planned usage for these datasets is machine translation. This won't 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2023, Friday, April 7th at 7:01 pm PST)`
+**File version:** `16 (2023, Saturday, April 8th at 3:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `439`
+**Line count (including blank lines and compiler line):** `461`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -424,6 +426,26 @@ The current planned usage for these datasets is machine translation. This won't 
 - [ ] No other changes in version 15
 
 </details> <!-- V15 !-->
+
+<details><summary><p lang="en"><b>Version 16 (2023, Saturday, April 8th at 3:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update, 2 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 16
+- [ ] No other changes in version 16
+
+</details> <!-- V16 !-->
 
 </details> <!-- End of file history !-->
 
