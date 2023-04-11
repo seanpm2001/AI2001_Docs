@@ -17,7 +17,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Monday, April 10th, there are `50` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Tuesday, April 11th, there are `52` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -73,10 +73,12 @@ As of 2023, Monday, April 10th, there are `50` linguistic datasets, with many mo
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Scottish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Scottish/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Dutch`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dutch/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Swedish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Swedish/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Finnish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Finnish/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Norwegian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Norwegian/)
 
-</details>
+</details> <!-- End of language list dropdown !-->
 
-</details>
+</details> <!-- End of linguistic datasets section dropdown !-->
 
 ***
 
@@ -91,7 +93,7 @@ The current planned usage for these datasets is machine translation. This won't 
 - Language preservation
 - Other/not yet listed
 
-</details>
+</details> <!-- End of usage dropdown !-->
 
 ***
 
@@ -105,9 +107,9 @@ The current planned usage for these datasets is machine translation. This won't 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2023, Monday, April 10th at 6:13 pm PST)`
+**File version:** `19 (2023, Tuesday, April 11th at 4:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `505`
+**Line count (including blank lines and compiler line):** `527`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -490,6 +492,26 @@ The current planned usage for these datasets is machine translation. This won't 
 - [ ] No other changes in version 18
 
 </details> <!-- V18 !-->
+
+<details><summary><p lang="en"><b>Version 19 (2023, Tuesday, April 11th at 4:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update, 5 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
+
+</details> <!-- V19 !-->
 
 </details> <!-- End of file history !-->
 
