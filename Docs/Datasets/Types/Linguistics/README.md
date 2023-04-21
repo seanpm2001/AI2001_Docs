@@ -17,7 +17,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Wednesday, April 19th, there are `68` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Thursday, April 20th, there are `70` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -91,6 +91,8 @@ As of 2023, Wednesday, April 19th, there are `68` linguistic datasets, with many
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Latvian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Latvian/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Lithuanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lithuanian/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Igbo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Igbo/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Catalan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Catalan/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Corsican`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Corsican/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -123,9 +125,9 @@ The current planned usage for these datasets is machine translation. This won't 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `26 (2023, Wednesday, April 19th at 4:56 pm PST)`
+**File version:** `27 (2023, Thursday, April 20th at 5:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `683`
+**Line count (including blank lines and compiler line):** `705`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -668,6 +670,26 @@ The current planned usage for these datasets is machine translation. This won't 
 - [ ] No other changes in version 26
 
 </details> <!-- V26 !-->
+
+<details><summary><p lang="en"><b>Version 27 (2023, Thursday, April 20th at 5:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update, 5 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 27
+- [ ] No other changes in version 27
+
+</details> <!-- V27 !-->
 
 </details> <!-- End of file history !-->
 
