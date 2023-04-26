@@ -17,7 +17,9 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Monday, April 24th, there are `78` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Tuesday, April 25th, there are `80` linguistic datasets, with many more planned in the coming months. They include:
+
+**Note** I will be going on a 6 day vacation starting 2023, April 29th to 2023, May 4th. I have plans to not create any new repositories during this period. The 2-a-day linguistic datasets will stop for this time, but will resume on 2023, May 5th.
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -101,7 +103,8 @@ As of 2023, Monday, April 24th, there are `78` linguistic datasets, with many mo
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Esperanto`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Esperanto/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Luxembourgish`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Luxembourgish/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Walloon`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Walloon/)
-
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Armenian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Armenian/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Frisian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Frisian/)
 </details> <!-- End of language list dropdown !-->
 
 </details> <!-- End of linguistic datasets section dropdown !-->
@@ -133,9 +136,9 @@ The current planned usage for these datasets is machine translation. This won't 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `31 (2023, Monday, April 24th at 4:50 pm PST)`
+**File version:** `32 (2023, Tuesday, April 25th at 11:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `793`
+**Line count (including blank lines and compiler line):** `816`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -778,6 +781,26 @@ The current planned usage for these datasets is machine translation. This won't 
 - [ ] No other changes in version 31
 
 </details> <!-- V31 !-->
+
+<details><summary><p lang="en"><b>Version 32 (2023, Tuesday, April 25th at 11:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Normal daily update, 10 consecutive days in a row._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 32
+- [ ] No other changes in version 32
+
+</details> <!-- V32 !-->
 
 </details> <!-- End of file history !-->
 
