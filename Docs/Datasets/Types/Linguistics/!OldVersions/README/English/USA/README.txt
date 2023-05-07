@@ -17,7 +17,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Friday, May 5th, there are `88` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Saturday, May 6th, there are `88` linguistic datasets, with many more planned in the coming months (although a temporary pause started on 2023, Saturday, May 6th) They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -142,9 +142,9 @@ The current planned usage for these datasets is machine translation. This won't 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `36 (2023, Friday, May 5th at 7:59 pm PST)`
+**File version:** `37 (2023, Saturday, May 6th at 7:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,902`
+**Line count (including blank lines and compiler line):** `0,921`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -887,6 +887,25 @@ The current planned usage for these datasets is machine translation. This won't 
 - [ ] No other changes in version 36
 
 </details> <!-- V36 !-->
+
+<details><summary><p lang="en"><b>Version 37 (2023, Saturday, May 6th at 7:24 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Starting a pause on new entries today._
+
+> Changes:
+
+- [x] Added info on the temporary pause
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 37
+- [ ] No other changes in version 37
+
+</details> <!-- V37 !-->
 
 </details> <!-- End of file history !-->
 
