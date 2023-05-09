@@ -15,7 +15,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Monday, May 8th, there are only `7` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Tuesday, May 9th, there are only `9` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -28,6 +28,8 @@ As of 2023, Monday, May 8th, there are only `7` source code datasets, with many 
 - - [:octocat: `AI2001 Category: Source Code ;SC: AWK`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AWK/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: AngelScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AngelScript/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: ASP.NET`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASP.NET/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ASP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASP/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Astro`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Astro/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -57,9 +59,9 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Monday, May 8th at 10:36 pm PST)`
+**File version:** `5 (2023, Tuesday, May 9th at 4:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,176`
+**Line count (including blank lines and compiler line):** `0,198`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -161,6 +163,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 4
 
 </details> <!-- V04 !-->
+
+<details><summary><p lang="en"><b>Version 5 (2023, Tuesday, May 9th at 4:32 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Day 4 of consecutive updates. Just a normal update today._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
+
+</details> <!-- V05 !-->
 
 </details>
 
