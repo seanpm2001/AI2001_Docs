@@ -15,7 +15,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Saturday, May 13th, there are only `17` source code datasets, with many more coming in the coming months. They include: <!-- The word 'only' will be used, until there are at least 25 datasets !-->
+As of 2023, Sunday, May 14th, there are only `19` source code datasets, with many more coming in the coming months. They include: <!-- The word 'only' will be used, until there are at least 25 datasets !-->
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -38,6 +38,8 @@ As of 2023, Saturday, May 13th, there are only `17` source code datasets, with m
 - - [:octocat: `AI2001 Category: Source Code ;SC: BrighterScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BrighterScript/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: B`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-B/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Brainfuck`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Brainfuck/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Bikeshed`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bikeshed/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Batchfile`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Batchfile/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -67,9 +69,9 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `09 (2023, Saturday, May 13th at 5:31 pm PST)`
+**File version:** `10 (2023, Sunday, May 14th at 5:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,286`
+**Line count (including blank lines and compiler line):** `0,308`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -271,6 +273,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 9
 
 </details> <!-- V09 !-->
+
+<details><summary><p lang="en"><b>Version 10 (2023, Sunday, May 14th at 5:23 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Day 9 of consecutive updates. Just a normal update today._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
+
+</details> <!-- V10 !-->
 
 </details> <!-- End of file history !-->
 
