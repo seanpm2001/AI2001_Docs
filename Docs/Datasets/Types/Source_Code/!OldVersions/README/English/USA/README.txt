@@ -15,7 +15,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Tuesday, May 16th, there are only `23` source code datasets, with many more coming in the coming months. They include: <!-- The word 'only' will be used, until there are at least 25 datasets !-->
+As of 2023, Wednesday, May 17th, there are `25` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -44,6 +44,8 @@ As of 2023, Tuesday, May 16th, there are only `23` source code datasets, with ma
 - - [:octocat: `AI2001 Category: Source Code ;SC: Clean`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clean/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: C#`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSharp/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CSV`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSV/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cadence`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cadence/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -73,9 +75,9 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2023, Tuesday, May 16th at 7:58 pm PST)`
+**File version:** `13 (2023, Wednesday, May 17th at 7:18 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,352`
+**Line count (including blank lines and compiler line):** `0,374`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -337,6 +339,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 12
 
 </details> <!-- V12 !-->
+
+<details><summary><p lang="en"><b>Version 13 (2023, Wednesday, May 17th at 7:18 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Day 12 of consecutive updates. Just a normal update today._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
+
+</details> <!-- V13 !-->
 
 </details> <!-- End of file history !-->
 
