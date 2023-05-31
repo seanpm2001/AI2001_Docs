@@ -15,7 +15,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Monday, May 29th, there are `49` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Tuesday, May 30th, there are `51` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -70,6 +70,8 @@ As of 2023, Monday, May 29th, there are `49` source code datasets, with many mor
 - - [:octocat: `AI2001 Category: Source Code ;SC: Fortran95`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran95/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Google Go/Google Golang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Go!`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GDScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GLSL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GLSL/)
 
 
 </details> <!-- End of language list dropdown !-->
@@ -100,9 +102,9 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2023, Monday, May 29th at 10:12 pm PST)`
+**File version:** `26 (2023, Tuesday, May 30th at 10:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,639`
+**Line count (including blank lines and compiler line):** `0,661`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -624,6 +626,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 25
 
 </details> <!-- V25 !-->
+
+<details><summary><p lang="en"><b>Version 26 (2023, Tuesday, May 30th at 10:03 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Day 25 of consecutive updates. Just a normal update today._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 26
+- [ ] No other changes in version 26
+
+</details> <!-- V26 !-->
 
 </details> <!-- End of file history !-->
 
