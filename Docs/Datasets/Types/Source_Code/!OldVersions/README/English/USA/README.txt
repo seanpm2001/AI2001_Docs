@@ -15,7 +15,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Tuesday, June 6th, there are `65` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Wednesday, June 7th, there are `67` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -86,6 +86,8 @@ As of 2023, Tuesday, June 6th, there are `65` source code datasets, with many mo
 - - [:octocat: `AI2001 Category: Source Code ;SC: Inno Setup`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hack/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: INI`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-INI/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Java`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: JavaScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JavaScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: JSON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSON/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -115,9 +117,9 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `33 (2023, Tuesday, June 6th at 9:25 pm PST)`
+**File version:** `34 (2023, Wednesday, June 7th at 10:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,814`
+**Line count (including blank lines and compiler line):** `0,836`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -799,6 +801,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 33
 
 </details> <!-- V33 !-->
+
+<details><summary><p lang="en"><b>Version 34 (2023, Wednesday, June 7th at 10:07 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Day 33 of consecutive updates. Just a normal update today._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 34
+- [ ] No other changes in version 34
+
+</details> <!-- V34 !-->
 
 </details> <!-- End of file history !-->
 
