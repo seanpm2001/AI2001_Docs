@@ -15,7 +15,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Friday, June 9th, there are `71` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Saturday, June 10th, there are `73` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -92,6 +92,8 @@ As of 2023, Friday, June 9th, there are `71` source code datasets, with many mor
 - - [:octocat: `AI2001 Category: Source Code ;SC: Jsonnet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jsonnet/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: JetBrains MPS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JetBrains-MPS/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Kotlin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Kotlin/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Lua`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lua/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Less`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Less/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -121,9 +123,17 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `36 (2023, Friday, June 9th at 11:03 pm PST)`
+**File version:** `37 (2023, Saturday, June 10th at 10:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,880`
+**Line count (including blank lines and compiler line):** `0,910`
+
+**Word count:** `5,286`
+
+**Character count (including spaces):** `35,413`
+
+**Character count (excluding spaces):** `30,267`
+
+**Size (in bytes):** `35,418`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -865,6 +875,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 36
 
 </details> <!-- V36 !-->
+
+<details><summary><p lang="en"><b>Version 37 (2023, Saturday, June 10th at 10:01 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Day 36 of consecutive updates. Just a normal update today._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 37
+- [ ] No other changes in version 37
+
+</details> <!-- V37 !-->
 
 </details> <!-- End of file history !-->
 
