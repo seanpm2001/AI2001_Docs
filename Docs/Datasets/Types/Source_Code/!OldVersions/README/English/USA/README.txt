@@ -15,7 +15,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Tuesday, June 13th, there are `79` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Thursday, June 15th, there are `83` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -100,6 +100,10 @@ As of 2023, Tuesday, June 13th, there are `79` source code datasets, with many m
 - - [:octocat: `AI2001 Category: Source Code ;SC: Lean`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lean/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: M`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Macaulay2`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Macaulay2/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Motoko`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Motoko/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Mako`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mako/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Makefile`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Makefile/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Mathematica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mathematica/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -129,17 +133,17 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `40 (2023, Tuesday, June 13th at 02:59 pm PST)`
+**File version:** `41 (2023, Thursday, June 15th at 08:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,954`
+**Line count (including blank lines and compiler line):** `1,000`
 
-**Word count:** `5,676`
+**Word count:** `5,855`
 
-**Character count (including spaces):** `38,036`
+**Character count (including spaces):** `39,271`
 
-**Character count (excluding spaces):** `32,509`
+**Character count (excluding spaces):** `33,584`
 
-**Size (in bytes):** `38,041`
+**Size (in bytes):** `39,276`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -961,6 +965,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 40
 
 </details> <!-- V40 !-->
+
+<details><summary><p lang="en"><b>Version 41 (2023, Thursday, June 15th at 08:52 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Yesterdays update was skipped due to a kernel panic, and the streak has been reset. Day 1 of consecutive updates. Just a normal update today._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 41
+- [ ] No other changes in version 41
+
+</details> <!-- V41 !-->
 
 </details> <!-- End of file history !-->
 
