@@ -15,7 +15,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, June 18th, there are `89` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Monday, June 19th, there are `91` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -110,6 +110,8 @@ As of 2023, Sunday, June 18th, there are `89` source code datasets, with many mo
 - - [:octocat: `AI2001 Category: Source Code ;SC: MAXScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MAXScript/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Metal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Metal/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Markdown`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Markdown/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Nim`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nim/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Nemerle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nemerle/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -139,17 +141,17 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `44 (2023, Sunday, June 18th at 05:22 pm PST)`
+**File version:** `45 (2023, Monday, June 19th at 09:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,066`
+**Line count (including blank lines and compiler line):** `1,088`
 
-**Word count:** `6,247`
+**Word count:** `6,277`
 
-**Character count (including spaces):** `41,912`
+**Character count (including spaces):** `42,787`
 
-**Character count (excluding spaces):** `35,844`
+**Character count (excluding spaces):** `36,52`
 
-**Size (in bytes):** `41,917`
+**Size (in bytes):** `42,792`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1051,6 +1053,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 44
 
 </details> <!-- V44 !-->
+
+<details><summary><p lang="en"><b>Version 45 (2023, Monday, June 19th at 09:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Day 5 of consecutive updates. Just a normal update today._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 45
+- [ ] No other changes in version 45
+
+</details> <!-- V45 !-->
 
 </details> <!-- End of file history !-->
 
