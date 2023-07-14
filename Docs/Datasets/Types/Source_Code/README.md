@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Fridau, July 7th, there are `123` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Thursday, July 14th, there are `135` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -148,6 +148,18 @@ As of 2023, Fridau, July 7th, there are `123` source code datasets, with many mo
 - - [:octocat: `AI2001 Category: Source Code ;SC: Sage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sage/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Slim`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slim/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: TypeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TypeScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Tcl`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tcl/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: TOML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TOML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: TeX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TeX/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: UnrealScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-UnrealScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Uno`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Uno/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: URLL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-URLL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Vala`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vala/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: VBScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VBScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: VB.NET`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VB.NET/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: V`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-V/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: VHDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VHDL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: WebAssembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebAssembly/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -177,17 +189,17 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `61 (2023, Friday, July 7th at 11:16 pm PST)`
+**File version:** `62 (2023, Thursday, July 13th at 06:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,446`
+**Line count (including blank lines and compiler line):** `1,478`
 
-**Word count:** `8,501`
+**Word count:** `8,869`
 
-**Character count (including spaces):** `57,187`
+**Character count (including spaces):** `59,691`
 
-**Character count (excluding spaces):** `48,916`
+**Character count (excluding spaces):** `51,137`
 
-**Size (in bytes):** `57,200`
+**Size (in bytes):** `59,704`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1431,6 +1443,26 @@ The current planned usage for these datasets is source code automation and assis
 - [ ] No other changes in version 61
 
 </details> <!-- V61 !-->
+
+<details><summary><p lang="en"><b>Version 62 (2023, Thursday, July 13th at 6:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Very late update, I had a 6 day pause due to difficulties transitioning my work from a Dell XPS 13 back to my System76 Pangolin. Today, I finally got caught back up on this project, and set a precedent that this work is still possible for myself. I feel bad for missing 5 days of consecutive work. Luckily, it is really easy to get caught back up on this project compared to others. Consecutive days: 1_
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 12 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Added the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 62
+- [ ] No other changes in version 62
+
+</details> <!-- V62 !-->
 
 </details> <!-- End of file history !-->
 
