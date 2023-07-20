@@ -17,7 +17,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Saturday, May 6th, there are `88` linguistic datasets, with many more planned in the coming months (although a temporary pause started on 2023, Saturday, May 6th) They include:
+As of 2023, Thursday, July 20th, there are `90` linguistic datasets, with many more planned in the coming months (although a temporary pause started on 2023, Saturday, May 6th) They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -110,6 +110,8 @@ As of 2023, Saturday, May 6th, there are `88` linguistic datasets, with many mor
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Tagalog`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tagalog/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Somali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Somali/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Czech`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Czech/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Sámi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sami/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Lushootseed`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lushootseed/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -142,9 +144,9 @@ The current planned usage for these datasets is machine translation. This won't 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `37 (2023, Saturday, May 6th at 7:24 pm PST)`
+**File version:** `38 (2023, Thursday, July 20th at 12:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,921`
+**Line count (including blank lines and compiler line):** `0,943`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -906,6 +908,26 @@ The current planned usage for these datasets is machine translation. This won't 
 - [ ] No other changes in version 37
 
 </details> <!-- V37 !-->
+
+<details><summary><p lang="en"><b>Version 38 (2023, Thursday, July 20th at 12:42 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Resuming after a long pause from new entries, worked with programming languages for a couple months. I will be back to doing this for a while._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 38
+- [ ] No other changes in version 38
+
+</details> <!-- V38 !-->
 
 </details> <!-- End of file history !-->
 
