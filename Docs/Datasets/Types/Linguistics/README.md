@@ -17,7 +17,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Friday, July 21st, there are `92` linguistic datasets, with many more planned in the coming months (although a temporary pause started on 2023, Saturday, May 6th) They include:
+As of 2023, Saturday, July 22nd, there are `94` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -114,6 +114,8 @@ As of 2023, Friday, July 21st, there are `92` linguistic datasets, with many mor
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Lushootseed`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lushootseed/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Amharic`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Amharic/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Burmese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Burmese/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Lingala`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Lingala/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Nepali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Nepali/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -146,9 +148,9 @@ The current planned usage for these datasets is machine translation. This won't 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `39 (2023, Friday, July 21st at 06:07 pm PST)`
+**File version:** `40 (2023, Saturday, July 22nd at 04:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,965`
+**Line count (including blank lines and compiler line):** `0,987`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -950,6 +952,26 @@ The current planned usage for these datasets is machine translation. This won't 
 - [ ] No other changes in version 39
 
 </details> <!-- V39 !-->
+
+<details><summary><p lang="en"><b>Version 40 (2023, Saturday, July 22nd at 04:52 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing with new entries for a third consecutive day. I will then be taking a break of at least 5 days, starting tomorrow._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 40
+- [ ] No other changes in version 40
+
+</details> <!-- V40 !-->
 
 </details> <!-- End of file history !-->
 
