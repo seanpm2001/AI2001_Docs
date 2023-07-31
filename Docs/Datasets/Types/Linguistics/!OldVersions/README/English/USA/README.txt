@@ -15,9 +15,15 @@
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
+<!--
+| 🎊️ | Milestone (2023, Monday, June 31st) |
+|---|---|
+| 💯 | As of 2023, Monday, June 31st, there is planned support for 100 different spoken languages within the AI2001 toolchain. |
+!-->
+
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Sunday, July 30th, there are `98` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Monday, July 31st, there are `98` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -39,9 +45,9 @@ As of 2023, Sunday, July 30th, there are `98` linguistic datasets, with many mor
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Hindi`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindi/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Portuguese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Portuguese/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Romanian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Romanian/)
-- - [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijam/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Azerbaijan`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Azerbaijan/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Traditional)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Traditional/)
-- - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplifid/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Chinese (Simplified)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Chinese-Simplified/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Korean (South)`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Korean-South/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Thai`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Thai/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Telugu`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Telugu/)
@@ -120,6 +126,8 @@ As of 2023, Sunday, July 30th, there are `98` linguistic datasets, with many mor
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Konkani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Konkani/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Maithili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Maithili/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Malayalam`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Malayalam/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Hindustani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindustani/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Meitei`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Meitei/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -160,27 +168,152 @@ Some of the planned Linguistic dataset sources include:
 
 There are plans to support all language families, starting with major ones, and the most threatened ones. THis means that there will be support for over 8,570 languages, including Pidgin languages, extinct languages, ancient/classical languages, dialects, and sign languages.
 
-This is a very long term goal. The current documented language families include:
+This is a very long term goal that will require a lot of community work. The current documented language families include:
 
+<details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
+
+- Afro-Asiatic languages
+- - Cushitic languages
+- - - Lowland East Cushitic languages
+- - - - Macro-Somali languages
+- - - - - Somali languages  
+- - - - - - Somali ()
+- - - - Saho–Afar languages
+- - - - - Afar ()
+- - Semitic languages
+- - - West Semitic languages
+- - - - Central Semitic languages
+- - - - - Arabic ()
+- - - - - Northwest Semitic languages
+- - - - - - Canaanite languages
+- - - - - - - Hebrew ()      
+- - - - South Semitic languages
+- - - - - Ethiopic languages
+- - - - - - South Ethiopic languages
+- - - - - - - Transversal South Ethiopic languages
+- - - - - - - - Amharic–Argobba
+- - - - - - - - - Amharic () 
+- Austroasiatic languages
+- - Vietic languages
+- - - Viet–Muong languages
+- - - - Vietnamese ()
+- Austronesian languages
+- - Malayo-Polynesian languages
+- - - Javenese ()
+- - - Malayic languages
+- - - - Malay (coming soon)
+- - - - - Indonesian ()
+- Constructed languages
+- - International auxiliary language
+- - - A posteriori language
+- - - - Esperanto ()         
 - Dravidian languages
+- - South Central languages
+- - - Telugu ()
+- - Southern languages
+- - - Tamil–Kannada languages
+- - - - Tamil–Kodagu languages
+- - - - - Tamil–Malayalam languages
+- - - - - - Tamil languages
+- - - - - - - Tamil ()
 - - Southern Dravidian languages
 - - - Tamil-Kannada languages
 - - - - Tamil-Kodagu languages
 - - - - - Malayalam ()
+- Eskimo–Aleut languages
+- - Eskimo languages
+- - - Inuit languages
+- - - - Greenlandic ()
 - Indo-European languages
-- - Indo-Iranian
-- - - Indo-Aryan
+- - Armenian ()
+- - Balto-Slavic languages
+- - - Baltic languages
+- - - - Eastern Baltic languages
+- - - - - Latvian ()
+- - - - - Lithuanian ()
+- - - Slavic languages
+- - - - East Slavic languages
+- - - - - Belarusian ()
+- - - - - Russian ()
+- - - - - Rusyn (coming soon)
+- - - - - Ruthenian ()
+- - - - - Ukrainian ()
+- - - - South Slavic languages
+- - - - - Eastern South Slavic languages
+- - - - - - Bulgarian ()
+- - - - West Slavic languages
+- - - - - Czech–Slovak languages
+- - - - - - Czech ()
+- - - - - Lechitic languages
+- - - - - - Polish ()
+- - Celtic languages
+- - - Insular Celtic languages
+- - - - Brittonic languages
+- - - - - Western Brittonic languages
+- - - - - - Welsh ()
+- - - - Goidelic languages
+- - - - - Irish ()
+- - Graeco-Phrygian languages
+- - - Hellenic languages
+- - - - Greek ()
+- - Indo-Iranian languages
+- - - Indo-Aryan languages
+- - - - Central Zone languages
+- - - - - Western Hindi languages
+- - - - - - Hindustani ()
+- - - - - - - Hindi ()
+- - - - - - - Urdu ()
 - - - - Dardic languages
 - - - - - Kashmiri ()
-- - - - Eastern
+- - - - Eastern languages
+- - - - - Bengali–Assamese languages
+- - - - - - Bengali ()
 - - - - - Bihari languages
 - - - - - - Maithili ()
+- - - - Northern Zone languages
+- - - - - Eastern Pahari languages
+- - - - - - Nepali ()
+- - - - Northwestern languages
+- - - - - Punjabi languages
+- - - - - - Punjabi ()
+- - - - - Sindhic languages
+- - - - - - Sindhi ()
+- - - - Southern Indo-Aryan languages
+- - - - - Marathi-Konkani languages
+- - - - - - Marathi ()
 - - - - Southern Zone languages
 - - - - - Marathi–Konkani languages
 - - - - - - Konkani ()
+- - - Western Iranian languages
+- - - - Southwestern Iranian languages
+- - - - - Persian ()
+- - - - - - Tajik ()(
+- - Italic languages
+- - - Latino-Faliscan languages
+- - - - Latin ()
+- - - - Romance languages
+- - - - - Italo-Western languages
+- - - - - - Eastern Romance languages
+- - - - - - - Daco-Romance languages
+- - - - - - - - Romanian ()
+- - - - - - - Italo-Dalmatian languages
+- - - - - - - - Corsican ()
+- - - - - - - - Italian ()
+- - - - - - Western Romance languages
+- - - - - - - Gallo-Romance languages
+- - - - - - - - Oïl languages
+- - - - - - - - - French ()
+- - - - - - - Ibero-Romance languages
+- - - - - - - - - West Iberian languages
+- - - - - - - - - - Castilian (coming soon)
+- - - - - - - - - - - Spanish ()
+- - - - - - - - - - Galician-Portuguese
+- - - - - - - - - - - Portuguese ()
+- - - - - - - - - Occitano-Romance languages
+- - - - - - - - - - Catalan ()
 - - Germanic languages
 - - - North Germanic languages
-- - - - Icelandic ()
+- - - - Icelandic (coming soon)
 - - - - Faroese (coming soon)
 - - - - Norwegian ()
 - - - - Danish ()
@@ -189,24 +322,204 @@ This is a very long term goal. The current documented language families include:
 - - - - English ()
 - - - - Dutch ()
 - - - - Frisian (Coming soon)
+- - - - German ()
 - - - - NULL
 - - - Yiddish () (not yet classified)
 - - - Afrikaans () (not yet classified)
 - - - Luxembourgish () (not yet classified)
+- Japonic languages
+- - Japanese ()
+- Kra–Dai languages
+- - Tai languages
+- - - Southwestern Tai languages
+- - - - Chiang Saen languages
+- - - - - Sukhothai languages
+- - - - - - Thai ()
+- - - - Lao–Phutai languages
+- - - - - Lao ()
+- Koreanic languages
+- - Korean (South) ()
+- - Korean (North) ()
 - Mongolian languages
 - - Mongolian (Classic) () (not yet classified)
 - - Mongolian (Cyrillic) () (not yet classified)
+- Myanmar language (coming soon)
+- - Lolo-Burmese languages
+- - - Old Burmese languages
+- - - - Burmese ()
+- Niger–Congo languages
+- - Atlantic–Congo languages
+- - - Volta-Congo languages
+- - - - Benue–Congo languages
+- - - - - Bantoid languages
+- - - - - - Southern Bantoid languages
+- - - - - - - Bantu languages
+- - - - - - - - Southern Bantu languages
+- - - - - - - - - Nguni-Tsonga languages
+- - - - - - - - - - Nguni languages
+- - - - - - - - - - - Zunda languages
+- - - - - - - - - - - - Xhosa ()
+- - - - - - - - - - - - Zulu ()
+- - - - - - - - Northeast Bantu
+- - - - - - - - - Bantu languages
+- - - - - - - - - - Northeast Coast Bantu languages
+- - - - - - - - - - - Sabaki languages
+- - - - - - - - - - - - Swahili ()
+- - - - Volta–Niger languages
+- - - - - Igboid languages
+- - - - - - Nuclear Igboid languages
+- - - - - - - Igbo ()
+- - - - - YEAI languages
+- - - - - - Yoruboid languages
+- - - - - - - Edekiri languages
+- - - - - - - - Yoruba ()
+- - - Benue–Congo languages
+- - - - Southern Bantoid languages
+- - - - - Bantu (Zone C) languages
+- - - - - - Bangi–Ntomba (C.30) languages
+- - - - - - - Bangi–Moi languages
+- - - - - - - - Bangi languages
+- - - - - - - - - Lingala ()
+- Northeast Caucasian languages
+- - Nakh languages
+- - - Vainakh languages
+- - - - Chechen ()
 - Sino-Tibetan languages
-- - Chinese (Simplified) () (not yet classified)
-- - Chinese (Traditional) () (not yet classified)
+- - Sinitic languages
+- - - Chinese (Simplified) () (not yet classified)
+- - - Chinese (Traditional) () (not yet classified)
+- - Tibeto-Burman languages
+- - - - Central Tibeto-Burman languages
+- - - - - Kuki-Chin-Naga
+- - - - - - Meitei ()
 - Turkic languages
-- - Turkish (not yet classified) ()
+- - Common Turkic languages
+- - - Karluk languages
+- - - - Uzbek ()
+- - - - Uyghur ()
+- - - Kipchak languages
+- - - - Kipchak–Bulgar languages
+- - - - - Tatar ()
+- - - Oghuz languages
+- - - - Western Oghuz languages
+- - - - - Azerbaijani ()
+- - - - - Turkish ()
+- Uralic languages
+- - Finno-Ugric languages
+- - - Finnic languages
+- - - - Northern Finnic languages
+- - - - - Finnish ()
+- - - Ugric languages
+- - - - Hungarian ()
 
-> I lost 12 languages in a computer crash upon updating this file, nearly half an hour of work. I will just go with the plan of creating 5, 10, 15, or 20 per day until I am caught back up, along with the addition of new entries.
+</details>
 
-> This listing includes `018` out of `098` languages (`18.36%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, July 30th. It is currently missing `080` languages.
+<!-- Progress
+English ✅️
+Spanish ✅️
+French ✅️
+German ✅️
+Japanese ✅️
+Ukrainian ✅️
+Latin ✅️
+Greek ✅️
+Arabic ✅️
+Hebrew ✅️
+Russian ✅️
+Urdu ✅️
+Hindi ✅️
+Portuguese ✅️
+Romanian ✅️
+Azerbaijan ✅️
+Chinese (Traditional) ✅️
+Chinese (Simplified) ✅️
+Korean (South) ✅️
+Thai ✅️
+Telugu ✅️
+Sindhi ✅️
+Berber ❓️ Difficulties (not a single language)
+Sanskrit ⌛️ On hold
+Cuneiform ⌛️ On hold
+Ruthenian ✅️
+Zulu ✅️
+Afrikaans ✅️
+Hungarian ✅️
+Javanese ✅️
+Laos ✅️
+Ethiopian ❓️ Difficulties (not a single language)
+Kurdish ❓️ Difficulties (not a single language)
+Turkish ✅️
+Yiddish ✅️
+Yoruba ✅️
+Afar ✅️
+Bulgarian ✅️
+Belarusian ✅️
+Korean (North) ✅️
+Greenlandic ✅️
+Ancient Egyptian ⌛️ On hold
+Pashto ⌛️ On hold
+Punjabi ✅️
+Welsh ✅️
+Irish ✅️
+Scottish ❓️ Difficulties (not a single language)
+Dutch ✅️
+Swedish ✅️
+Finnish ✅️
+Norwegian ✅️
+Danish ✅️
+Italian ✅️
+Bosnian ⌛️ On hold
+Mongolian (Cyrillic) ✅️
+Mongolian (Classic) ✅️
+Uzbek ✅️
+Uyghur ✅️
+Filipino ⌛️ On hold
+Xhosa ✅️
+Tajik ✅️
+Chechen ✅️
+Tatar ✅️
+Polish ✅️
+Latvian ✅️
+Lithuanian ✅️
+Igbo ✅️
+Catalan ✅️
+Corsican ✅️
+Cornish ⌛️ On hold
+Persian ✅️
+Akkadian ⌛️ On hold
+Swahili ✅️
+Sundanese ⌛️ On hold
+Esperanto ✅️
+Luxembourgish ✅️
+Walloon ⌛️ On hold
+Armenian ✅️
+Bengali ✅️
+Indonesian ✅️
+Marathi ✅️
+Tamil ✅️
+Vietnamese ✅️
+Tagalog ⌛️ On hold
+Somali ✅️
+Czech ✅️
+Sámi ⌛️ On hold
+Lushootseed ⌛️ On hold
+Amharic ✅️
+Burmese ❓️ Difficulties (not a single language)
+Lingala ✅️
+Nepali ✅️
+Kashmiri ✅️
+Konkani ✅️
+Maithili ✅️
+Malayalam ✅️
+Meitei ✅️
+Hindustani ✅️
+!-->
 
-> **()** empty brackets indicate that dialects have not yet been determined.
+> I lost 12 languages in a computer crash upon updating this file on day 1, nearly half an hour of work. I will just go with the plan of creating 5, 10, 15, or 20 per day until I am caught back up, along with the addition of new entries. The next day, I got it all back, and went way above my personal limit, adding 62 languages to the list, and leaving 18 for another time.
+
+> This listing includes `080` out of `098` languages (`81.63%`) of the AI2001 linguistics toolchain, as of 2023, Monday, July 31st. It is currently missing `018` languages.
+
+> **()** _empty brackets_ indicate that dialects have not yet been determined.
 
 > **not yet classified** means that they are not/may not be properly placed in the tree, and may need to be added to a subdivision category.
 
@@ -214,9 +527,9 @@ This list is highly incomplete right now.
 
 </details> <!-- End of language families dropdown !-->
 
-***
-
+<!--
 **🌱️ This [`README.md`](/Docs/Datasets/Types/Linguistics/README.md) file is a stub and needs significant expansion.**
+!-->
 
 ***
 
@@ -226,9 +539,9 @@ This list is highly incomplete right now.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `43 (2023, Sunday, July 30th at 08:05 pm PST)`
+**File version:** `44 (2023, Monday, July 31st at 04:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,126`
+**Line count (including blank lines and compiler line):** `1,462`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1111,6 +1424,29 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 43
 
 </details> <!-- V43 !-->
+
+<details><summary><p lang="en"><b>Version 44 (2023, Monday, July 31st at 04:26 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a second consecutive day, with massive structural changes._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `language families` section
+- - [x] Significant update, adding in notes, and an additional 62 languages
+- - [x] Turned the tree into a dropdown section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 44
+- [ ] No other changes in version 44
+
+</details> <!-- V44 !-->
 
 </details> <!-- End of file history !-->
 
