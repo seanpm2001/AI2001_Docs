@@ -17,7 +17,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Saturday, July 29th, there are `96` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Sunday, July 30th, there are `98` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -118,6 +118,8 @@ As of 2023, Saturday, July 29th, there are `96` linguistic datasets, with many m
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Nepali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Nepali/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Kashmiri`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kashmiri/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Konkani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Konkani/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Maithili`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Maithili/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Malayalam`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Malayalam/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -140,6 +142,78 @@ The current planned usage for these datasets is machine translation. This won't 
 
 ***
 
+#### Dataset sources
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+Some of the planned Linguistic dataset sources include:
+
+- Glottalog
+
+</details> <!-- End of dataset sources dropdown !-->
+
+***
+
+#### Language families
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+There are plans to support all language families, starting with major ones, and the most threatened ones. THis means that there will be support for over 8,570 languages, including Pidgin languages, extinct languages, ancient/classical languages, dialects, and sign languages.
+
+This is a very long term goal. The current documented language families include:
+
+- Dravidian languages
+- - Southern Dravidian languages
+- - - Tamil-Kannada languages
+- - - - Tamil-Kodagu languages
+- - - - - Malayalam ()
+- Indo-European languages
+- - Indo-Iranian
+- - - Indo-Aryan
+- - - - Dardic languages
+- - - - - Kashmiri ()
+- - - - Eastern
+- - - - - Bihari languages
+- - - - - - Maithili ()
+- - - - Southern Zone languages
+- - - - - Marathi–Konkani languages
+- - - - - - Konkani ()
+- - Germanic languages
+- - - North Germanic languages
+- - - - Icelandic ()
+- - - - Faroese (coming soon)
+- - - - Norwegian ()
+- - - - Danish ()
+- - - - Swedish ()
+- - - West Germanic languages
+- - - - English ()
+- - - - Dutch ()
+- - - - Frisian (Coming soon)
+- - - - NULL
+- - - Yiddish () (not yet classified)
+- - - Afrikaans () (not yet classified)
+- - - Luxembourgish () (not yet classified)
+- Mongolian languages
+- - Mongolian (Classic) () (not yet classified)
+- - Mongolian (Cyrillic) () (not yet classified)
+- Sino-Tibetan languages
+- - Chinese (Simplified) () (not yet classified)
+- - Chinese (Traditional) () (not yet classified)
+- Turkic languages
+- - Turkish (not yet classified) ()
+
+> This listing includes `018` out of `098` languages (`18.36%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, July 30th. It is currently missing `080` languages.
+
+> **()** empty brackets indicate that dialects have not yet been determined.
+
+> **not yet classified** means that they are not/may not be properly placed in the tree, and may need to be added to a subdivision category.
+
+This list is highly incomplete right now.
+
+</details> <!-- End of language families dropdown !-->
+
+***
+
 **🌱️ This [`README.md`](/Docs/Datasets/Types/Linguistics/README.md) file is a stub and needs significant expansion.**
 
 ***
@@ -150,9 +224,9 @@ The current planned usage for these datasets is machine translation. This won't 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `41 (2023, Saturday, July 29th at 07:05 pm PST)`
+**File version:** `42 (2023, Sunday, July 30th at 06:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,009`
+**Line count (including blank lines and compiler line):** `1,105`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -994,6 +1068,28 @@ The current planned usage for these datasets is machine translation. This won't 
 - [ ] No other changes in version 41
 
 </details> <!-- V41 !-->
+
+<details><summary><p lang="en"><b>Version 42 (2023, Sunday, July 30th at 06:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a second consecutive day_
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Added the `dataset sources` section
+- [x] Added the `language families` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 42
+- [ ] No other changes in version 42
+
+</details> <!-- V42 !-->
 
 </details> <!-- End of file history !-->
 
