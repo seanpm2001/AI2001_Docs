@@ -202,6 +202,8 @@ This is a very long term goal. The current documented language families include:
 - Turkic languages
 - - Turkish (not yet classified) ()
 
+> I lost 12 languages in a computer crash upon updating this file, nearly half an hour of work. I will just go with the plan of creating 5, 10, 15, or 20 per day until I am caught back up, along with the addition of new entries.
+
 > This listing includes `018` out of `098` languages (`18.36%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, July 30th. It is currently missing `080` languages.
 
 > **()** empty brackets indicate that dialects have not yet been determined.
@@ -224,9 +226,9 @@ This list is highly incomplete right now.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2023, Sunday, July 30th at 06:45 pm PST)`
+**File version:** `43 (2023, Sunday, July 30th at 08:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,105`
+**Line count (including blank lines and compiler line):** `1,126`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1090,6 +1092,25 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 42
 
 </details> <!-- V42 !-->
+
+<details><summary><p lang="en"><b>Version 43 (2023, Sunday, July 30th at 08:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Minor update, was going to be a major update, but my computer froze up, and I lost my notes (as I had to do a hard power cycle) luckily there wasn't a kernel panic this time._
+
+> Changes:
+
+- [x] Updated the `language families` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 43
+- [ ] No other changes in version 43
+
+</details> <!-- V43 !-->
 
 </details> <!-- End of file history !-->
 
