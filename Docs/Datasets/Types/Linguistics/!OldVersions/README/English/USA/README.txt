@@ -15,15 +15,13 @@
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-<!--
-| 🎊️ | Milestone (2023, Monday, June 31st) |
+| 🎊️ | Milestone (2023, Tuesday, August 1st) |
 |---|---|
-| 💯 | As of 2023, Monday, June 31st, there is planned support for 100 different spoken languages within the AI2001 toolchain. |
-!-->
+| 💯 | As of 2023, Tuesday, August 1st, there is planned support for 100 different spoken languages within the AI2001 toolchain. |
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Monday, July 31st, there are `98` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Tuesday, August 1st, there are `100` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -128,6 +126,8 @@ As of 2023, Monday, July 31st, there are `98` linguistic datasets, with many mor
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Malayalam`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Malayalam/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Hindustani`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hindustani/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Meitei`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Meitei/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Santali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Santali/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Fula`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Fula/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -170,9 +170,12 @@ There are plans to support all language families, starting with major ones, and 
 
 This is a very long term goal that will require a lot of community work. The current documented language families include:
 
+Total languages (2023, Tuesday, August 1st) `100` / `~8,570` (`001.66%`)
+
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
 - Afro-Asiatic languages
+- - Egyptian/Ancient Egyptian ()
 - - Cushitic languages
 - - - Lowland East Cushitic languages
 - - - - Macro-Somali languages
@@ -181,19 +184,26 @@ This is a very long term goal that will require a lot of community work. The cur
 - - - - Saho–Afar languages
 - - - - - Afar ()
 - - Semitic languages
+- - - East Semitic languages
+- - - - Akkadian ()
 - - - West Semitic languages
 - - - - Central Semitic languages
 - - - - - Arabic ()
 - - - - - Northwest Semitic languages
 - - - - - - Canaanite languages
 - - - - - - - Hebrew ()      
-- - - - South Semitic languages
-- - - - - Ethiopic languages
-- - - - - - South Ethiopic languages
-- - - - - - - Transversal South Ethiopic languages
-- - - - - - - - Amharic–Argobba
-- - - - - - - - - Amharic () 
+- - - South Semitic languages
+- - - - Ethiopic languages
+- - - - - South Ethiopic languages
+- - - - - - Transversal South Ethiopic languages
+- - - - - - - Amharic–Argobba
+- - - - - - - - Amharic () 
 - Austroasiatic languages
+- - Munda languages
+- - - East languages
+- - - - Kherwarian languages
+- - - - - Santal languages
+- - - - - - Santali ()
 - - Vietic languages
 - - - Viet–Muong languages
 - - - - Vietnamese ()
@@ -203,6 +213,14 @@ This is a very long term goal that will require a lot of community work. The cur
 - - - Malayic languages
 - - - - Malay (coming soon)
 - - - - - Indonesian ()
+- - - Philippine
+- - - - Greater Central Philippine
+- - - - - Central Philippine
+- - - - - - Tagalog ()
+- - - - - - - Filipino ()
+- - - Malayo-Sumbawan / Greater North Borneo languages
+- - - - Sundanese-Baduy languages
+- - - - - Sundanese ()
 - Constructed languages
 - - International auxiliary language
 - - - A posteriori language
@@ -241,6 +259,12 @@ This is a very long term goal that will require a lot of community work. The cur
 - - - - South Slavic languages
 - - - - - Eastern South Slavic languages
 - - - - - - Bulgarian ()
+- - - - - Western languages
+- - - - - - Serbo-Croatian languages
+- - - - - - - Shtokavian languages
+- - - - - - - - New Shtokavian
+- - - - - - - - - Eastern Herzegovinian languages
+- - - - - - - - - - Bosnian ()
 - - - - West Slavic languages
 - - - - - Czech–Slovak languages
 - - - - - - Czech ()
@@ -249,6 +273,8 @@ This is a very long term goal that will require a lot of community work. The cur
 - - Celtic languages
 - - - Insular Celtic languages
 - - - - Brittonic languages
+- - - - - Southern Brittonic languages
+- - - - - - Cornish ()
 - - - - - Western Brittonic languages
 - - - - - - Welsh ()
 - - - - Goidelic languages
@@ -257,6 +283,8 @@ This is a very long term goal that will require a lot of community work. The cur
 - - - Hellenic languages
 - - - - Greek ()
 - - Indo-Iranian languages
+- - - Eastern Iranian language
+- - - - Pashto ()
 - - - Indo-Aryan languages
 - - - - Central Zone languages
 - - - - - Western Hindi languages
@@ -278,6 +306,7 @@ This is a very long term goal that will require a lot of community work. The cur
 - - - - - - Punjabi ()
 - - - - - Sindhic languages
 - - - - - - Sindhi ()
+- - - - Sanskrit ()
 - - - - Southern Indo-Aryan languages
 - - - - - Marathi-Konkani languages
 - - - - - - Marathi ()
@@ -303,6 +332,7 @@ This is a very long term goal that will require a lot of community work. The cur
 - - - - - - - Gallo-Romance languages
 - - - - - - - - Oïl languages
 - - - - - - - - - French ()
+- - - - - - - - - Walloon ()
 - - - - - - - Ibero-Romance languages
 - - - - - - - - - West Iberian languages
 - - - - - - - - - - Castilian (coming soon)
@@ -349,6 +379,10 @@ This is a very long term goal that will require a lot of community work. The cur
 - - - - Burmese ()
 - Niger–Congo languages
 - - Atlantic–Congo languages
+- - - Atlantic languages
+- - - - Senegambian languages
+- - - - - Fula–Serer languages
+- - - - - - Fulani ()
 - - - Volta-Congo languages
 - - - - Benue–Congo languages
 - - - - - Bantoid languages
@@ -384,6 +418,10 @@ This is a very long term goal that will require a lot of community work. The cur
 - - Nakh languages
 - - - Vainakh languages
 - - - - Chechen ()
+- Salishan languages
+- - Coast Salish languages
+- - - Central languages
+- - - - Lushootseed ()
 - Sino-Tibetan languages
 - - Sinitic languages
 - - - Chinese (Simplified) () (not yet classified)
@@ -438,8 +476,8 @@ Thai ✅️
 Telugu ✅️
 Sindhi ✅️
 Berber ❓️ Difficulties (not a single language)
-Sanskrit ⌛️ On hold
-Cuneiform ⌛️ On hold
+Sanskrit  ✅️
+Cuneiform ❓️ Difficulties (separate into scripts)
 Ruthenian ✅️
 Zulu ✅️
 Afrikaans ✅️
@@ -456,8 +494,8 @@ Bulgarian ✅️
 Belarusian ✅️
 Korean (North) ✅️
 Greenlandic ✅️
-Ancient Egyptian ⌛️ On hold
-Pashto ⌛️ On hold
+Ancient Egyptian ✅️
+Pashto ✅️
 Punjabi ✅️
 Welsh ✅️
 Irish ✅️
@@ -468,12 +506,12 @@ Finnish ✅️
 Norwegian ✅️
 Danish ✅️
 Italian ✅️
-Bosnian ⌛️ On hold
+Bosnian ✅️
 Mongolian (Cyrillic) ✅️
 Mongolian (Classic) ✅️
 Uzbek ✅️
 Uyghur ✅️
-Filipino ⌛️ On hold
+Filipino ✅️
 Xhosa ✅️
 Tajik ✅️
 Chechen ✅️
@@ -484,25 +522,25 @@ Lithuanian ✅️
 Igbo ✅️
 Catalan ✅️
 Corsican ✅️
-Cornish ⌛️ On hold
+Cornish ✅️
 Persian ✅️
-Akkadian ⌛️ On hold
+Akkadian ✅️
 Swahili ✅️
-Sundanese ⌛️ On hold
+Sundanese ✅️
 Esperanto ✅️
 Luxembourgish ✅️
-Walloon ⌛️ On hold
+Walloon ✅️
 Armenian ✅️
 Bengali ✅️
 Indonesian ✅️
 Marathi ✅️
 Tamil ✅️
 Vietnamese ✅️
-Tagalog ⌛️ On hold
+Tagalog ✅️
 Somali ✅️
 Czech ✅️
-Sámi ⌛️ On hold
-Lushootseed ⌛️ On hold
+Sámi ❓️ Difficulties (not a single language)
+Lushootseed ✅️
 Amharic ✅️
 Burmese ❓️ Difficulties (not a single language)
 Lingala ✅️
@@ -513,11 +551,15 @@ Maithili ✅️
 Malayalam ✅️
 Meitei ✅️
 Hindustani ✅️
+Fula ✅️
+Santali ✅️
 !-->
 
+<!--
 > I lost 12 languages in a computer crash upon updating this file on day 1, nearly half an hour of work. I will just go with the plan of creating 5, 10, 15, or 20 per day until I am caught back up, along with the addition of new entries. The next day, I got it all back, and went way above my personal limit, adding 62 languages to the list, and leaving 18 for another time.
+!-->
 
-> This listing includes `080` out of `098` languages (`81.63%`) of the AI2001 linguistics toolchain, as of 2023, Monday, July 31st. It is currently missing `018` languages.
+> This listing includes `093` out of `100` languages (`93.00%`) of the AI2001 linguistics toolchain, as of 2023, Tuesday, August 1st. It is currently missing `007` languages.
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined.
 
@@ -539,9 +581,9 @@ This list is highly incomplete right now.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `44 (2023, Monday, July 31st at 04:26 pm PST)`
+**File version:** `45 (2023, Tuesday, August 1st at 06:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,462`
+**Line count (including blank lines and compiler line):** `1,527`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1447,6 +1489,29 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 44
 
 </details> <!-- V44 !-->
+
+<details><summary><p lang="en"><b>Version 45 (2023, Tuesday, August 1st at 06:29 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a second consecutive day, with massive structural changes._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `language families` section
+- - [x] Documented 31 more languages into the language family tree
+- - [x] Updated counters to reflect changes
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 45
+- [ ] No other changes in version 45
+
+</details> <!-- V45 !-->
 
 </details> <!-- End of file history !-->
 
