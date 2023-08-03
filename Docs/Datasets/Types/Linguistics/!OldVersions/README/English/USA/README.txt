@@ -21,7 +21,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Tuesday, August 1st, there are `100` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Wednesday, August 2nd, there are `102` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -128,6 +128,8 @@ As of 2023, Tuesday, August 1st, there are `100` linguistic datasets, with many 
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Meitei`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Meitei/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Santali`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Santali/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Fula`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Fula/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Wolof`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Wolof/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Bambara`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bambara/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -170,7 +172,7 @@ There are plans to support all language families, starting with major ones, and 
 
 This is a very long term goal that will require a lot of community work. The current documented language families include:
 
-Total languages (2023, Tuesday, August 1st) `100` / `~8,570` (`001.66%`)
+Total languages (2023, Wednesday, August 2nd) `102` / `~8,570` (`001.19%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -285,6 +287,10 @@ Total languages (2023, Tuesday, August 1st) `100` / `~8,570` (`001.66%`)
 - - Indo-Iranian languages
 - - - Eastern Iranian language
 - - - - Pashto ()
+- - - - Iranian languages
+- - - - - Western languages
+- - - - - - Northwestern languages
+- - - - - - - Kurdish ()
 - - - Indo-Aryan languages
 - - - - Central Zone languages
 - - - - - Western Hindi languages
@@ -383,6 +389,8 @@ Total languages (2023, Tuesday, August 1st) `100` / `~8,570` (`001.66%`)
 - - - - Senegambian languages
 - - - - - Fula–Serer languages
 - - - - - - Fulani ()
+- - - - - Wolof–Nyun languages
+- - - - - - Wolof ()
 - - - Volta-Congo languages
 - - - - Benue–Congo languages
 - - - - - Bantoid languages
@@ -414,6 +422,12 @@ Total languages (2023, Tuesday, August 1st) `100` / `~8,570` (`001.66%`)
 - - - - - - - Bangi–Moi languages
 - - - - - - - - Bangi languages
 - - - - - - - - - Lingala ()
+- - Mande languages
+- - - Western Mande languages
+- - - - Manding languages
+- - - - - East Manding languages
+- - - - - - Bambara–Dyula languages
+- - - - - - - Bambara ()
 - Northeast Caucasian languages
 - - Nakh languages
 - - - Vainakh languages
@@ -452,6 +466,11 @@ Total languages (2023, Tuesday, August 1st) `100` / `~8,570` (`001.66%`)
 
 </details>
 
+**Problems:**
+
+- Scottish : Difficulties (do not know how to proceed, not a single language)
+- Sámi : Difficulties (do not know how to proceed, not a single language)
+
 <!-- Progress
 English ✅️
 Spanish ✅️
@@ -475,17 +494,17 @@ Korean (South) ✅️
 Thai ✅️
 Telugu ✅️
 Sindhi ✅️
-Berber ❓️ Difficulties (not a single language)
+Berber ☑️ (Writing system)
 Sanskrit  ✅️
-Cuneiform ❓️ Difficulties (separate into scripts)
+Cuneiform ☑️ (Writing system)
 Ruthenian ✅️
 Zulu ✅️
 Afrikaans ✅️
 Hungarian ✅️
 Javanese ✅️
 Laos ✅️
-Ethiopian ❓️ Difficulties (not a single language)
-Kurdish ❓️ Difficulties (not a single language)
+Ethiopian ☑️ (Writing system)
+Kurdish ✅️
 Turkish ✅️
 Yiddish ✅️
 Yoruba ✅️
@@ -499,7 +518,7 @@ Pashto ✅️
 Punjabi ✅️
 Welsh ✅️
 Irish ✅️
-Scottish ❓️ Difficulties (not a single language)
+Scottish ❓️ Difficulties (do not know how to proceed)
 Dutch ✅️
 Swedish ✅️
 Finnish ✅️
@@ -542,7 +561,7 @@ Czech ✅️
 Sámi ❓️ Difficulties (not a single language)
 Lushootseed ✅️
 Amharic ✅️
-Burmese ❓️ Difficulties (not a single language)
+Burmese ✅️
 Lingala ✅️
 Nepali ✅️
 Kashmiri ✅️
@@ -553,13 +572,60 @@ Meitei ✅️
 Hindustani ✅️
 Fula ✅️
 Santali ✅️
+Wolof ✅️
+Bambara ✅️
+!-->
+
+<details open><summary><p><b>Click/tap here to expand/collapse the writing system family tree</b></p></summary>
+
+- Proto-writing
+- - Cuneiform
+- - Egyptian hieroglyphs
+- - - Proto-Sinaitic alphabet
+- - - - Poenician alphabet
+- - - - - Greek alphabet
+- - - - - - Old Italic script
+- - - - - - - Old Latin
+- - - - - - - - Latin
+- - - - - Greek script augmented by Glagolitic
+- - - - - - Early Cyrillic script
+- - - - - - - Cyrillic script
+
+</details>
+
+<!-- Progress
+Arabic Script ⌛️ On hold
+Hebrew Script ⌛️ On hold
+Tifinagh script ⌛️ On hold
+> Berber ⌛️ On hold
+Canadian syllabic ⌛️ On hold
+Ethiopic ⌛️ On hold
+North Indic ⌛️ On hold
+South Indic ⌛️ On hold
+Thaana ⌛️ On hold
+Armenian alphabet ⌛️ On hold
+Cyrillic ✅️
+Georgian ⌛️ On hold
+Greek ⌛️ On hold
+Hangul ⌛️ On hold
+Latin ✅️
+Mongolian ⌛️ On hold
+Hanzi ⌛️ On hold
+Kana ⌛️ On hold
+Kanji ⌛️ On hold
+Braille ⌛️ On hold
+Unicode ⌛️ On hold
+Other scripts ⌛️ On hold
+Other alphabets ⌛️ On hold
+Other proto-writing entries ⌛️ On hold
+Other hieroglyphic entries ⌛️ On hold
 !-->
 
 <!--
 > I lost 12 languages in a computer crash upon updating this file on day 1, nearly half an hour of work. I will just go with the plan of creating 5, 10, 15, or 20 per day until I am caught back up, along with the addition of new entries. The next day, I got it all back, and went way above my personal limit, adding 62 languages to the list, and leaving 18 for another time.
 !-->
 
-> This listing includes `093` out of `100` languages (`93.00%`) of the AI2001 linguistics toolchain, as of 2023, Tuesday, August 1st. It is currently missing `007` languages.
+> This listing includes `100` out of `102` languages (`98.03%`) of the AI2001 linguistics toolchain, as of 2023, Tuesday, August 1st. It is currently missing `002` languages.
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined.
 
@@ -581,9 +647,17 @@ This list is highly incomplete right now.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `45 (2023, Tuesday, August 1st at 06:29 pm PST)`
+**File version:** `46 (2023, Wednesday, August 2nd at 07:33 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,527`
+**Line count (including blank lines and compiler line):** `1,632`
+
+**Word count:** `7,856`
+
+**Character count (with spaces):** `59,393`
+
+**Character count (without spaces):** `50,079`
+
+**Size (in bytes):** `59,964`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1512,6 +1586,37 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 45
 
 </details> <!-- V45 !-->
+
+<details><summary><p lang="en"><b>Version 46 (2023, Wednesday, August 2nd at 07:33 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a third consecutive day, with more structural changes._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `language families` section
+- - [x] Documented 7 more languages into the language family tree, excluded 2 as scripts
+- - [x] Updated counters to reflect changes
+- [x] Added the `Writing systems` section
+- - [x] Documented 2 writing scripts
+- - [x] Added counters
+- - [x] Added significant source code comments
+- [x] Updated the `file info` section
+- - [x] Added the word count
+- - [x] Added the character count (with spaces)
+- - [x] Added the character count (without spaces)
+- - [x] Added the byte count
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 46
+- [ ] No other changes in version 46
+
+</details> <!-- V46 !-->
 
 </details> <!-- End of file history !-->
 
