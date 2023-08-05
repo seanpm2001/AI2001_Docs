@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Wednesday, July 19th, there are `143` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Friday, August 4th, there are `145` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -168,6 +168,8 @@ As of 2023, Wednesday, July 19th, there are `143` source code datasets, with man
 - - [:octocat: `AI2001 Category: Source Code ;SC: ZAP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZAP/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: ZIL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ZIL/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Zeek`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Zeek/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Eagle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eagle/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Emacs Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Emacs-Lisp/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -187,7 +189,328 @@ The current planned usage for these datasets is source code automation and assis
 
 ***
 
+#### Language families
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I have Ssta language families for programming languages today. It was inspired by the way linguistics are organized by families.
+
+Total languages (2023, Friday, August 4th) `144` / `??` (`???.??%`)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
+
+**Problems with this list:**
+
+> There is no exact match for setting a language family. It went all over the place, and eventually settled to each language being its own family, which is not going to work in the long run.
+
+> A lot of languages are missing.
+
+**Notes**
+
+> This listing includes `033` out of `144` languages (`22.91%`) of the AI2001 linguistics toolchain, as of 2023, Friday, August 4th. It is currently missing `111` languages. I will try to add more daily, but it will take me at least 3 days, as I don't have enough time to do it all in 1-2 days.
+
+> **()** _empty brackets_ indicate that dialects have not yet been determined, or that this is a language and not a language grouping
+
+> **not yet classified** means that they are not/may not be properly placed in the tree, and may need to be added to a subdivision category. It also indicates that the language may not even be present in the AI2001 toolchain at the moment, which an alarmingly high number of important languages fall into this category.
+
+This list is highly incomplete right now.
+
+##### Main tree
+
+- High level programming languages
+- - Begriffsschrift (not yet documented)
+- - - Plankalkül programming language (not yet documented)
+- - - - ALGOL 58/68 programming languages (not yet documented)
+- - - - - Ada programming language ()
+- - - - - - C++ programming language ()
+- - - - - - Chapel programming language (not yet documented)
+- - - - - - D programming language ()
+- - - - - - Eiffel programming language ()
+- - - - - - Java programming language ()
+- - - - - - Nim programming language ()
+- - - - - - PLSQL programming language (not yet documented)
+- - - - - - PLpgSQL programming language (not yet documented)
+- - - - - - Python programming language ()
+- - - - - - Ruby programming language ()
+- - - - - - Seed7 programming language (not yet documented)
+- - - - - - SQL programming language (not yet documented)
+- - - - - - VHDL programming language ()
+- - - - - CPL programming language (not yet documented)
+- - - - - - BCPL language (not yet documented)
+- - - - - - - B programming language ()
+- - - - - - - - C programming language ()
+- - - - - - - - - AMPL programming language ()
+- - - - - - - - - AWK programming language ()
+- - - - - - - - - C++ programming language ()
+- - - - - - - - - C# programming language ()
+- - - - - - - - - D programming language ()
+- - - - - - - - - Dart programming language ()
+- - - - - - - - - E programming language ()
+- - - - - - - - - Google Go programming language ()
+- - - - - - - - - Hack programming language ()
+- - - - - - - - - HolyC programming language (not yet documented)
+- - - - - - - - - Java programming language ()
+- - - - - - - - - JavaScript programming language ()
+- - - - - - - - - Limbo programming language ()
+- - - - - - - - - nesC programming language (not yet documented)
+- - - - - - - - - Nemerle programming language ()
+- - - - - - - - - Nim programming language ()
+- - - - - - - - - Noop programming language (not yet documented)
+- - - - - - - - - Objective-C programming language ()
+- - - - - - - - - Perl programming language ()
+- - - - - - - - - PHP programming language ()
+- - - - - - - - - Python 2 programming language ()
+- - - - - - - - - - Groovy (not yet documented)
+- - - - - - - - - - Boo (not yet documented)
+- - - - - - - - - - Cobra (not yet documented)
+- - - - - - - - - - CoffeeScript (not yet documented)
+- - - - - - - - - - D ()
+- - - - - - - - - - F# ()
+- - - - - - - - - - GDScript ()
+- - - - - - - - - - Genie (not yet documented)
+- - - - - - - - - - Google Go ()
+- - - - - - - - - - JavaScript ()
+- - - - - - - - - - Julia (not yet documented)
+- - - - - - - - - - Mojo (not yet documented)
+- - - - - - - - - - Nim ()
+- - - - - - - - - - Ruby (not yet documented)
+- - - - - - - - - - Swift (not yet documented)
+- - - - - - - - - Python 3 programming language ()
+- - - - - - - - - - Groovy (not yet documented)
+- - - - - - - - - - Boo (not yet documented)
+- - - - - - - - - - Cobra (not yet documented)
+- - - - - - - - - - CoffeeScript (not yet documented)
+- - - - - - - - - - D ()
+- - - - - - - - - - F# ()
+- - - - - - - - - - GDScript ()
+- - - - - - - - - - Genie (not yet documented)
+- - - - - - - - - - Google Go ()
+- - - - - - - - - - JavaScript ()
+- - - - - - - - - - Julia (not yet documented)
+- - - - - - - - - - Mojo (not yet documented)
+- - - - - - - - - - Nim ()
+- - - - - - - - - - Ruby (not yet documented)
+- - - - - - - - - - Swift (not yet documented)
+- - - - - - - - - R programming language ()
+- - - - - - - - - Rust programming language ()
+- - - - - - - - - Seed7 programming language (not yet documented)
+- - - - - - - - - Squirrel programming language (not yet documented)
+- - - - - - - - - Swift programming language (not yet documented)
+- - - - - - - - - TypeScript programming language ()
+- - - - - - - - - Zig programming language ()
+- - - - - Java programming language ()
+- - - - - - C# programming language (not yet documented)
+- - - - - - Chapel programming language (not yet documented)
+- - - - - - Clojure programming language (not yet documented)
+- - - - - - Fantom programming language (not yet documented)
+- - - - - - Groovy programming language (not yet documented)
+- - - - - - Hack programming language ()
+- - - - - - Haxe programming language ()
+- - - - - - Kotlin programming language ()
+- - - - - - PHP programming language ()
+- - - - - - Python programming language ()
+- - - - - - Scala programming language ()
+- - - - - - Seed7 programming language (not yet documented)
+- - - - - - Vala programming language
+- - - - - - JavaScript programming language ()
+- - - - - - JavaScript++ programming language (not yet documented)
+
+##### Ownership tree
+
+- Organization/corporation/ownership programming language family tree
+- - Adobe programming languages
+- - - ActionScript
+- - Apple programming languages
+- - - AppleScript
+- - - Dylan
+- - - Metal
+- - - Objective-C
+- - - Objective-C++
+- - - Swift
+- - Facebook programming languages
+- - - Hack
+- - GNU/FSF programming languages
+- - - BASH (Shell)
+- - - Genie
+- - - Vala
+- - Google programming languages
+- - - Dart
+- - - Google Apps Script
+- - - Google Go
+- - - Jsonnet
+- - - Mojom
+- - - Noop
+- - Microsoft programming languages
+- - - .NET
+- - - - ASP.NET
+- - - - C#
+- - - - F#
+- - - - F*
+- - - - Q#
+- - - - VB.NET
+- - - Batchfile
+- - - Dafny
+- - - INI
+- - - IronPython
+- - - MS-DOS Style
+- - - PowerShell
+- - - TypeScript
+- - - VBScript
+- - - Windows Registry Entry
+- - - Other/unlisted
+
+</details>
+
+<!-- Progress
+ABAP
+ActionScript
+ALGOL
+AWK ✅️
+AngelScript
+ASP.NET
+ASP
+Astro
+Agda
+AMPL ✅️
+AppleScript
+Ada ✅️
+BrightScript
+BrighterScript
+B ✅️
+Brainfuck
+Bikeshed
+Batchfile
+C ✅️
+Clean
+CSharp
+CSS
+CSV
+Cadence
+C-Plus-Plus ✅️
+CSound
+CartoCSS
+CAML
+D ✅️
+Dafny
+Dart ✅️
+Desktop
+Diff
+Dhall
+DIGITAL-Command-Language
+E ✅️
+Erlang
+Eiffel ✅️
+EJS
+Epigram
+F-Sharp ✅️
+Fish
+Factor
+Fluent
+Fancy
+Fortran95
+GoogleGo ✅️
+Go-
+GDScript ✅️
+GLSL
+GAP
+Gherkin
+GSC
+Haskell
+HTML
+HTTP
+HaProxy
+Hy
+HyPhy
+Haxe ✅️
+Hack ✅️
+Inno-Setup
+INI
+Java ✅️
+JavaScript ✅️
+JSON
+J
+Jsonnet
+JetBrains-MPS
+Kotlin ✅️
+Lua
+Less
+Logos
+Lisp
+Limbo ✅️
+Lean
+M
+Macaulay2
+Motoko
+Mako
+Makefile
+Mathematica
+Monkey
+Monkey-C
+Max
+MAXScript
+Metal
+Markdown
+Nim ✅️
+Nemerle ✅️
+NSIS
+NetREXX
+Objective-C ✅️
+Objective-C-Plus-Plus
+Objective-J
+OCaml
+Octave
+Pascal
+Perl ✅️
+PHP ✅️
+Python3 ✅️
+Python2 ✅️
+Pod
+QML
+Q
+Q-Sharp
+R ✅️
+Red
+Raku
+Ragel
+RMarkdown
+Rust ✅️
+RenPy
+Reason
+ReScript
+RouterOS-Script
+Scala ✅️
+Svelte
+Shell
+Sage
+Slim
+TypeScript ✅️
+Tcl
+TOML
+TeX
+UnrealScript
+Uno
+URLL
+Vala ✅️
+VBScript
+VB.NET
+V
+VHDL ✅️
+WebAssembly
+Wren
+Windows-Registry-Entry
+YASnippet
+Zig ✅️
+ZenScript
+ZAP
+ZIL
+Zeek
+Eagle
+EmacsLisp
+!-->
+
+<!--
 **🌱️ This [`README.md`](/Docs/Datasets/Types/Source_Code/README.md) file is a major stub and needs significant expansion.**
+!-->
 
 ***
 
@@ -197,17 +520,17 @@ The current planned usage for these datasets is source code automation and assis
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `66 (2023, Wednesday, July 19th at 04:03 pm PST)`
+**File version:** `67 (2023, Friday, August 4th at 07:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,566`
+**Line count (including blank lines and compiler line):** `1,913`
 
-**Word count:** `9,486`
+**Word count:** `10,541`
 
-**Character count (including spaces):** `63,784`
+**Character count (including spaces):** `73,084`
 
-**Character count (excluding spaces):** `54,628`
+**Character count (excluding spaces):** `61,904`
 
-**Size (in bytes):** `63,797`
+**Size (in bytes):** `73,230`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1552,6 +1875,30 @@ The current planned usage for these datasets is source code automation and assis
 
 </details> <!-- V66 !-->
 
+<details><summary><p lang="en"><b>Version 67 (2023, Friday, August 4th at 07:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Coming back to AI2001 source code datasets again, after a decently sized hiatus. I took a day off yesterday, and with schedule changes from a couple weeks ago, there were 4 new AI2001 repositories for today, instead of 2 or 0. This was not due to my time off, my schedule was already pre-determined._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Added the programming language family tree
+- - [ ] Thought it was original, it was not
+- - [x] Added notes
+- - [x] Added 33 of 144 entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 67
+- [ ] No other changes in version 67
+
+</details> <!-- V67 !-->
+
 </details> <!-- End of file history !-->
 
 ***
@@ -1560,6 +1907,6 @@ The current planned usage for these datasets is source code automation and assis
 
 You have reached the bottom of this page.
 
-( [Back to top](#AI2001) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
+( [Back to top](#AI2001-Docs) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
 
 ***
