@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Friday, August 4th, there are `145` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Saturday, August 5th, there are `147` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -170,6 +170,8 @@ As of 2023, Friday, August 4th, there are `145` source code datasets, with many 
 - - [:octocat: `AI2001 Category: Source Code ;SC: Zeek`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Zeek/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Eagle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Eagle/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Emacs Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Emacs-Lisp/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ezhil`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ezhil/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: EBNF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EBNF/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -195,7 +197,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have Ssta language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Friday, August 4th) `144` / `??` (`???.??%`)
+Total languages (2023, Saturday, August 5th) `146` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -207,7 +209,7 @@ Total languages (2023, Friday, August 4th) `144` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `033` out of `144` languages (`22.91%`) of the AI2001 linguistics toolchain, as of 2023, Friday, August 4th. It is currently missing `111` languages. I will try to add more daily, but it will take me at least 3 days, as I don't have enough time to do it all in 1-2 days.
+> This listing includes `035` out of `146` languages (`23.97%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, August 5th. It is currently missing `111` languages. I will try to add more daily, but it will take me at least 3 days, as I don't have enough time to do it all in 1-2 days. I didn't work on it very much
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined, or that this is a language and not a language grouping
 
@@ -275,6 +277,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Nim ()
 - - - - - - - - - - Ruby (not yet documented)
 - - - - - - - - - - Swift (not yet documented)
+- - - - - - - - - - Ezhil ()
 - - - - - - - - - Python 3 programming language ()
 - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - Boo (not yet documented)
@@ -291,6 +294,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Nim ()
 - - - - - - - - - - Ruby (not yet documented)
 - - - - - - - - - - Swift (not yet documented)
+- - - - - - - - - - Ezhil ()
 - - - - - - - - - R programming language ()
 - - - - - - - - - Rust programming language ()
 - - - - - - - - - Seed7 programming language (not yet documented)
@@ -314,6 +318,8 @@ This list is highly incomplete right now.
 - - - - - - Vala programming language
 - - - - - - JavaScript programming language ()
 - - - - - - JavaScript++ programming language (not yet documented)
+- - Metasyntax (not yet documented)
+- - - EBNF ()
 
 ##### Ownership tree
 
@@ -520,17 +526,17 @@ EmacsLisp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `67 (2023, Friday, August 4th at 07:54 pm PST)`
+**File version:** `68 (2023, Saturday, August 5th at 06:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,913`
+**Line count (including blank lines and compiler line):** `1,942`
 
-**Word count:** `10,541`
+**Word count:** `10,712`
 
-**Character count (including spaces):** `73,084`
+**Character count (including spaces):** `74,275`
 
-**Character count (excluding spaces):** `61,904`
+**Character count (excluding spaces):** `62,895`
 
-**Size (in bytes):** `73,230`
+**Size (in bytes):** `74,421`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1898,6 +1904,29 @@ EmacsLisp
 - [ ] No other changes in version 67
 
 </details> <!-- V67 !-->
+
+<details><summary><p lang="en"><b>Version 68 (2023, Saturday, August 5th at 06:14 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a second consecutive day, not enough time to fully document language family trees today_
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 2 new entries, 35 out of 144 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 68
+- [ ] No other changes in version 68
+
+</details> <!-- V68 !-->
 
 </details> <!-- End of file history !-->
 
