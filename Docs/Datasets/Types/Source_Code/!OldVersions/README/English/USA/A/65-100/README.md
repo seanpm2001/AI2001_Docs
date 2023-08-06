@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Saturday, August 5th, there are `147` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Sunday, August 6th, there are `149` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -172,6 +172,8 @@ As of 2023, Saturday, August 5th, there are `147` source code datasets, with man
 - - [:octocat: `AI2001 Category: Source Code ;SC: Emacs Lisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Emacs-Lisp/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Ezhil`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ezhil/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: EBNF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EBNF/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Earthly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Earthly/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Euphoria`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Euphoria/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -197,7 +199,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have Ssta language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Saturday, August 5th) `146` / `??` (`???.??%`)
+Total languages (2023, Sunday, August 6th) `148` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -209,7 +211,7 @@ Total languages (2023, Saturday, August 5th) `146` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `035` out of `146` languages (`23.97%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, August 5th. It is currently missing `111` languages. I will try to add more daily, but it will take me at least 3 days, as I don't have enough time to do it all in 1-2 days. I didn't work on it very much
+> This listing includes `050` out of `148` languages (`33.78%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, August 6th. It is currently missing `098` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined, or that this is a language and not a language grouping
 
@@ -223,6 +225,49 @@ This list is highly incomplete right now.
 - - Begriffsschrift (not yet documented)
 - - - Plankalkül programming language (not yet documented)
 - - - - ALGOL 58/68 programming languages (not yet documented)
+- - - - - ALGOL ()
+- - - - - - Scheme (not yet documented)
+- - - - - - - Clojure (not yet documented)
+- - - - - - - Clean ()
+- - - - - - - Haskell ()
+- - - - - - - - Agda ()
+- - - - - - - - C++ ()
+- - - - - - - - C# ()
+- - - - - - - - Clean ()
+- - - - - - - - Clojure (not yet documented)
+- - - - - - - - CoffeeScript (not yet documented)
+- - - - - - - - Elm (not yet documented)
+- - - - - - - - Epigram ()
+- - - - - - - - F# ()
+- - - - - - - - - C# ()
+- - - - - - - - - Elm (not yet documented)
+- - - - - - - - - F* (not yet documented)
+- - - - - - - - - LiveScript (not yet documented)
+- - - - - - - - Hack ()
+- - - - - - - - Idris (not yet documented)
+- - - - - - - - Isabelle (not yet documented)
+- - - - - - - - Java ()
+- - - - - - - - LiveScript (not yet documented)
+- - - - - - - - Mercury (not yet documented)
+- - - - - - - - PureScript (not yet documented)
+- - - - - - - - Python ()
+- - - - - - - - Raku ()
+- - - - - - - - Rust ()
+- - - - - - - - Scala (not yet documented)
+- - - - - - - - Swift (not yet documented)
+- - - - - - - - - Rust ()
+- - - - - - - Dylan (not yet documented)
+- - - - - - - JavaScript ()
+- - - - - - - - JSON ()
+- - - - - - - - JavaScript++ (not yet documented)
+- - - - - - - - ECMAScript (not yet documented)
+- - - - - - - Lua ()
+- - - - - - - Python ()
+- - - - - - - R ()
+- - - - - - - Racket ()
+- - - - - - - Ruby (not yet documented)
+- - - - - - - Rust ()
+- - - - - - - Scala ()
 - - - - - Ada programming language ()
 - - - - - - C++ programming language ()
 - - - - - - Chapel programming language (not yet documented)
@@ -237,6 +282,8 @@ This list is highly incomplete right now.
 - - - - - - Seed7 programming language (not yet documented)
 - - - - - - SQL programming language (not yet documented)
 - - - - - - VHDL programming language ()
+- - - - - BASIC programming language (not yet documented)
+- - - - - - Earthly programming language ()
 - - - - - CPL programming language (not yet documented)
 - - - - - - BCPL language (not yet documented)
 - - - - - - - B programming language ()
@@ -259,6 +306,11 @@ This list is highly incomplete right now.
 - - - - - - - - - Nim programming language ()
 - - - - - - - - - Noop programming language (not yet documented)
 - - - - - - - - - Objective-C programming language ()
+- - - - - - - - - - Groovy programming language (not yet documented)
+- - - - - - - - - - Java programming language ()
+- - - - - - - - - - Nu programming language (not yet documented)
+- - - - - - - - - - Objective-C++ programming language ()
+- - - - - - - - - - Objective-J programming language ()
 - - - - - - - - - Perl programming language ()
 - - - - - - - - - PHP programming language ()
 - - - - - - - - - Python 2 programming language ()
@@ -318,8 +370,22 @@ This list is highly incomplete right now.
 - - - - - - Vala programming language
 - - - - - - JavaScript programming language ()
 - - - - - - JavaScript++ programming language (not yet documented)
+- - Information Processing Language (not yet documented)
+- - - Lisp programming language (not yet documented)
+- - - - Common Lisp (not yet documented)
+- - - - Emacs Lisp ()
+- - - - Hy ()
+- - - - Io (not yet documented)
+- - - - Lisp Flavored Erlang (not yet documented)
+- - - - NewLisp (not yet documented)
+- - - - PicoLisp (not yet documented)
+- - - - Racket (not yet documented)
 - - Metasyntax (not yet documented)
 - - - EBNF ()
+- - Natural language
+- - - AppleScript ()
+- - Currently uncategorized
+- - - Earthly ()
 
 ##### Ownership tree
 
@@ -340,10 +406,12 @@ This list is highly incomplete right now.
 - - - Genie
 - - - Vala
 - - Google programming languages
+- - - Blockly
 - - - Dart
 - - - Google Apps Script
 - - - Google Go
 - - - Jsonnet
+- - - LookML
 - - - Mojom
 - - - Noop
 - - Microsoft programming languages
@@ -358,6 +426,7 @@ This list is highly incomplete right now.
 - - - Dafny
 - - - INI
 - - - IronPython
+- - - Miranda
 - - - MS-DOS Style
 - - - PowerShell
 - - - TypeScript
@@ -370,15 +439,15 @@ This list is highly incomplete right now.
 <!-- Progress
 ABAP
 ActionScript
-ALGOL
+ALGOL ✅️
 AWK ✅️
 AngelScript
 ASP.NET
 ASP
 Astro
-Agda
+Agda ✅️
 AMPL ✅️
-AppleScript
+AppleScript ✅️
 Ada ✅️
 BrightScript
 BrighterScript
@@ -387,8 +456,8 @@ Brainfuck
 Bikeshed
 Batchfile
 C ✅️
-Clean
-CSharp
+Clean ✅️
+CSharp ✅️
 CSS
 CSV
 Cadence
@@ -407,7 +476,7 @@ E ✅️
 Erlang
 Eiffel ✅️
 EJS
-Epigram
+Epigram ✅️
 F-Sharp ✅️
 Fish
 Factor
@@ -421,11 +490,11 @@ GLSL
 GAP
 Gherkin
 GSC
-Haskell
+Haskell ✅️
 HTML
 HTTP
 HaProxy
-Hy
+Hy ✅️
 HyPhy
 Haxe ✅️
 Hack ✅️
@@ -433,15 +502,15 @@ Inno-Setup
 INI
 Java ✅️
 JavaScript ✅️
-JSON
+JSON ✅️
 J
 Jsonnet
 JetBrains-MPS
 Kotlin ✅️
-Lua
+Lua ✅️
 Less
 Logos
-Lisp
+Lisp ✅️
 Limbo ✅️
 Lean
 M
@@ -461,8 +530,8 @@ Nemerle ✅️
 NSIS
 NetREXX
 Objective-C ✅️
-Objective-C-Plus-Plus
-Objective-J
+Objective-C-Plus-Plus ✅️
+Objective-J ✅️
 OCaml
 Octave
 Pascal
@@ -476,7 +545,7 @@ Q
 Q-Sharp
 R ✅️
 Red
-Raku
+Raku ✅️
 Ragel
 RMarkdown
 Rust ✅️
@@ -495,7 +564,7 @@ TOML
 TeX
 UnrealScript
 Uno
-URLL
+URLL ✅️
 Vala ✅️
 VBScript
 VB.NET
@@ -511,7 +580,9 @@ ZAP
 ZIL
 Zeek
 Eagle
-EmacsLisp
+EmacsLisp ✅️
+Earthly ☑️ Currently uncategorized
+Euphoria ✅️
 !-->
 
 <!--
@@ -526,17 +597,17 @@ EmacsLisp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `68 (2023, Saturday, August 5th at 06:14 pm PST)`
+**File version:** `69 (2023, Sunday, August 6th at 04:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,942`
+**Line count (including blank lines and compiler line):** `2,036`
 
-**Word count:** `10,712`
+**Word count:** `11,062`
 
-**Character count (including spaces):** `74,275`
+**Character count (including spaces):** `77,817`
 
-**Character count (excluding spaces):** `62,895`
+**Character count (excluding spaces):** `65,586`
 
-**Size (in bytes):** `74,421`
+**Size (in bytes):** `78,035`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1927,6 +1998,29 @@ EmacsLisp
 - [ ] No other changes in version 68
 
 </details> <!-- V68 !-->
+
+<details><summary><p lang="en"><b>Version 69 (2023, Sunday, August 6th at 04:38 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a third consecutive day, I had time to document language family trees, but I didn't make as much progress as I wanted, as my method seems to have some recursion._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 15 new entries, 50 out of 144 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 69
+- [ ] No other changes in version 69
+
+</details> <!-- V69 !-->
 
 </details> <!-- End of file history !-->
 
