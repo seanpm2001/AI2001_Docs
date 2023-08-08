@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, August 6th, there are `149` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Monday, August 7th, there are `151` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -174,6 +174,8 @@ As of 2023, Sunday, August 6th, there are `149` source code datasets, with many 
 - - [:octocat: `AI2001 Category: Source Code ;SC: EBNF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EBNF/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Earthly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Earthly/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Euphoria`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Euphoria/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Elixir`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elixir/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Elm`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elm/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -199,7 +201,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have Ssta language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Sunday, August 6th) `148` / `??` (`???.??%`)
+Total languages (2023, Sunday, August 6th) `150` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -211,7 +213,7 @@ Total languages (2023, Sunday, August 6th) `148` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `050` out of `148` languages (`33.78%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, August 6th. It is currently missing `098` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `052` out of `150` languages (`33.78%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, August 6th. It is currently missing `098` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. I also couldn't get to more than 2 on 2023, Monday, August 7th due to time constraints.
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined, or that this is a language and not a language grouping
 
@@ -236,11 +238,11 @@ This list is highly incomplete right now.
 - - - - - - - - Clean ()
 - - - - - - - - Clojure (not yet documented)
 - - - - - - - - CoffeeScript (not yet documented)
-- - - - - - - - Elm (not yet documented)
+- - - - - - - - Elm ()
 - - - - - - - - Epigram ()
 - - - - - - - - F# ()
 - - - - - - - - - C# ()
-- - - - - - - - - Elm (not yet documented)
+- - - - - - - - - Elm ()
 - - - - - - - - - F* (not yet documented)
 - - - - - - - - - LiveScript (not yet documented)
 - - - - - - - - Hack ()
@@ -266,6 +268,7 @@ This list is highly incomplete right now.
 - - - - - - - R ()
 - - - - - - - Racket ()
 - - - - - - - Ruby (not yet documented)
+- - - - - - - - Elixir ()
 - - - - - - - Rust ()
 - - - - - - - Scala ()
 - - - - - Ada programming language ()
@@ -279,6 +282,7 @@ This list is highly incomplete right now.
 - - - - - - PLpgSQL programming language (not yet documented)
 - - - - - - Python programming language ()
 - - - - - - Ruby programming language ()
+- - - - - - - Elixir ()
 - - - - - - Seed7 programming language (not yet documented)
 - - - - - - SQL programming language (not yet documented)
 - - - - - - VHDL programming language ()
@@ -328,6 +332,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Mojo (not yet documented)
 - - - - - - - - - - Nim ()
 - - - - - - - - - - Ruby (not yet documented)
+- - - - - - - - - - - Elixir ()
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
 - - - - - - - - - Python 3 programming language ()
@@ -345,6 +350,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Mojo (not yet documented)
 - - - - - - - - - - Nim ()
 - - - - - - - - - - Ruby (not yet documented)
+- - - - - - - - - - - Elixir ()
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
 - - - - - - - - - R programming language ()
@@ -583,6 +589,8 @@ Eagle
 EmacsLisp ✅️
 Earthly ☑️ Currently uncategorized
 Euphoria ✅️
+Elixir ✅️
+Elm ✅️
 !-->
 
 <!--
@@ -597,17 +605,17 @@ Euphoria ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `69 (2023, Sunday, August 6th at 04:38 pm PST)`
+**File version:** `70 (2023, Monday, August 7th at 07:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,036`
+**Line count (including blank lines and compiler line):** `2,068`
 
-**Word count:** `11,062`
+**Word count:** `11,253`
 
-**Character count (including spaces):** `77,817`
+**Character count (including spaces):** `79,136`
 
-**Character count (excluding spaces):** `65,586`
+**Character count (excluding spaces):** `66,666`
 
-**Size (in bytes):** `78,035`
+**Size (in bytes):** `79,362`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1988,7 +1996,7 @@ Euphoria ✅️
 - - [x] Added 2 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
-- - [x] Added 2 new entries, 35 out of 144 total
+- - [x] Added 2 new entries, 35 out of 146 total
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2011,7 +2019,7 @@ Euphoria ✅️
 - - [x] Added 2 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
-- - [x] Added 15 new entries, 50 out of 144 total
+- - [x] Added 15 new entries, 50 out of 148 total
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2022,13 +2030,37 @@ Euphoria ✅️
 
 </details> <!-- V69 !-->
 
+<details><summary><p lang="en"><b>Version 70 (2023, Monday, August 7th at 07:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a fourth consecutive day, I had very little time to document language family trees, only documenting the latest 2 worked with._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 2 new entries, 52 out of 150 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Fixed errors in entries for versions 68 and 69
+- - [x] Added an entry for version 70
+- [ ] No other changes in version 70
+
+</details> <!-- V70 !-->
+
 </details> <!-- End of file history !-->
 
 ***
 
 ## [Footer](#Footer)
 
-You have reached the bottom of this page.
+You have reached the bottom of this page
 
 ( [Back to top](#AI2001-Docs) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
 
