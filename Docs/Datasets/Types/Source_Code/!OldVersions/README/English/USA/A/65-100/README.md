@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Monday, August 7th, there are `151` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Tuesday, August 8th, there are `155` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -176,6 +176,10 @@ As of 2023, Monday, August 7th, there are `151` source code datasets, with many 
 - - [:octocat: `AI2001 Category: Source Code ;SC: Euphoria`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Euphoria/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Elixir`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elixir/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Elm`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elm/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: DogeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DogeScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Dylan`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dylan/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: reStructuredText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-reStructuredText/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Racket`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Racket/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -201,7 +205,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have Ssta language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Sunday, August 6th) `150` / `??` (`???.??%`)
+Total languages (2023, Tuesday, August 8th) `154` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -213,7 +217,7 @@ Total languages (2023, Sunday, August 6th) `150` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `052` out of `150` languages (`33.78%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, August 6th. It is currently missing `098` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. I also couldn't get to more than 2 on 2023, Monday, August 7th due to time constraints.
+> This listing includes `056` out of `154` languages (`36.36%`) of the AI2001 linguistics toolchain, as of 2023, Tuesday, August 8th. It is currently missing `098` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. I also couldn't get to more than 2, 4, on 2023, August 7th and 2023 August 8th, due to time constraints.
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined, or that this is a language and not a language grouping
 
@@ -231,6 +235,7 @@ This list is highly incomplete right now.
 - - - - - - Scheme (not yet documented)
 - - - - - - - Clojure (not yet documented)
 - - - - - - - Clean ()
+- - - - - - - Dylan ()
 - - - - - - - Haskell ()
 - - - - - - - - Agda ()
 - - - - - - - - C++ ()
@@ -253,6 +258,7 @@ This list is highly incomplete right now.
 - - - - - - - - Mercury (not yet documented)
 - - - - - - - - PureScript (not yet documented)
 - - - - - - - - Python ()
+- - - - - - - - - reStructuredText ()
 - - - - - - - - Raku ()
 - - - - - - - - Rust ()
 - - - - - - - - Scala (not yet documented)
@@ -260,11 +266,13 @@ This list is highly incomplete right now.
 - - - - - - - - - Rust ()
 - - - - - - - Dylan (not yet documented)
 - - - - - - - JavaScript ()
+- - - - - - - - DogeScript ()
 - - - - - - - - JSON ()
 - - - - - - - - JavaScript++ (not yet documented)
 - - - - - - - - ECMAScript (not yet documented)
 - - - - - - - Lua ()
 - - - - - - - Python ()
+- - - - - - - - reStructuredText ()
 - - - - - - - R ()
 - - - - - - - Racket ()
 - - - - - - - Ruby (not yet documented)
@@ -281,6 +289,7 @@ This list is highly incomplete right now.
 - - - - - - PLSQL programming language (not yet documented)
 - - - - - - PLpgSQL programming language (not yet documented)
 - - - - - - Python programming language ()
+- - - - - - - reStructuredText ()
 - - - - - - Ruby programming language ()
 - - - - - - - Elixir ()
 - - - - - - Seed7 programming language (not yet documented)
@@ -304,6 +313,7 @@ This list is highly incomplete right now.
 - - - - - - - - - HolyC programming language (not yet documented)
 - - - - - - - - - Java programming language ()
 - - - - - - - - - JavaScript programming language ()
+- - - - - - - - - - DogeScript ()
 - - - - - - - - - Limbo programming language ()
 - - - - - - - - - nesC programming language (not yet documented)
 - - - - - - - - - Nemerle programming language ()
@@ -318,6 +328,7 @@ This list is highly incomplete right now.
 - - - - - - - - - Perl programming language ()
 - - - - - - - - - PHP programming language ()
 - - - - - - - - - Python 2 programming language ()
+- - - - - - - - - - reStructuredText ()
 - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - Boo (not yet documented)
 - - - - - - - - - - Cobra (not yet documented)
@@ -328,6 +339,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Genie (not yet documented)
 - - - - - - - - - - Google Go ()
 - - - - - - - - - - JavaScript ()
+- - - - - - - - - - - DogeScript ()
 - - - - - - - - - - Julia (not yet documented)
 - - - - - - - - - - Mojo (not yet documented)
 - - - - - - - - - - Nim ()
@@ -336,6 +348,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
 - - - - - - - - - Python 3 programming language ()
+- - - - - - - - - - reStructuredText ()
 - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - Boo (not yet documented)
 - - - - - - - - - - Cobra (not yet documented)
@@ -346,6 +359,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Genie (not yet documented)
 - - - - - - - - - - Google Go ()
 - - - - - - - - - - JavaScript ()
+- - - - - - - - - - - DogeScript ()
 - - - - - - - - - - Julia (not yet documented)
 - - - - - - - - - - Mojo (not yet documented)
 - - - - - - - - - - Nim ()
@@ -371,11 +385,13 @@ This list is highly incomplete right now.
 - - - - - - Kotlin programming language ()
 - - - - - - PHP programming language ()
 - - - - - - Python programming language ()
+- - - - - - - reStructuredText ()
 - - - - - - Scala programming language ()
 - - - - - - Seed7 programming language (not yet documented)
 - - - - - - Vala programming language
 - - - - - - JavaScript programming language ()
-- - - - - - JavaScript++ programming language (not yet documented)
+- - - - - - - DogeScript ()
+- - - - - - - JavaScript++ programming language (not yet documented)
 - - Information Processing Language (not yet documented)
 - - - Lisp programming language (not yet documented)
 - - - - Common Lisp (not yet documented)
@@ -591,6 +607,10 @@ Earthly ☑️ Currently uncategorized
 Euphoria ✅️
 Elixir ✅️
 Elm ✅️
+DogeScript ✅️
+Dylan ✅️
+ReStructuredText ✅️
+Racket ✅️
 !-->
 
 <!--
@@ -605,17 +625,17 @@ Elm ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `70 (2023, Monday, August 7th at 07:57 pm PST)`
+**File version:** `71 (2023, Tuesday, August 8th at 08:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,068`
+**Line count (including blank lines and compiler line):** `2,111`
 
-**Word count:** `11,253`
+**Word count:** `11,470`
 
-**Character count (including spaces):** `79,136`
+**Character count (including spaces):** `80,993`
 
-**Character count (excluding spaces):** `66,666`
+**Character count (excluding spaces):** `68,198`
 
-**Size (in bytes):** `79,362`
+**Size (in bytes):** `81,235`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2053,6 +2073,29 @@ Elm ✅️
 - [ ] No other changes in version 70
 
 </details> <!-- V70 !-->
+
+<details><summary><p lang="en"><b>Version 71 (2023, Tuesday, August 8th at 08:29 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a fifth consecutive day, I had very little time to document language family trees, only documenting the latest 4 worked with._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 4 new entries, 56 out of 150 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 71
+- [ ] No other changes in version 71
+
+</details> <!-- V71 !-->
 
 </details> <!-- End of file history !-->
 
