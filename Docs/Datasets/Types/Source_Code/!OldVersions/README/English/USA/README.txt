@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Tuesday, August 8th, there are `155` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Saturday, August 12th, there are `163` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -180,6 +180,14 @@ As of 2023, Tuesday, August 8th, there are `155` source code datasets, with many
 - - [:octocat: `AI2001 Category: Source Code ;SC: Dylan`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dylan/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: reStructuredText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-reStructuredText/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Racket`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Racket/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: DM`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DM/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: DTrace`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DTrace/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Coq`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Coq/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ceylon`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ceylon/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CoffeeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CoffeeScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Crystal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Crystal/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: COBOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COBOL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Component Pascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Component-Pascal/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -203,9 +211,9 @@ The current planned usage for these datasets is source code automation and assis
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-I have Ssta language families for programming languages today. It was inspired by the way linguistics are organized by families.
+I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Tuesday, August 8th) `154` / `??` (`???.??%`)
+Total languages (2023, Saturday, August 12th) `162` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -217,7 +225,7 @@ Total languages (2023, Tuesday, August 8th) `154` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `056` out of `154` languages (`36.36%`) of the AI2001 linguistics toolchain, as of 2023, Tuesday, August 8th. It is currently missing `098` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. I also couldn't get to more than 2, 4, on 2023, August 7th and 2023 August 8th, due to time constraints.
+> This listing includes `066` out of `162` languages (`40.74%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, August 12th. It is currently missing `096` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined, or that this is a language and not a language grouping
 
@@ -227,9 +235,18 @@ This list is highly incomplete right now.
 
 ##### Main tree
 
+- A0 System (not yet documented)
+- - ARITH-MATIC (not yet documented)
+- - - FLOW-MATIC (not yet documented)
+- - - - COBOL ()
 - High level programming languages
 - - Begriffsschrift (not yet documented)
 - - - Plankalkül programming language (not yet documented)
+- - - - ALGOL W (not yet documented)
+- - - - - Pascal ()
+- - - - - - Component Pascal ()
+- - - - - - OCAML ()
+- - - - - - - Coq ()
 - - - - ALGOL 58/68 programming languages (not yet documented)
 - - - - - ALGOL ()
 - - - - - - Scheme (not yet documented)
@@ -242,7 +259,7 @@ This list is highly incomplete right now.
 - - - - - - - - C# ()
 - - - - - - - - Clean ()
 - - - - - - - - Clojure (not yet documented)
-- - - - - - - - CoffeeScript (not yet documented)
+- - - - - - - - CoffeeScript ()
 - - - - - - - - Elm ()
 - - - - - - - - Epigram ()
 - - - - - - - - F# ()
@@ -254,6 +271,22 @@ This list is highly incomplete right now.
 - - - - - - - - Idris (not yet documented)
 - - - - - - - - Isabelle (not yet documented)
 - - - - - - - - Java ()
+- - - - - - - - - C# ()
+- - - - - - - - - Ceylon ()
+- - - - - - - - - Clojure (not yet documented)
+- - - - - - - - - DataWeave (not yet documented)
+- - - - - - - - - Fantom (not yet documented)
+- - - - - - - - - Groovy (not yet documented)
+- - - - - - - - - Hack ()
+- - - - - - - - - Haxe ()
+- - - - - - - - - Java Server Pages (not yet documented)
+- - - - - - - - - Jakarta Server Pages (not yet documented)
+- - - - - - - - - Kotlin ()
+- - - - - - - - - PHP ()
+- - - - - - - - - Python ()
+- - - - - - - - - Scala ()
+- - - - - - - - - Seed7 (not yet documented)
+- - - - - - - - - Vala ()
 - - - - - - - - LiveScript (not yet documented)
 - - - - - - - - Mercury (not yet documented)
 - - - - - - - - PureScript (not yet documented)
@@ -266,6 +299,8 @@ This list is highly incomplete right now.
 - - - - - - - - - Rust ()
 - - - - - - - Dylan (not yet documented)
 - - - - - - - JavaScript ()
+- - - - - - - - CoffeeScript ()
+- - - - - - - - DM ()
 - - - - - - - - DogeScript ()
 - - - - - - - - JSON ()
 - - - - - - - - JavaScript++ (not yet documented)
@@ -276,6 +311,7 @@ This list is highly incomplete right now.
 - - - - - - - R ()
 - - - - - - - Racket ()
 - - - - - - - Ruby (not yet documented)
+- - - - - - - - Crystal ()
 - - - - - - - - Elixir ()
 - - - - - - - Rust ()
 - - - - - - - Scala ()
@@ -285,12 +321,29 @@ This list is highly incomplete right now.
 - - - - - - D programming language ()
 - - - - - - Eiffel programming language ()
 - - - - - - Java programming language ()
+- - - - - - - C# ()
+- - - - - - - Ceylon ()
+- - - - - - - Clojure (not yet documented)
+- - - - - - - DataWeave (not yet documented)
+- - - - - - - Fantom (not yet documented)
+- - - - - - - Groovy (not yet documented)
+- - - - - - - Hack ()
+- - - - - - - Haxe ()
+- - - - - - - Java Server Pages (not yet documented)
+- - - - - - - Jakarta Server Pages (not yet documented)
+- - - - - - - Kotlin ()
+- - - - - - - PHP ()
+- - - - - - - Python ()
+- - - - - - - Scala ()
+- - - - - - - Seed7 (not yet documented)
+- - - - - - - Vala ()
 - - - - - - Nim programming language ()
 - - - - - - PLSQL programming language (not yet documented)
 - - - - - - PLpgSQL programming language (not yet documented)
 - - - - - - Python programming language ()
 - - - - - - - reStructuredText ()
 - - - - - - Ruby programming language ()
+- - - - - - - Crystal ()
 - - - - - - - Elixir ()
 - - - - - - Seed7 programming language (not yet documented)
 - - - - - - SQL programming language (not yet documented)
@@ -307,11 +360,28 @@ This list is highly incomplete right now.
 - - - - - - - - - C# programming language ()
 - - - - - - - - - D programming language ()
 - - - - - - - - - Dart programming language ()
+- - - - - - - - - DTrace language ()
 - - - - - - - - - E programming language ()
 - - - - - - - - - Google Go programming language ()
 - - - - - - - - - Hack programming language ()
 - - - - - - - - - HolyC programming language (not yet documented)
 - - - - - - - - - Java programming language ()
+- - - - - - - - - - C# ()
+- - - - - - - - - - Ceylon ()
+- - - - - - - - - - Clojure (not yet documented)
+- - - - - - - - - - DataWeave (not yet documented)
+- - - - - - - - - - Fantom (not yet documented)
+- - - - - - - - - - Groovy (not yet documented)
+- - - - - - - - - - Hack ()
+- - - - - - - - - - Haxe ()
+- - - - - - - - - - Java Server Pages (not yet documented)
+- - - - - - - - - - Jakarta Server Pages (not yet documented)
+- - - - - - - - - - Kotlin ()
+- - - - - - - - - - PHP ()
+- - - - - - - - - - Python ()
+- - - - - - - - - - Scala ()
+- - - - - - - - - - Seed7 (not yet documented)
+- - - - - - - - - - Vala ()
 - - - - - - - - - JavaScript programming language ()
 - - - - - - - - - - DogeScript ()
 - - - - - - - - - Limbo programming language ()
@@ -322,6 +392,22 @@ This list is highly incomplete right now.
 - - - - - - - - - Objective-C programming language ()
 - - - - - - - - - - Groovy programming language (not yet documented)
 - - - - - - - - - - Java programming language ()
+- - - - - - - - - - - C# ()
+- - - - - - - - - - - Ceylon ()
+- - - - - - - - - - - Clojure (not yet documented)
+- - - - - - - - - - - DataWeave (not yet documented)
+- - - - - - - - - - - Fantom (not yet documented)
+- - - - - - - - - - - Groovy (not yet documented)
+- - - - - - - - - - - Hack ()
+- - - - - - - - - - - Haxe ()
+- - - - - - - - - - - Java Server Pages (not yet documented)
+- - - - - - - - - - - Jakarta Server Pages (not yet documented)
+- - - - - - - - - - - Kotlin ()
+- - - - - - - - - - - PHP ()
+- - - - - - - - - - - Python ()
+- - - - - - - - - - - Scala ()
+- - - - - - - - - - - Seed7 (not yet documented)
+- - - - - - - - - - - Vala ()
 - - - - - - - - - - Nu programming language (not yet documented)
 - - - - - - - - - - Objective-C++ programming language ()
 - - - - - - - - - - Objective-J programming language ()
@@ -332,7 +418,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - Boo (not yet documented)
 - - - - - - - - - - Cobra (not yet documented)
-- - - - - - - - - - CoffeeScript (not yet documented)
+- - - - - - - - - - CoffeeScript ()
 - - - - - - - - - - D ()
 - - - - - - - - - - F# ()
 - - - - - - - - - - GDScript ()
@@ -344,6 +430,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Mojo (not yet documented)
 - - - - - - - - - - Nim ()
 - - - - - - - - - - Ruby (not yet documented)
+- - - - - - - - - - - Crystal ()
 - - - - - - - - - - - Elixir ()
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
@@ -352,7 +439,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - Boo (not yet documented)
 - - - - - - - - - - Cobra (not yet documented)
-- - - - - - - - - - CoffeeScript (not yet documented)
+- - - - - - - - - - CoffeeScript ()
 - - - - - - - - - - D ()
 - - - - - - - - - - F# ()
 - - - - - - - - - - GDScript ()
@@ -364,6 +451,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Mojo (not yet documented)
 - - - - - - - - - - Nim ()
 - - - - - - - - - - Ruby (not yet documented)
+- - - - - - - - - - - Crystal ()
 - - - - - - - - - - - Elixir ()
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
@@ -392,6 +480,8 @@ This list is highly incomplete right now.
 - - - - - - JavaScript programming language ()
 - - - - - - - DogeScript ()
 - - - - - - - JavaScript++ programming language (not yet documented)
+- - - - - - - CoffeeScript ()
+- - - - - - - DM ()
 - - Information Processing Language (not yet documented)
 - - - Lisp programming language (not yet documented)
 - - - - Common Lisp (not yet documented)
@@ -554,9 +644,9 @@ NetREXX
 Objective-C ✅️
 Objective-C-Plus-Plus ✅️
 Objective-J ✅️
-OCaml
+OCaml ✅️
 Octave
-Pascal
+Pascal ✅️
 Perl ✅️
 PHP ✅️
 Python3 ✅️
@@ -611,6 +701,14 @@ DogeScript ✅️
 Dylan ✅️
 ReStructuredText ✅️
 Racket ✅️
+DM ✅️
+DTrace ✅️
+Coq ✅️
+Ceylon ✅️
+CoffeeScript ✅️
+Crystal ✅️
+COBOL ✅️
+Component Pascal ✅️
 !-->
 
 <!--
@@ -625,17 +723,17 @@ Racket ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `71 (2023, Tuesday, August 8th at 08:29 pm PST)`
+**File version:** `72 (2023, Saturday, August 12th at 06:21 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,111`
+**Line count (including blank lines and compiler line):** `2,233`
 
-**Word count:** `11,470`
+**Word count:** `11,976`
 
-**Character count (including spaces):** `80,993`
+**Character count (including spaces):** `86,034`
 
-**Character count (excluding spaces):** `68,198`
+**Character count (excluding spaces):** `72,011`
 
-**Size (in bytes):** `81,235`
+**Size (in bytes):** `86,316`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2086,7 +2184,7 @@ Racket ✅️
 - - [x] Added 4 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
-- - [x] Added 4 new entries, 56 out of 150 total
+- - [x] Added 4 new entries, 56 out of 154 total
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2096,6 +2194,30 @@ Racket ✅️
 - [ ] No other changes in version 71
 
 </details> <!-- V71 !-->
+
+<details><summary><p lang="en"><b>Version 72 (2023, Saturday, August 12th at 06:21 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I kept making new AI2001 repositories in the past 4 days, but I had some real struggles recently, and wasn't able to update the core AI2001 documentation until today (4 days later) I am going to try to stay caught up here again. Also, with language families, I am making very small incremental gains. It may take me longer than a month to get caught up at the current rate. Total consecutive days: 1_
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 10 new entries, 66 out of 162 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Updated the entry for version 71
+- - [x] Added an entry for version 72
+- [ ] No other changes in version 72
+
+</details> <!-- V72 !-->
 
 </details> <!-- End of file history !-->
 
