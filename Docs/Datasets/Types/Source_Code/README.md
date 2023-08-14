@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Saturday, August 12th, there are `163` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Sunday, August 13th, there are `165` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -188,6 +188,8 @@ As of 2023, Saturday, August 12th, there are `163` source code datasets, with ma
 - - [:octocat: `AI2001 Category: Source Code ;SC: Crystal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Crystal/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: COBOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COBOL/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Component Pascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Component-Pascal/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Clojure`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clojure/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CMake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CMake/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -213,7 +215,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Saturday, August 12th) `162` / `??` (`???.??%`)
+Total languages (2023, Sunday, August 13th) `164` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -225,11 +227,13 @@ Total languages (2023, Saturday, August 12th) `162` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `066` out of `162` languages (`40.74%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, August 12th. It is currently missing `096` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `068` out of `164` languages (`41.46%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, August 13th. It is currently missing `096` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+
+<!-- PS: For most newer entries, the entry only needs the (not yet documented) line to be replaced with () !-->
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined, or that this is a language and not a language grouping
 
-> **not yet classified** means that they are not/may not be properly placed in the tree, and may need to be added to a subdivision category. It also indicates that the language may not even be present in the AI2001 toolchain at the moment, which an alarmingly high number of important languages fall into this category.
+> **not yet documented** means that they are not/may not be properly placed in the tree, and may need to be added to a subdivision category. It also indicates that the language may not even be present in the AI2001 toolchain at the moment, which an alarmingly high number of important languages fall into this category.
 
 This list is highly incomplete right now.
 
@@ -250,7 +254,7 @@ This list is highly incomplete right now.
 - - - - ALGOL 58/68 programming languages (not yet documented)
 - - - - - ALGOL ()
 - - - - - - Scheme (not yet documented)
-- - - - - - - Clojure (not yet documented)
+- - - - - - - Clojure ()
 - - - - - - - Clean ()
 - - - - - - - Dylan ()
 - - - - - - - Haskell ()
@@ -258,7 +262,7 @@ This list is highly incomplete right now.
 - - - - - - - - C++ ()
 - - - - - - - - C# ()
 - - - - - - - - Clean ()
-- - - - - - - - Clojure (not yet documented)
+- - - - - - - - Clojure ()
 - - - - - - - - CoffeeScript ()
 - - - - - - - - Elm ()
 - - - - - - - - Epigram ()
@@ -273,7 +277,7 @@ This list is highly incomplete right now.
 - - - - - - - - Java ()
 - - - - - - - - - C# ()
 - - - - - - - - - Ceylon ()
-- - - - - - - - - Clojure (not yet documented)
+- - - - - - - - - Clojure ()
 - - - - - - - - - DataWeave (not yet documented)
 - - - - - - - - - Fantom (not yet documented)
 - - - - - - - - - Groovy (not yet documented)
@@ -323,7 +327,7 @@ This list is highly incomplete right now.
 - - - - - - Java programming language ()
 - - - - - - - C# ()
 - - - - - - - Ceylon ()
-- - - - - - - Clojure (not yet documented)
+- - - - - - - Clojure ()
 - - - - - - - DataWeave (not yet documented)
 - - - - - - - Fantom (not yet documented)
 - - - - - - - Groovy (not yet documented)
@@ -358,6 +362,7 @@ This list is highly incomplete right now.
 - - - - - - - - - AWK programming language ()
 - - - - - - - - - C++ programming language ()
 - - - - - - - - - C# programming language ()
+- - - - - - - - - CMake programming language ()
 - - - - - - - - - D programming language ()
 - - - - - - - - - Dart programming language ()
 - - - - - - - - - DTrace language ()
@@ -368,7 +373,7 @@ This list is highly incomplete right now.
 - - - - - - - - - Java programming language ()
 - - - - - - - - - - C# ()
 - - - - - - - - - - Ceylon ()
-- - - - - - - - - - Clojure (not yet documented)
+- - - - - - - - - - Clojure ()
 - - - - - - - - - - DataWeave (not yet documented)
 - - - - - - - - - - Fantom (not yet documented)
 - - - - - - - - - - Groovy (not yet documented)
@@ -394,7 +399,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Java programming language ()
 - - - - - - - - - - - C# ()
 - - - - - - - - - - - Ceylon ()
-- - - - - - - - - - - Clojure (not yet documented)
+- - - - - - - - - - - Clojure ()
 - - - - - - - - - - - DataWeave (not yet documented)
 - - - - - - - - - - - Fantom (not yet documented)
 - - - - - - - - - - - Groovy (not yet documented)
@@ -465,7 +470,7 @@ This list is highly incomplete right now.
 - - - - - Java programming language ()
 - - - - - - C# programming language (not yet documented)
 - - - - - - Chapel programming language (not yet documented)
-- - - - - - Clojure programming language (not yet documented)
+- - - - - - Clojure programming language ()
 - - - - - - Fantom programming language (not yet documented)
 - - - - - - Groovy programming language (not yet documented)
 - - - - - - Hack programming language ()
@@ -709,6 +714,8 @@ CoffeeScript ✅️
 Crystal ✅️
 COBOL ✅️
 Component Pascal ✅️
+Clojure ✅️
+CMake ✅️
 !-->
 
 <!--
@@ -723,17 +730,17 @@ Component Pascal ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `72 (2023, Saturday, August 12th at 06:21 pm PST)`
+**File version:** `73 (2023, Sunday, August 13th at 10:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,233`
+**Line count (including blank lines and compiler line):** `2,263`
 
-**Word count:** `11,976`
+**Word count:** `12,156`
 
-**Character count (including spaces):** `86,034`
+**Character count (including spaces):** `87,232`
 
-**Character count (excluding spaces):** `72,011`
+**Character count (excluding spaces):** `73,004`
 
-**Size (in bytes):** `86,316`
+**Size (in bytes):** `87,522`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2218,6 +2225,29 @@ Component Pascal ✅️
 - [ ] No other changes in version 72
 
 </details> <!-- V72 !-->
+
+<details><summary><p lang="en"><b>Version 73 (2023, Sunday, August 13th at 10:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I did not try to push for extra work on the language family tree, only doing enough to keep it from falling behind. I almost forgot to work on this project today. Continuing for a second consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 2 new entries, 68 out of 164 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 73
+- [ ] No other changes in version 73
+
+</details> <!-- V73 !-->
 
 </details> <!-- End of file history !-->
 
