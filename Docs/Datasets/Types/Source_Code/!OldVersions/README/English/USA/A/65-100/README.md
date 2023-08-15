@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, August 13th, there are `165` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Monday, August 14th, there are `167` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -190,6 +190,8 @@ As of 2023, Sunday, August 13th, there are `165` source code datasets, with many
 - - [:octocat: `AI2001 Category: Source Code ;SC: Component Pascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Component-Pascal/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Clojure`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clojure/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CMake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CMake/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CSON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSON/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CLIPS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CLIPS/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -215,7 +217,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Sunday, August 13th) `164` / `??` (`???.??%`)
+Total languages (2023, Monday, August 13th) `166` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -227,7 +229,29 @@ Total languages (2023, Sunday, August 13th) `164` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `068` out of `164` languages (`41.46%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, August 13th. It is currently missing `096` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `086` out of `166` languages (`51.80%`) of the AI2001 linguistics toolchain, as of 2023, Monday, August 14th. It is currently missing `080` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+
+> On 2023, Monday, August 14th, I spent a lot of time, and defined 18 languages into the tree (2 from today, and 16 from the list) it took nearly an hour, yet it doesn't even add 10% progress. It is still a needed step. I would have to do this 5 more times to get caught up on this list. I am now past halfway caught up.
+
+<!-- 2023 August 14th
+ABAP
+Prolog
+Go!
+ActionScript
+Gherkin
+WebAssembly
+AngelScript
+ASP.NET
+ASP
+VBScript
+Astro
+V
+VB.NET
+Shell
+HyPhy
+!-->
+
+> There are so many descendants of C. Saying that your language is based on/a descendant of C based does not narrow down a list very much at all. It is like saying you are a descendant of Genghis Khan.
 
 <!-- PS: For most newer entries, the entry only needs the (not yet documented) line to be replaced with () !-->
 
@@ -243,6 +267,7 @@ This list is highly incomplete right now.
 - - ARITH-MATIC (not yet documented)
 - - - FLOW-MATIC (not yet documented)
 - - - - COBOL ()
+- - - - - ABAP ()
 - High level programming languages
 - - Begriffsschrift (not yet documented)
 - - - Plankalkül programming language (not yet documented)
@@ -251,6 +276,12 @@ This list is highly incomplete right now.
 - - - - - - Component Pascal ()
 - - - - - - OCAML ()
 - - - - - - - Coq ()
+- - - - ALGOL 60 (not yet documented)
+- - - - - POP-1 (not yet documented)
+- - - - - - POP-2 (not yet documented)
+- - - - - - - Planner (not yet documented)
+- - - - - - - - Prolog (not yet documented)
+- - - - - - - - - Go! ()
 - - - - ALGOL 58/68 programming languages (not yet documented)
 - - - - - ALGOL ()
 - - - - - - Scheme (not yet documented)
@@ -260,10 +291,12 @@ This list is highly incomplete right now.
 - - - - - - - Haskell ()
 - - - - - - - - Agda ()
 - - - - - - - - C++ ()
+- - - - - - - - - AngelScript ()
 - - - - - - - - C# ()
 - - - - - - - - Clean ()
 - - - - - - - - Clojure ()
 - - - - - - - - CoffeeScript ()
+- - - - - - - - - CSON ()
 - - - - - - - - Elm ()
 - - - - - - - - Epigram ()
 - - - - - - - - F# ()
@@ -275,6 +308,7 @@ This list is highly incomplete right now.
 - - - - - - - - Idris (not yet documented)
 - - - - - - - - Isabelle (not yet documented)
 - - - - - - - - Java ()
+- - - - - - - - - ActionScript ()
 - - - - - - - - - C# ()
 - - - - - - - - - Ceylon ()
 - - - - - - - - - Clojure ()
@@ -303,7 +337,10 @@ This list is highly incomplete right now.
 - - - - - - - - - Rust ()
 - - - - - - - Dylan (not yet documented)
 - - - - - - - JavaScript ()
+- - - - - - - - asm.js (not yet documented)
+- - - - - - - - - WebAssembly ()
 - - - - - - - - CoffeeScript ()
+- - - - - - - - - CSON ()
 - - - - - - - - DM ()
 - - - - - - - - DogeScript ()
 - - - - - - - - JSON ()
@@ -317,14 +354,17 @@ This list is highly incomplete right now.
 - - - - - - - Ruby (not yet documented)
 - - - - - - - - Crystal ()
 - - - - - - - - Elixir ()
+- - - - - - - - Gherkin ()
 - - - - - - - Rust ()
 - - - - - - - Scala ()
 - - - - - Ada programming language ()
 - - - - - - C++ programming language ()
+- - - - - - - AngelScript ()
 - - - - - - Chapel programming language (not yet documented)
 - - - - - - D programming language ()
 - - - - - - Eiffel programming language ()
 - - - - - - Java programming language ()
+- - - - - - - ActionScript ()
 - - - - - - - C# ()
 - - - - - - - Ceylon ()
 - - - - - - - Clojure ()
@@ -349,28 +389,42 @@ This list is highly incomplete right now.
 - - - - - - Ruby programming language ()
 - - - - - - - Crystal ()
 - - - - - - - Elixir ()
+- - - - - - - Gherkin ()
 - - - - - - Seed7 programming language (not yet documented)
 - - - - - - SQL programming language (not yet documented)
 - - - - - - VHDL programming language ()
 - - - - - BASIC programming language (not yet documented)
 - - - - - - Earthly programming language ()
+- - - - - - Visual Basic ()
+- - - - - - - VBScript ()
+- - - - - - - - PowerShell (not yet documented)
+- - - - - - - - ASP (Action Server Pages) ()
+- - - - - - - - - ASP.NET (Action Server Pages .NET) ()
+- - - - - - - - - - ASP (Action Server Pages) ()
+- - - - - - - Visual Basic .NET (VB.NET) ()
 - - - - - CPL programming language (not yet documented)
 - - - - - - BCPL language (not yet documented)
 - - - - - - - B programming language ()
 - - - - - - - - C programming language ()
 - - - - - - - - - AMPL programming language ()
 - - - - - - - - - AWK programming language ()
+- - - - - - - - - BrightScript programming language ()
+- - - - - - - - - - BrighterScript programming language ()
 - - - - - - - - - C++ programming language ()
-- - - - - - - - - C# programming language ()
+- - - - - - - - - AngelScript ()
+- - - - - - - - - - C# programming language ()
+- - - - - - - - - CLIPS ()
 - - - - - - - - - CMake programming language ()
 - - - - - - - - - D programming language ()
 - - - - - - - - - Dart programming language ()
 - - - - - - - - - DTrace language ()
 - - - - - - - - - E programming language ()
 - - - - - - - - - Google Go programming language ()
+- - - - - - - - - GSC ()
 - - - - - - - - - Hack programming language ()
 - - - - - - - - - HolyC programming language (not yet documented)
 - - - - - - - - - Java programming language ()
+- - - - - - - - - - ActionScript ()
 - - - - - - - - - - C# ()
 - - - - - - - - - - Ceylon ()
 - - - - - - - - - - Clojure ()
@@ -388,6 +442,8 @@ This list is highly incomplete right now.
 - - - - - - - - - - Seed7 (not yet documented)
 - - - - - - - - - - Vala ()
 - - - - - - - - - JavaScript programming language ()
+- - - - - - - - - - asm.js (not yet documented)
+- - - - - - - - - - - WebAssembly ()
 - - - - - - - - - - DogeScript ()
 - - - - - - - - - Limbo programming language ()
 - - - - - - - - - nesC programming language (not yet documented)
@@ -397,6 +453,7 @@ This list is highly incomplete right now.
 - - - - - - - - - Objective-C programming language ()
 - - - - - - - - - - Groovy programming language (not yet documented)
 - - - - - - - - - - Java programming language ()
+- - - - - - - - - - - ActionScript ()
 - - - - - - - - - - - C# ()
 - - - - - - - - - - - Ceylon ()
 - - - - - - - - - - - Clojure ()
@@ -424,12 +481,15 @@ This list is highly incomplete right now.
 - - - - - - - - - - Boo (not yet documented)
 - - - - - - - - - - Cobra (not yet documented)
 - - - - - - - - - - CoffeeScript ()
+- - - - - - - - - - - CSON ()
 - - - - - - - - - - D ()
 - - - - - - - - - - F# ()
 - - - - - - - - - - GDScript ()
 - - - - - - - - - - Genie (not yet documented)
 - - - - - - - - - - Google Go ()
 - - - - - - - - - - JavaScript ()
+- - - - - - - - - - - asm.js (not yet documented)
+- - - - - - - - - - - - WebAssembly ()
 - - - - - - - - - - - DogeScript ()
 - - - - - - - - - - Julia (not yet documented)
 - - - - - - - - - - Mojo (not yet documented)
@@ -437,6 +497,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Ruby (not yet documented)
 - - - - - - - - - - - Crystal ()
 - - - - - - - - - - - Elixir ()
+- - - - - - - - - - - Gherkin ()
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
 - - - - - - - - - Python 3 programming language ()
@@ -445,12 +506,15 @@ This list is highly incomplete right now.
 - - - - - - - - - - Boo (not yet documented)
 - - - - - - - - - - Cobra (not yet documented)
 - - - - - - - - - - CoffeeScript ()
+- - - - - - - - - - - CSON ()
 - - - - - - - - - - D ()
 - - - - - - - - - - F# ()
 - - - - - - - - - - GDScript ()
 - - - - - - - - - - Genie (not yet documented)
 - - - - - - - - - - Google Go ()
 - - - - - - - - - - JavaScript ()
+- - - - - - - - - - - asm.js (not yet documented)
+- - - - - - - - - - - - WebAssembly ()
 - - - - - - - - - - - DogeScript ()
 - - - - - - - - - - Julia (not yet documented)
 - - - - - - - - - - Mojo (not yet documented)
@@ -458,6 +522,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Ruby (not yet documented)
 - - - - - - - - - - - Crystal ()
 - - - - - - - - - - - Elixir ()
+- - - - - - - - - - - Gherkin ()
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
 - - - - - - - - - R programming language ()
@@ -466,8 +531,10 @@ This list is highly incomplete right now.
 - - - - - - - - - Squirrel programming language (not yet documented)
 - - - - - - - - - Swift programming language (not yet documented)
 - - - - - - - - - TypeScript programming language ()
+- - - - - - - - - - Astro ()
 - - - - - - - - - Zig programming language ()
 - - - - - Java programming language ()
+- - - - - - ActionScript ()
 - - - - - - C# programming language (not yet documented)
 - - - - - - Chapel programming language (not yet documented)
 - - - - - - Clojure programming language ()
@@ -483,15 +550,21 @@ This list is highly incomplete right now.
 - - - - - - Seed7 programming language (not yet documented)
 - - - - - - Vala programming language
 - - - - - - JavaScript programming language ()
+- - - - - - - asm.js (not yet documented)
+- - - - - - - - WebAssembly ()
 - - - - - - - DogeScript ()
 - - - - - - - JavaScript++ programming language (not yet documented)
 - - - - - - - CoffeeScript ()
+- - - - - - - - CSON ()
 - - - - - - - DM ()
+- - - - - - - - - Shell ()
+- - - - - - - - - V ()
 - - Information Processing Language (not yet documented)
 - - - Lisp programming language (not yet documented)
 - - - - Common Lisp (not yet documented)
 - - - - Emacs Lisp ()
 - - - - Hy ()
+- - - - - HyPhy ()
 - - - - Io (not yet documented)
 - - - - Lisp Flavored Erlang (not yet documented)
 - - - - NewLisp (not yet documented)
@@ -554,20 +627,20 @@ This list is highly incomplete right now.
 </details>
 
 <!-- Progress
-ABAP
-ActionScript
+ABAP ✅️
+ActionScript ✅️
 ALGOL ✅️
 AWK ✅️
-AngelScript
-ASP.NET
-ASP
-Astro
+AngelScript ✅️
+ASP.NET ✅️
+ASP ✅️
+Astro ✅️
 Agda ✅️
 AMPL ✅️
 AppleScript ✅️
 Ada ✅️
-BrightScript
-BrighterScript
+BrightScript ✅️
+BrighterScript ✅️
 B ✅️
 Brainfuck
 Bikeshed
@@ -601,18 +674,18 @@ Fluent
 Fancy
 Fortran95
 GoogleGo ✅️
-Go-
+Go! ✅️
 GDScript ✅️
 GLSL
 GAP
-Gherkin
-GSC
+Gherkin ✅️
+GSC ✅️
 Haskell ✅️
 HTML
 HTTP
 HaProxy
 Hy ✅️
-HyPhy
+HyPhy ✅️
 Haxe ✅️
 Hack ✅️
 Inno-Setup
@@ -672,7 +745,7 @@ ReScript
 RouterOS-Script
 Scala ✅️
 Svelte
-Shell
+Shell ✅️
 Sage
 Slim
 TypeScript ✅️
@@ -683,11 +756,11 @@ UnrealScript
 Uno
 URLL ✅️
 Vala ✅️
-VBScript
-VB.NET
-V
+VBScript ✅️
+VB.NET ✅️
+V ✅️
 VHDL ✅️
-WebAssembly
+WebAssembly ✅️
 Wren
 Windows-Registry-Entry
 YASnippet
@@ -716,6 +789,8 @@ COBOL ✅️
 Component Pascal ✅️
 Clojure ✅️
 CMake ✅️
+CSON ✅️
+CLIPS ✅️
 !-->
 
 <!--
@@ -730,17 +805,17 @@ CMake ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `73 (2023, Sunday, August 13th at 10:50 pm PST)`
+**File version:** `74 (2023, Monday, August 14th at 06:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,263`
+**Line count (including blank lines and compiler line):** `2,361`
 
-**Word count:** `12,156`
+**Word count:** `12,562`
 
-**Character count (including spaces):** `87,232`
+**Character count (including spaces):** `90,787`
 
-**Character count (excluding spaces):** `73,004`
+**Character count (excluding spaces):** `75,678`
 
-**Size (in bytes):** `87,522`
+**Size (in bytes):** `91,153`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2248,6 +2323,29 @@ CMake ✅️
 - [ ] No other changes in version 73
 
 </details> <!-- V73 !-->
+
+<details><summary><p lang="en"><b>Version 74 (2023, Monday, August 14th at 06:42 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I did a major (nearly 1 hour long) push for language classification today, and had a gain of 16 definitions. Continuing for a third consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 18 new entries, 86 out of 166 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 74
+- [ ] No other changes in version 74
+
+</details> <!-- V74 !-->
 
 </details> <!-- End of file history !-->
 
