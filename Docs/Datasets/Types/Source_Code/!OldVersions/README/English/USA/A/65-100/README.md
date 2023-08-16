@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Monday, August 14th, there are `167` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Tuesday, August 16th, there are `169` source code datasets, with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -192,6 +192,8 @@ As of 2023, Monday, August 14th, there are `167` source code datasets, with many
 - - [:octocat: `AI2001 Category: Source Code ;SC: CMake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CMake/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CSON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSON/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CLIPS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CLIPS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Creole`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Creole/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CUDA`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUDA/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -217,7 +219,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Monday, August 13th) `166` / `??` (`???.??%`)
+Total languages (2023, Tuesday, August 15th) `168` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -229,9 +231,9 @@ Total languages (2023, Monday, August 13th) `166` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `086` out of `166` languages (`51.80%`) of the AI2001 linguistics toolchain, as of 2023, Monday, August 14th. It is currently missing `080` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `096` out of `168` languages (`57.14%`) of the AI2001 linguistics toolchain, as of 2023, Tuesday, August 15th. It is currently missing `072` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
-> On 2023, Monday, August 14th, I spent a lot of time, and defined 18 languages into the tree (2 from today, and 16 from the list) it took nearly an hour, yet it doesn't even add 10% progress. It is still a needed step. I would have to do this 5 more times to get caught up on this list. I am now past halfway caught up.
+> On 2023, Monday, August 14th, I spent a lot of time, and defined 18 languages into the tree (2 from today, and 16 from the list) it took nearly an hour, yet it doesn't even add 10% progress. It is still a needed step. I would have to do this 5 more times to get caught up on this list. I am now past halfway caught up. The next day, I defined 10 more languages into the tree (2 from today, and 8 from the list) it took less than 25 minutes, and it only added a little over 6% progress. If I keep up at this rate, I should be caught back up for sure by 2023, Thursday, August 31st.
 
 <!-- 2023 August 14th
 ABAP
@@ -249,6 +251,17 @@ V
 VB.NET
 Shell
 HyPhy
+!-->
+
+<!-- 2023 August 15th
+Svelte
+Mako
+HTML
+CSS
+CartoCSS
+LESS
+Jsonnet
+CSound
 !-->
 
 > There are so many descendants of C. Saying that your language is based on/a descendant of C based does not narrow down a list very much at all. It is like saying you are a descendant of Genghis Khan.
@@ -292,6 +305,7 @@ This list is highly incomplete right now.
 - - - - - - - - Agda ()
 - - - - - - - - C++ ()
 - - - - - - - - - AngelScript ()
+- - - - - - - - - CUDA ()
 - - - - - - - - C# ()
 - - - - - - - - Clean ()
 - - - - - - - - Clojure ()
@@ -322,6 +336,8 @@ This list is highly incomplete right now.
 - - - - - - - - - Kotlin ()
 - - - - - - - - - PHP ()
 - - - - - - - - - Python ()
+- - - - - - - - - - Jinja (not yet documented)
+- - - - - - - - - - Mako ()
 - - - - - - - - - Scala ()
 - - - - - - - - - Seed7 (not yet documented)
 - - - - - - - - - Vala ()
@@ -329,6 +345,8 @@ This list is highly incomplete right now.
 - - - - - - - - Mercury (not yet documented)
 - - - - - - - - PureScript (not yet documented)
 - - - - - - - - Python ()
+- - - - - - - - - Jinja (not yet documented)
+- - - - - - - - - Mako ()
 - - - - - - - - - reStructuredText ()
 - - - - - - - - Raku ()
 - - - - - - - - Rust ()
@@ -342,12 +360,16 @@ This list is highly incomplete right now.
 - - - - - - - - CoffeeScript ()
 - - - - - - - - - CSON ()
 - - - - - - - - DM ()
+- - - - - - - - ECMAScript (not yet documented)
 - - - - - - - - DogeScript ()
 - - - - - - - - JSON ()
+- - - - - - - - - Jsonnet ()
 - - - - - - - - JavaScript++ (not yet documented)
-- - - - - - - - ECMAScript (not yet documented)
+- - - - - - - - Svelte ()
 - - - - - - - Lua ()
 - - - - - - - Python ()
+- - - - - - - - Jinja (not yet documented)
+- - - - - - - - Mako ()
 - - - - - - - - reStructuredText ()
 - - - - - - - R ()
 - - - - - - - Racket ()
@@ -360,6 +382,7 @@ This list is highly incomplete right now.
 - - - - - Ada programming language ()
 - - - - - - C++ programming language ()
 - - - - - - - AngelScript ()
+- - - - - - - CUDA ()
 - - - - - - Chapel programming language (not yet documented)
 - - - - - - D programming language ()
 - - - - - - Eiffel programming language ()
@@ -378,6 +401,8 @@ This list is highly incomplete right now.
 - - - - - - - Kotlin ()
 - - - - - - - PHP ()
 - - - - - - - Python ()
+- - - - - - - - Jinja (not yet documented)
+- - - - - - - - Mako ()
 - - - - - - - Scala ()
 - - - - - - - Seed7 (not yet documented)
 - - - - - - - Vala ()
@@ -385,6 +410,8 @@ This list is highly incomplete right now.
 - - - - - - PLSQL programming language (not yet documented)
 - - - - - - PLpgSQL programming language (not yet documented)
 - - - - - - Python programming language ()
+- - - - - - - Jinja (not yet documented)
+- - - - - - - Mako ()
 - - - - - - - reStructuredText ()
 - - - - - - Ruby programming language ()
 - - - - - - - Crystal ()
@@ -411,7 +438,11 @@ This list is highly incomplete right now.
 - - - - - - - - - BrightScript programming language ()
 - - - - - - - - - - BrighterScript programming language ()
 - - - - - - - - - C++ programming language ()
+- - - - - - - - - CSound ()
+- - - - - - - - - - CSound Document (not yet documented)
+- - - - - - - - - - CSound Score (not yet documented)
 - - - - - - - - - AngelScript ()
+- - - - - - - - - CUDA ()
 - - - - - - - - - - C# programming language ()
 - - - - - - - - - CLIPS ()
 - - - - - - - - - CMake programming language ()
@@ -438,6 +469,8 @@ This list is highly incomplete right now.
 - - - - - - - - - - Kotlin ()
 - - - - - - - - - - PHP ()
 - - - - - - - - - - Python ()
+- - - - - - - - - - - Jinja (not yet documented)
+- - - - - - - - - - - Mako ()
 - - - - - - - - - - Scala ()
 - - - - - - - - - - Seed7 (not yet documented)
 - - - - - - - - - - Vala ()
@@ -445,6 +478,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - asm.js (not yet documented)
 - - - - - - - - - - - WebAssembly ()
 - - - - - - - - - - DogeScript ()
+- - - - - - - - - - Svelte ()
 - - - - - - - - - Limbo programming language ()
 - - - - - - - - - nesC programming language (not yet documented)
 - - - - - - - - - Nemerle programming language ()
@@ -467,6 +501,8 @@ This list is highly incomplete right now.
 - - - - - - - - - - - Kotlin ()
 - - - - - - - - - - - PHP ()
 - - - - - - - - - - - Python ()
+- - - - - - - - - - - - Jinja (not yet documented)
+- - - - - - - - - - - - Mako ()
 - - - - - - - - - - - Scala ()
 - - - - - - - - - - - Seed7 (not yet documented)
 - - - - - - - - - - - Vala ()
@@ -476,6 +512,8 @@ This list is highly incomplete right now.
 - - - - - - - - - Perl programming language ()
 - - - - - - - - - PHP programming language ()
 - - - - - - - - - Python 2 programming language ()
+- - - - - - - - - - Jinja (not yet documented)
+- - - - - - - - - - Mako ()
 - - - - - - - - - - reStructuredText ()
 - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - Boo (not yet documented)
@@ -491,6 +529,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - - asm.js (not yet documented)
 - - - - - - - - - - - - WebAssembly ()
 - - - - - - - - - - - DogeScript ()
+- - - - - - - - - - - Svelte ()
 - - - - - - - - - - Julia (not yet documented)
 - - - - - - - - - - Mojo (not yet documented)
 - - - - - - - - - - Nim ()
@@ -501,6 +540,8 @@ This list is highly incomplete right now.
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
 - - - - - - - - - Python 3 programming language ()
+- - - - - - - - - - Jinja (not yet documented)
+- - - - - - - - - - Mako ()
 - - - - - - - - - - reStructuredText ()
 - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - Boo (not yet documented)
@@ -516,6 +557,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - - asm.js (not yet documented)
 - - - - - - - - - - - - WebAssembly ()
 - - - - - - - - - - - DogeScript ()
+- - - - - - - - - - - Svelte ()
 - - - - - - - - - - Julia (not yet documented)
 - - - - - - - - - - Mojo (not yet documented)
 - - - - - - - - - - Nim ()
@@ -545,6 +587,8 @@ This list is highly incomplete right now.
 - - - - - - Kotlin programming language ()
 - - - - - - PHP programming language ()
 - - - - - - Python programming language ()
+- - - - - - - Jinja (not yet documented)
+- - - - - - - Mako ()
 - - - - - - - reStructuredText ()
 - - - - - - Scala programming language ()
 - - - - - - Seed7 programming language (not yet documented)
@@ -559,6 +603,7 @@ This list is highly incomplete right now.
 - - - - - - - DM ()
 - - - - - - - - - Shell ()
 - - - - - - - - - V ()
+- - - - - - - Svelte ()
 - - Information Processing Language (not yet documented)
 - - - Lisp programming language (not yet documented)
 - - - - Common Lisp (not yet documented)
@@ -570,8 +615,19 @@ This list is highly incomplete right now.
 - - - - NewLisp (not yet documented)
 - - - - PicoLisp (not yet documented)
 - - - - Racket (not yet documented)
+- IBM CP/CMS language (missing link)
+- - SCRIPT (language) (not yet documented)
+- - - EasyScript (not yet documented)
+- - - Generalized Markup Language (GML) (not yet documented)
+- - - - Standard Generalized Markup Language (SGML) (not yet documented)
+- - - - - XML (not yet documented)
+- - - - - HTML ()
+- - - - - - Cascade Styling Sheets (CSS) ()
+- - - - - - - CartoCSS ()
+- - - - - - - LESS ()
 - - Metasyntax (not yet documented)
 - - - EBNF ()
+- - - - Creole (markup) ()
 - - Natural language
 - - - AppleScript ()
 - - Currently uncategorized
@@ -648,12 +704,12 @@ Batchfile
 C ✅️
 Clean ✅️
 CSharp ✅️
-CSS
+CSS ✅️
 CSV
 Cadence
 C-Plus-Plus ✅️
-CSound
-CartoCSS
+CSound ✅️
+CartoCSS ✅️
 CAML
 D ✅️
 Dafny
@@ -681,7 +737,7 @@ GAP
 Gherkin ✅️
 GSC ✅️
 Haskell ✅️
-HTML
+HTML ✅️
 HTTP
 HaProxy
 Hy ✅️
@@ -694,11 +750,11 @@ Java ✅️
 JavaScript ✅️
 JSON ✅️
 J
-Jsonnet
+Jsonnet ✅️
 JetBrains-MPS
 Kotlin ✅️
 Lua ✅️
-Less
+Less ✅️
 Logos
 Lisp ✅️
 Limbo ✅️
@@ -706,7 +762,7 @@ Lean
 M
 Macaulay2
 Motoko
-Mako
+Mako ✅️
 Makefile
 Mathematica
 Monkey
@@ -744,7 +800,7 @@ Reason
 ReScript
 RouterOS-Script
 Scala ✅️
-Svelte
+Svelte ✅️
 Shell ✅️
 Sage
 Slim
@@ -791,6 +847,8 @@ Clojure ✅️
 CMake ✅️
 CSON ✅️
 CLIPS ✅️
+Creole ✅️
+CUDA ✅️
 !-->
 
 <!--
@@ -805,17 +863,17 @@ CLIPS ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `74 (2023, Monday, August 14th at 06:42 pm PST)`
+**File version:** `75 (2023, Tuesday, August 15th at 07:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,361`
+**Line count (including blank lines and compiler line):** `2,442`
 
-**Word count:** `12,562`
+**Word count:** `12,905`
 
-**Character count (including spaces):** `90,787`
+**Character count (including spaces):** `93,778`
 
-**Character count (excluding spaces):** `75,678`
+**Character count (excluding spaces):** `77,946`
 
-**Size (in bytes):** `91,153`
+**Size (in bytes):** `94,184`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2346,6 +2404,29 @@ CLIPS ✅️
 - [ ] No other changes in version 74
 
 </details> <!-- V74 !-->
+
+<details><summary><p lang="en"><b>Version 75 (2023, Tuesday, August 15th at 07:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I did a ~25 minute push for language classification today, and had a gain of 8 definitions. Continuing for a fourth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 10 new entries, 96 out of 168 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 75
+- [ ] No other changes in version 75
+
+</details> <!-- V75 -->
 
 </details> <!-- End of file history !-->
 
