@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Wednesday, August 16th, there are `171` source code datasets, with many more coming in the coming months. They include:
+As of 2023, Thursday, August 17th, there are `175` source code datasets (containing support for 174 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -196,6 +196,10 @@ As of 2023, Wednesday, August 16th, there are `171` source code datasets, with m
 - - [:octocat: `AI2001 Category: Source Code ;SC: CUDA`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUDA/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Chapel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Chapel/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Cython`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cython/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cap'n Proto`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cap-n-Proto/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CAP-CDS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAP-CDS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Rascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rascal/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Scheme`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scheme/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -221,7 +225,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Wednesday, August 16th) `170` / `??` (`???.??%`)
+Total languages (2023, Thursday, August 17th) `174` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -233,7 +237,7 @@ Total languages (2023, Wednesday, August 16th) `170` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `128` out of `170` languages (`75.29%`) of the AI2001 linguistics toolchain, as of 2023, Wednesday, August 16th. It is currently missing `050` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `146` out of `174` languages (`83.90%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, August 17th. It is currently missing `028` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 > On 2023, Monday, August 14th, I spent a lot of time, and defined 18 languages into the tree (2 from today, and 16 from the list) it took nearly an hour, yet it doesn't even add 10% progress. It is still a needed step. I would have to do this 5 more times to get caught up on this list. I am now past halfway caught up. The next day, I defined 10 more languages into the tree (2 from today, and 8 from the list) it took less than 25 minutes, and it only added a little over 6% progress. If I keep up at this rate, I should be caught back up for sure by 2023, Thursday, August 31st.
 
@@ -307,6 +311,25 @@ Ragel (EBNF)
 RouterOS Script (Rascal, assumed (no sources found)) <-> Rascal (Java)
 ```
 
+On 2023, Thursday, August 17th, I made another push, this one took about an hour, and I was only able to gain 12 definitions (unlike yesterday, which I got nearly 3x more in 15 minutes less time) I am starting to scrape the bottom of the barrel here, so of course it is getting slower. I gained 16 languages in total, and may have miscalculated yesterdays entry by 2 or more.
+
+**2023 August 17th notes**
+
+```
+Fortran95
+Brainfuck
+Bikeshed
+Batchfile
+Cadence
+Dhall
+DIGITAL Command Language
+EJS
+GLSL
+Makefile
+Monkey
+Monkey-C
+```
+
 > There are so many descendants of C. Saying that your language is based on/a descendant of C based does not narrow down a list very much at all. It is like saying you are a descendant of Genghis Khan.
 
 <!-- PS: For most newer entries, the entry only needs the (not yet documented) line to be replaced with () !-->
@@ -314,6 +337,10 @@ RouterOS Script (Rascal, assumed (no sources found)) <-> Rascal (Java)
 > **()** _empty brackets_ indicate that dialects have not yet been determined, or that this is a language and not a language grouping
 
 > **not yet documented** means that they are not/may not be properly placed in the tree, and may need to be added to a subdivision category. It also indicates that the language may not even be present in the AI2001 toolchain at the moment, which an alarmingly high number of important languages fall into this category.
+
+How languages are currently documented:
+
+Languages are currently documented in a recursive fashion that needs improvement. Languages are defined into families, similar to Linguistic family trees. Each descendent is determined based on what languages/methods it is influenced by, and/or what language it is a descendant of. Due to the fact that some languages have influenced multiple languages, some entries are listed several times in the tree, notably JavaScript, JavaScript++, Ruby, Python, and more. Older entries may have only been listed 1 to 2 times, and do not follow this recursive model. A better method is needed, and this tree will either need to be improved, or rewritten in the future, while it will always be maintained as a recursive tree. As a fallback, it also goes by the language used to write the influenced language, or the programming paradigm (if all 3 other conditions can't be found)
 
 This list is highly incomplete right now.
 
@@ -324,6 +351,10 @@ This list is highly incomplete right now.
 - - - FLOW-MATIC (not yet documented)
 - - - - COBOL ()
 - - - - - ABAP ()
+- Machine code (not yet documented)
+- - Assembly language (not yet documented)
+- - - FORTRAN language (not yet documented)
+- - - - Fortran95 ()
 - High level programming languages
 - - Begriffsschrift (not yet documented)
 - - - Plankalkül programming language (not yet documented)
@@ -347,7 +378,7 @@ This list is highly incomplete right now.
 - - - - - - - - - Go! ()
 - - - - ALGOL 58/68 programming languages (not yet documented)
 - - - - - ALGOL ()
-- - - - - - Scheme (not yet documented)
+- - - - - - Scheme ()
 - - - - - - - Clojure ()
 - - - - - - - Clean ()
 - - - - - - - Dylan ()
@@ -365,6 +396,7 @@ This list is highly incomplete right now.
 - - - - - - - - Clojure ()
 - - - - - - - - CoffeeScript ()
 - - - - - - - - - CSON ()
+- - - - - - - - Dhall ()
 - - - - - - - - Elm ()
 - - - - - - - - Epigram ()
 - - - - - - - - F# ()
@@ -374,6 +406,8 @@ This list is highly incomplete right now.
 - - - - - - - - - Elm ()
 - - - - - - - - - F* (not yet documented)
 - - - - - - - - - LiveScript (not yet documented)
+- - - - - - - SKILL (not yet documented)
+- - - - - - - Cadence ()
 - - - - - - - - Hack ()
 - - - - - - - - Idris (not yet documented)
 - - - - - - - - Isabelle (not yet documented)
@@ -386,6 +420,7 @@ This list is highly incomplete right now.
 - - - - - - - - - Chapel ()
 - - - - - - - - - Clojure ()
 - - - - - - - - - DataWeave (not yet documented)
+- - - - - - - - - EJS ()
 - - - - - - - - - Fantom (not yet documented)
 - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - Hack ()
@@ -422,8 +457,12 @@ This list is highly incomplete right now.
 - - - - - - - - - WebAssembly ()
 - - - - - - - - CoffeeScript ()
 - - - - - - - - - CSON ()
+- - - - - - - - CDS (not yet documented)
+- - - - - - - - - CAP (not yet documented)
+- - - - - - - - - - CAP-CDS
 - - - - - - - - DM ()
 - - - - - - - - ECMAScript (not yet documented)
+- - - - - - - - EJSS (not yet documented)
 - - - - - - - - DogeScript ()
 - - - - - - - - JSON ()
 - - - - - - - - - Jsonnet ()
@@ -462,6 +501,7 @@ This list is highly incomplete right now.
 - - - - - - - Chapel ()
 - - - - - - - Clojure ()
 - - - - - - - DataWeave (not yet documented)
+- - - - - - - EJS ()
 - - - - - - - Fantom (not yet documented)
 - - - - - - - Groovy (not yet documented)
 - - - - - - - Hack ()
@@ -495,6 +535,10 @@ This list is highly incomplete right now.
 - - - - - - SQL programming language (not yet documented)
 - - - - - - VHDL programming language ()
 - - - - - BASIC programming language (not yet documented)
+- - - - - - BlitzBASIC (not yet documented)
+- - - - - - - BlitzMax (not yet documented)
+- - - - - - - - Monkey ()
+- - - - - - - - - Monkey-C ()
 - - - - - - Earthly programming language ()
 - - - - - - Visual Basic ()
 - - - - - - - VBScript ()
@@ -527,6 +571,7 @@ This list is highly incomplete right now.
 - - - - - - - - - Dart programming language ()
 - - - - - - - - - DTrace language ()
 - - - - - - - - - E programming language ()
+- - - - - - - - - GLSL ()
 - - - - - - - - - Google Go programming language ()
 - - - - - - - - - GSC ()
 - - - - - - - - - Hack programming language ()
@@ -540,6 +585,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - Chapel ()
 - - - - - - - - - - Clojure ()
 - - - - - - - - - - DataWeave (not yet documented)
+- - - - - - - - - - EJS ()
 - - - - - - - - - - Fantom (not yet documented)
 - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - Hack ()
@@ -559,11 +605,16 @@ This list is highly incomplete right now.
 - - - - - - - - - JavaScript programming language ()
 - - - - - - - - - - asm.js (not yet documented)
 - - - - - - - - - - - WebAssembly ()
+- - - - - - - - - - CDS (not yet documented)
+- - - - - - - - - - - CAP (not yet documented)
+- - - - - - - - - - - - CAP-CDS
 - - - - - - - - - - DogeScript ()
+- - - - - - - - - - EJSS (not yet documented)
 - - - - - - - - - - QML ()
 - - - - - - - - - - Svelte ()
 - - - - - - - - - Wren()
 - - - - - - - - - Limbo programming language ()
+- - - - - - - - - Makefile ()
 - - - - - - - - - nesC programming language (not yet documented)
 - - - - - - - - - Nemerle programming language ()
 - - - - - - - - - Nim programming language ()
@@ -579,6 +630,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - - Chapel ()
 - - - - - - - - - - - Clojure ()
 - - - - - - - - - - - DataWeave (not yet documented)
+- - - - - - - - - - - EJS ()
 - - - - - - - - - - - Fantom (not yet documented)
 - - - - - - - - - - - Groovy (not yet documented)
 - - - - - - - - - - - Hack ()
@@ -592,7 +644,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - - - Jinja (not yet documented)
 - - - - - - - - - - - - Mako ()
 - - - - - - - - - - - - Ren'Py ()
-- - - - - - - - - - - Rascal (not yet documented)
+- - - - - - - - - - - Rascal ()
 - - - - - - - - - - - - RouterOS scrupt (assumed to be Rascal, but no sources found)
 - - - - - - - - - - - Scala ()
 - - - - - - - - - - - Seed7 (not yet documented)
@@ -621,7 +673,11 @@ This list is highly incomplete right now.
 - - - - - - - - - - JavaScript ()
 - - - - - - - - - - - asm.js (not yet documented)
 - - - - - - - - - - - - WebAssembly ()
+- - - - - - - - - - - CDS (not yet documented)
+- - - - - - - - - - - - CAP (not yet documented)
+- - - - - - - - - - - - - CAP-CDS
 - - - - - - - - - - - DogeScript ()
+- - - - - - - - - - - EJSS (not yet documented)
 - - - - - - - - - - - Svelte ()
 - - - - - - - - - - Julia (not yet documented)
 - - - - - - - - - - Mojo (not yet documented)
@@ -652,7 +708,11 @@ This list is highly incomplete right now.
 - - - - - - - - - - JavaScript ()
 - - - - - - - - - - - asm.js (not yet documented)
 - - - - - - - - - - - - WebAssembly ()
+- - - - - - - - - - - CDS (not yet documented)
+- - - - - - - - - - - - CAP (not yet documented)
+- - - - - - - - - - - - - CAP-CDS
 - - - - - - - - - - - DogeScript ()
+- - - - - - - - - - - EJSS (not yet documented)
 - - - - - - - - - - - Svelte ()
 - - - - - - - - - - Julia (not yet documented)
 - - - - - - - - - - Mojo (not yet documented)
@@ -679,6 +739,7 @@ This list is highly incomplete right now.
 - - - - - - - Q# ()
 - - - - - - Chapel programming language ()
 - - - - - - Clojure programming language ()
+- - - - - - EJS ()
 - - - - - - Fantom programming language (not yet documented)
 - - - - - - Groovy programming language (not yet documented)
 - - - - - - Hack programming language ()
@@ -697,7 +758,11 @@ This list is highly incomplete right now.
 - - - - - - JavaScript programming language ()
 - - - - - - - asm.js (not yet documented)
 - - - - - - - - WebAssembly ()
+- - - - - - - CDS (not yet documented)
+- - - - - - - - CAP (not yet documented)
+- - - - - - - - - CAP-CDS
 - - - - - - - DogeScript ()
+- - - - - - - EJSS (not yet documented)
 - - - - - - - JavaScript++ programming language (not yet documented)
 - - - - - - - CoffeeScript ()
 - - - - - - - - CSON ()
@@ -731,7 +796,10 @@ This list is highly incomplete right now.
 - - - - - - - Cascade Styling Sheets (CSS) ()
 - - - - - - - - CartoCSS ()
 - - - - - - --  LESS ()
-- - Mathematical Notation (not yet documented)
+- Imperative programming languages (not yet documented)
+- - DIGITAL Command Language ()
+- - - PowerShell (not yet documented)
+- Mathematical Notation (not yet documented)
 - - - APL (not yet documented)
 - - - - MATLAB (not yet documented)
 - - - - - Octave ()
@@ -749,16 +817,25 @@ This list is highly incomplete right now.
 - - - Configuration language (CFG) (not yet documented)
 - - - - Desktop ()
 - - - - HTTP ()
+- - - - - Bikeshed ()
 - - - - INI ()
 - - - - Pod ()
 - - - - TOML ()
 - - - Markup languages (not yet documented)
 - - - - Markdown ()
+- - Primitive languages (not yet documented)
+- - - P′′ (not yet documented)
+- - - - Brainfuck ()
+- - - - - Malbodge (not yet documented)
+- - Remote Procedure Call (RPC) (not yet documented)
+- - - Cap'n Proto ()
 - - Reverse Polish Notation (not yet documented)
 - - - Forth (not yet documented)
 - - - - Factor ()
 - - - - Rebol (not yet documented)
 - - - - - Red ()
+- - Scripting languages
+- - - Batchfile ()
 - - Currently uncategorized
 - - - Earthly ()
 
@@ -827,15 +904,15 @@ Ada ✅️
 BrightScript ✅️
 BrighterScript ✅️
 B ✅️
-Brainfuck 📋️
-Bikeshed 📋️
-Batchfile 📋️
+Brainfuck ✅️
+Bikeshed ✅️
+Batchfile ✅️
 C ✅️
 Clean ✅️
 CSharp ✅️
 CSS ✅️
 CSV ✅️
-Cadence 📋️
+Cadence ✅️
 C-Plus-Plus ✅️
 CSound ✅️
 CartoCSS ✅️
@@ -845,23 +922,23 @@ Dafny ✅️
 Dart ✅️
 Desktop ✅️
 Diff ✅️
-Dhall 📋️
-DIGITAL-Command-Language 📋️
+Dhall ✅️
+DIGITAL-Command-Language ✅️
 E ✅️
 Erlang ✅️
 Eiffel ✅️
-EJS 📋️
+EJS ✅️
 Epigram ✅️
 F-Sharp ✅️
 Fish ✅️
 Factor ✅️
 Fluent 📋️
 Fancy 📋️
-Fortran95 📋️
+Fortran95 ✅️
 GoogleGo ✅️
 Go! ✅️
 GDScript ✅️
-GLSL 📋️
+GLSL ✅️
 GAP 📋️
 Gherkin ✅️
 GSC ✅️
@@ -892,10 +969,10 @@ M 📋️
 Macaulay2 📋️
 Motoko 📋️
 Mako ✅️
-Makefile 📋️
+Makefile ✅️
 Mathematica 📋️
-Monkey 📋️
-Monkey-C 📋️
+Monkey ✅️
+Monkey-C ✅️
 Max 📋️
 MAXScript 📋️
 Metal 📋️
@@ -980,6 +1057,10 @@ Creole ✅️
 CUDA ✅️
 Chapel ✅️
 Cython ✅️
+Cap'n Proto ✅️
+CAP-CDS ✅️
+Rascal ✅️
+Scheme ✅️
 !-->
 
 <!--
@@ -994,17 +1075,17 @@ Cython ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `76 (2023, Wednesday, August 16th at 05:50 pm PST)`
+**File version:** `77 (2023, Thursday, August 17th at 06:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,596`
+**Line count (including blank lines and compiler line):** `2,700`
 
-**Word count:** `13,355`
+**Word count:** `13,956`
 
-**Character count (including spaces):** `98,352`
+**Character count (including spaces):** `102,975`
 
-**Character count (excluding spaces):** `81,272`
+**Character count (excluding spaces):** `84,936`
 
-**Size (in bytes):** `99,071`
+**Size (in bytes):** `103,702`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2581,6 +2662,29 @@ Cython ✅️
 - [ ] No other changes in version 76
 
 </details> <!-- V76 -->
+
+<details><summary><p lang="en"><b>Version 77 (2023, Thursday, August 17th at 06:42 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I did a ~60 minute push for language classification today, and had a gain of only 12 definitions. Continuing for a sixth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 14 new entries, 144 out of 174 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 77
+- [ ] No other changes in version 77
+
+</details> <!-- V77 -->
 
 </details> <!-- End of file history !-->
 
