@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Thursday, August 17th, there are `175` source code datasets (containing support for 174 languages) with many more coming in the coming months. They include:
+As of 2023, Saturday, August 19th, there are `179` source code datasets (containing support for 174 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -200,6 +200,10 @@ As of 2023, Thursday, August 17th, there are `175` source code datasets (contain
 - - [:octocat: `AI2001 Category: Source Code ;SC: CAP-CDS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAP-CDS/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Rascal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rascal/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Scheme`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scheme/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CommonLisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CommonLisp/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cool`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cool/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CommonWorkflowLanguage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CommonWorkflowLanguage/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Closure Templates`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Closure-Templates/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -225,7 +229,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Thursday, August 17th) `174` / `??` (`???.??%`)
+Total languages (2023, Saturday, August 19th) `178` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -237,7 +241,7 @@ Total languages (2023, Thursday, August 17th) `174` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `146` out of `174` languages (`83.90%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, August 17th. It is currently missing `028` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `147` out of `178` languages (`82.58%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, August 19th. It is currently missing `031` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 > On 2023, Monday, August 14th, I spent a lot of time, and defined 18 languages into the tree (2 from today, and 16 from the list) it took nearly an hour, yet it doesn't even add 10% progress. It is still a needed step. I would have to do this 5 more times to get caught up on this list. I am now past halfway caught up. The next day, I defined 10 more languages into the tree (2 from today, and 8 from the list) it took less than 25 minutes, and it only added a little over 6% progress. If I keep up at this rate, I should be caught back up for sure by 2023, Thursday, August 31st.
 
@@ -329,6 +333,8 @@ Makefile
 Monkey
 Monkey-C
 ```
+
+On 2023, Friday, August 18th, I did not work on this project. The next day (2023, Saturday, August 19th) I decided to allow myself to fall further behind, so that I could get caught up on other projects.
 
 > There are so many descendants of C. Saying that your language is based on/a descendant of C based does not narrow down a list very much at all. It is like saying you are a descendant of Genghis Khan.
 
@@ -774,7 +780,7 @@ This list is highly incomplete right now.
 - - - - - - - Svelte ()
 - - Information Processing Language (not yet documented)
 - - - Lisp programming language (not yet documented)
-- - - - Common Lisp (not yet documented)
+- - - - Common Lisp ()
 - - - - Emacs Lisp ()
 - - - - - YASnippet ()
 - - - - Hy ()
@@ -1061,6 +1067,10 @@ Cap'n Proto ✅️
 CAP-CDS ✅️
 Rascal ✅️
 Scheme ✅️
+CommonLisp ✅️
+Cool 📋️
+CommonWorkflowLanguage 📋️
+Closure Templates 📋️
 !-->
 
 <!--
@@ -1075,17 +1085,17 @@ Scheme ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `77 (2023, Thursday, August 17th at 06:42 pm PST)`
+**File version:** `78 (2023, Saturday, August 19th at 09:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,700`
+**Line count (including blank lines and compiler line):** `2,733`
 
-**Word count:** `13,956`
+**Word count:** `14,253`
 
-**Character count (including spaces):** `102,975`
+**Character count (including spaces):** `104,895`
 
-**Character count (excluding spaces):** `84,936`
+**Character count (excluding spaces):** `86,570`
 
-**Size (in bytes):** `103,702`
+**Size (in bytes):** `105,641`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2685,6 +2695,29 @@ Scheme ✅️
 - [ ] No other changes in version 77
 
 </details> <!-- V77 -->
+
+<details><summary><p lang="en"><b>Version 78 (2023, Saturday, August 19th at 09:43 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I skipped yesterday, as I had a really hard day yesterday. Today, I only did partial work, and let myself fall back 1% so that I can get caught back up on other projects. I see it as a necessary loss, as the 3 entries I didn't gain can be caught up for easily the next time I work on this file, and I wouldn't have the time to properly document them tonight anyways. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 1 new entry, 147 out of 178 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 78
+- [ ] No other changes in version 78
+
+</details> <!-- V78 -->
 
 </details> <!-- End of file history !-->
 
