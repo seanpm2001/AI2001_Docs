@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Saturday, August 19th, there are `179` source code datasets (containing support for 174 languages) with many more coming in the coming months. They include:
+As of 2023, Sunday, August 20th, there are `181` source code datasets (containing support for 180 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -204,6 +204,8 @@ As of 2023, Saturday, August 19th, there are `179` source code datasets (contain
 - - [:octocat: `AI2001 Category: Source Code ;SC: Cool`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cool/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CommonWorkflowLanguage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CommonWorkflowLanguage/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Closure Templates`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Closure-Templates/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Classic ASP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Classic-ASP/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CUE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUE/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -229,7 +231,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Saturday, August 19th) `178` / `??` (`???.??%`)
+Total languages (2023, Sunday, August 20th) `180` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -241,7 +243,7 @@ Total languages (2023, Saturday, August 19th) `178` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `147` out of `178` languages (`82.58%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, August 19th. It is currently missing `031` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `147` out of `180` languages (`81.66%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, August 20th. It is currently missing `031` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 > On 2023, Monday, August 14th, I spent a lot of time, and defined 18 languages into the tree (2 from today, and 16 from the list) it took nearly an hour, yet it doesn't even add 10% progress. It is still a needed step. I would have to do this 5 more times to get caught up on this list. I am now past halfway caught up. The next day, I defined 10 more languages into the tree (2 from today, and 8 from the list) it took less than 25 minutes, and it only added a little over 6% progress. If I keep up at this rate, I should be caught back up for sure by 2023, Thursday, August 31st.
 
@@ -334,7 +336,7 @@ Monkey
 Monkey-C
 ```
 
-On 2023, Friday, August 18th, I did not work on this project. The next day (2023, Saturday, August 19th) I decided to allow myself to fall further behind, so that I could get caught up on other projects.
+On 2023, Friday, August 18th, I did not work on this project. The next day (2023, Saturday, August 19th) I decided to allow myself to fall further behind, so that I could get caught up on other projects. On 2023, Sunday, August 20th, a task took too much time, and with increased difficulty in classifying languages, along with lower morale, the project fell even further behind.
 
 > There are so many descendants of C. Saying that your language is based on/a descendant of C based does not narrow down a list very much at all. It is like saying you are a descendant of Genghis Khan.
 
@@ -1071,6 +1073,8 @@ CommonLisp ✅️
 Cool 📋️
 CommonWorkflowLanguage 📋️
 Closure Templates 📋️
+Classic ASP 📋️
+CUE 📋️
 !-->
 
 <!--
@@ -1085,17 +1089,17 @@ Closure Templates 📋️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `78 (2023, Saturday, August 19th at 09:43 pm PST)`
+**File version:** `79 (2023, Sunday, August 19th at 10:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,733`
+**Line count (including blank lines and compiler line):** `2,760`
 
-**Word count:** `14,253`
+**Word count:** `14,457`
 
-**Character count (including spaces):** `104,895`
+**Character count (including spaces):** `106,201`
 
-**Character count (excluding spaces):** `86,570`
+**Character count (excluding spaces):** `87,669`
 
-**Size (in bytes):** `105,641`
+**Size (in bytes):** `106,957`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2718,6 +2722,29 @@ Closure Templates 📋️
 - [ ] No other changes in version 78
 
 </details> <!-- V78 -->
+
+<details><summary><p lang="en"><b>Version 79 (2023, Sunday, August 20th at 10:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I only did partial work again today, and let myself fall back another 1% so that I can get caught back up on other projects Continuing for a second consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 147 out of 180 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 79
+- [ ] No other changes in version 79
+
+</details> <!-- V79 -->
 
 </details> <!-- End of file history !-->
 
