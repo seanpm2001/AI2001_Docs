@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, August 20th, there are `181` source code datasets (containing support for 180 languages) with many more coming in the coming months. They include:
+As of 2023, Monday, August 21st, there are `183` source code datasets (containing support for 182 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -206,6 +206,8 @@ As of 2023, Sunday, August 20th, there are `181` source code datasets (containin
 - - [:octocat: `AI2001 Category: Source Code ;SC: Closure Templates`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Closure-Templates/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Classic ASP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Classic-ASP/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CUE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUE/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ballerina`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ballerina/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BASIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BASIC/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -231,7 +233,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Sunday, August 20th) `180` / `??` (`???.??%`)
+Total languages (2023, Monday, August 21st) `182` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -243,13 +245,17 @@ Total languages (2023, Sunday, August 20th) `180` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `147` out of `180` languages (`81.66%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, August 20th. It is currently missing `031` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `161` out of `182` languages (`88.46%`) of the AI2001 linguistics toolchain, as of 2023, Monday, August 21st. It is currently missing `021` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off.
+
+##### Timeline
+
+<details><summary><p><b>Click/tap here to expand/collapse the timeline</b></p></summary>
 
 > On 2023, Monday, August 14th, I spent a lot of time, and defined 18 languages into the tree (2 from today, and 16 from the list) it took nearly an hour, yet it doesn't even add 10% progress. It is still a needed step. I would have to do this 5 more times to get caught up on this list. I am now past halfway caught up. The next day, I defined 10 more languages into the tree (2 from today, and 8 from the list) it took less than 25 minutes, and it only added a little over 6% progress. If I keep up at this rate, I should be caught back up for sure by 2023, Thursday, August 31st.
 
 **2023 August 14th notes**
 
-```
+```plain-text
 ABAP
 Prolog
 Go!
@@ -269,7 +275,7 @@ HyPhy
 
 **2023 August 15th notes**
 
-```
+```plain-text
 Svelte
 Mako
 HTML
@@ -284,7 +290,7 @@ On 2023, Wednesday, August 16th, I made significant progress, as I picked a few 
 
 **2023 August 16th notes**
 
-```
+```plain-text
 CSV
 Diff
 Desktop
@@ -321,7 +327,7 @@ On 2023, Thursday, August 17th, I made another push, this one took about an hour
 
 **2023 August 17th notes**
 
-```
+```plain-text
 Fortran95
 Brainfuck
 Bikeshed
@@ -337,6 +343,27 @@ Monkey-C
 ```
 
 On 2023, Friday, August 18th, I did not work on this project. The next day (2023, Saturday, August 19th) I decided to allow myself to fall further behind, so that I could get caught up on other projects. On 2023, Sunday, August 20th, a task took too much time, and with increased difficulty in classifying languages, along with lower morale, the project fell even further behind.
+
+On 2023, Monday, August 21st, I came back to the project, and documented 12 more languages, giving myself a 7:00 pm deadline. A new practice, where a language can be appended to multiple list entries (based on its influences) was started, which further complicates the project.
+
+**2023 August 21st notes**
+
+```plain-text
+Classic ASP
+CUE
+Closure Templates (Java, this is a guess, as the majority of the main implementation is written in Java)
+Cool (C, this is a guess,  I spent some time researching it, and can't go further due to time constraints)
+Common Workflow Language (this one is indefinite as well, but seems to be written mostly in Python, so I will go with that)
+ZIL
+ZAP
+Uno
+UnrealScript (now beginning to attribute a language to multiple influences as needed)
+q
+Sage
+Slim
+```
+
+</details>
 
 > There are so many descendants of C. Saying that your language is based on/a descendant of C based does not narrow down a list very much at all. It is like saying you are a descendant of Genghis Khan.
 
@@ -363,6 +390,7 @@ This list is highly incomplete right now.
 - - Assembly language (not yet documented)
 - - - FORTRAN language (not yet documented)
 - - - - Fortran95 ()
+- - - ZAP ()
 - High level programming languages
 - - Begriffsschrift (not yet documented)
 - - - Plankalkül programming language (not yet documented)
@@ -397,9 +425,11 @@ This list is highly incomplete right now.
 - - - - - - - - - Bro (not yet documented)
 - - - - - - - - - - Zeek ()
 - - - - - - - - - CUDA ()
+- - - - - - - - - UnrealScript ()
 - - - - - - - - C# ()
 - - - - - - - - - Dafny ()
 - - - - - - - - - Q# ()
+- - - - - - - - - Uno ()
 - - - - - - - - Clean ()
 - - - - - - - - Clojure ()
 - - - - - - - - CoffeeScript ()
@@ -411,6 +441,7 @@ This list is highly incomplete right now.
 - - - - - - - - - C# ()
 - - - - - - - - - - Dafny ()
 - - - - - - - - - - Q# ()
+- - - - - - - - - - Uno ()
 - - - - - - - - - Elm ()
 - - - - - - - - - F* (not yet documented)
 - - - - - - - - - LiveScript (not yet documented)
@@ -421,12 +452,15 @@ This list is highly incomplete right now.
 - - - - - - - - Isabelle (not yet documented)
 - - - - - - - - Java ()
 - - - - - - - - - ActionScript ()
+- - - - - - - - - Ballerina ()
 - - - - - - - - - C# ()
 - - - - - - - - - - Dafny ()
 - - - - - - - - - - Q# ()
+- - - - - - - - - - Uno ()
 - - - - - - - - - Ceylon ()
 - - - - - - - - - Chapel ()
 - - - - - - - - - Clojure ()
+- - - - - - - - - Closure Templates ()
 - - - - - - - - - DataWeave (not yet documented)
 - - - - - - - - - EJS ()
 - - - - - - - - - Fantom (not yet documented)
@@ -438,22 +472,29 @@ This list is highly incomplete right now.
 - - - - - - - - - Kotlin ()
 - - - - - - - - - PHP ()
 - - - - - - - - - Python ()
+- - - - - - - - - - Common Workflow Language ()
 - - - - - - - - - - Cython ()
+- - - - - - - - - - - Sage ()
 - - - - - - - - - - Jinja (not yet documented)
 - - - - - - - - - - Mako ()
 - - - - - - - - - - Ren'Py ()
+- - - - - - - - - - Sage ()
 - - - - - - - - - Scala ()
 - - - - - - - - - Seed7 (not yet documented)
+- - - - - - - - - UnrealScript ()
 - - - - - - - - - Vala ()
 - - - - - - - - LiveScript (not yet documented)
 - - - - - - - - Mercury (not yet documented)
 - - - - - - - - PureScript (not yet documented)
 - - - - - - - - Python ()
+- - - - - - - - - Common Workflow Language ()
 - - - - - - - - - Cython ()
+- - - - - - - - - - Sage ()
 - - - - - - - - - Jinja (not yet documented)
 - - - - - - - - - Mako ()
 - - - - - - - - - Ren'Py ()
 - - - - - - - - - reStructuredText ()
+- - - - - - - - - Sage ()
 - - - - - - - - Raku ()
 - - - - - - - - Rust ()
 - - - - - - - - Scala (not yet documented)
@@ -473,17 +514,21 @@ This list is highly incomplete right now.
 - - - - - - - - EJSS (not yet documented)
 - - - - - - - - DogeScript ()
 - - - - - - - - JSON ()
+- - - - - - - - - CUE ()
 - - - - - - - - - Jsonnet ()
 - - - - - - - - JavaScript++ (not yet documented)
 - - - - - - - - QML ()
 - - - - - - - - Svelte ()
 - - - - - - - Lua ()
 - - - - - - - Python ()
+- - - - - - - - Common Workflow Language ()
 - - - - - - - - Cython ()
+- - - - - - - - - Sage ()
 - - - - - - - - Jinja (not yet documented)
 - - - - - - - - Mako ()
 - - - - - - - - Ren'Py ()
 - - - - - - - - reStructuredText ()
+- - - - - - - - Sage ()
 - - - - - - - R ()
 - - - - - - - - RMarkdown ()
 - - - - - - - Racket ()
@@ -497,17 +542,21 @@ This list is highly incomplete right now.
 - - - - - - C++ programming language ()
 - - - - - - - AngelScript ()
 - - - - - - - CUDA ()
+- - - - - - - UnrealScript ()
 - - - - - - Chapel programming language (not yet documented)
 - - - - - - D programming language ()
 - - - - - - Eiffel programming language ()
 - - - - - - Java programming language ()
 - - - - - - - ActionScript ()
+- - - - - - - Ballerina ()
 - - - - - - - C# ()
 - - - - - - - - Dafny ()
 - - - - - - - - Q# ()
+- - - - - - - - Uno ()
 - - - - - - - Ceylon ()
 - - - - - - - Chapel ()
 - - - - - - - Clojure ()
+- - - - - - - Closure Templates ()
 - - - - - - - DataWeave (not yet documented)
 - - - - - - - EJS ()
 - - - - - - - Fantom (not yet documented)
@@ -519,22 +568,29 @@ This list is highly incomplete right now.
 - - - - - - - Kotlin ()
 - - - - - - - PHP ()
 - - - - - - - Python ()
+- - - - - - - -  Common Workflow Language ()
 - - - - - - - - Cython ()
+- - - - - - - - - Sage ()
 - - - - - - - - Jinja (not yet documented)
 - - - - - - - - Mako ()
 - - - - - - - - Ren'Py ()
+- - - - - - - - Sage ()
 - - - - - - - Scala ()
 - - - - - - - Seed7 (not yet documented)
+- - - - - - - UnrealScript ()
 - - - - - - - Vala ()
 - - - - - - Nim programming language ()
 - - - - - - PLSQL programming language (not yet documented)
 - - - - - - PLpgSQL programming language (not yet documented)
 - - - - - - Python programming language ()
+- - - - - - - Common Workflow Language ()
 - - - - - - - Cython ()
+- - - - - - - - Sage ()
 - - - - - - - Jinja (not yet documented)
 - - - - - - - Mako ()
 - - - - - - - Ren'Py ()
 - - - - - - - reStructuredText ()
+- - - - - - - Sage ()
 - - - - - - Ruby programming language ()
 - - - - - - - Crystal ()
 - - - - - - - Elixir ()
@@ -542,7 +598,7 @@ This list is highly incomplete right now.
 - - - - - - Seed7 programming language (not yet documented)
 - - - - - - SQL programming language (not yet documented)
 - - - - - - VHDL programming language ()
-- - - - - BASIC programming language (not yet documented)
+- - - - - BASIC programming language ()
 - - - - - - BlitzBASIC (not yet documented)
 - - - - - - - BlitzMax (not yet documented)
 - - - - - - - - Monkey ()
@@ -551,7 +607,7 @@ This list is highly incomplete right now.
 - - - - - - Visual Basic ()
 - - - - - - - VBScript ()
 - - - - - - - - PowerShell (not yet documented)
-- - - - - - - - ASP (Action Server Pages) ()
+- - - - - - - - (Clasisic) ASP (Action Server Pages) ()
 - - - - - - - - - ASP.NET (Action Server Pages .NET) ()
 - - - - - - - - - - ASP (Action Server Pages) ()
 - - - - - - - Visual Basic .NET (VB.NET) ()
@@ -565,6 +621,8 @@ This list is highly incomplete right now.
 - - - - - - - - - BrightScript programming language ()
 - - - - - - - - - - BrighterScript programming language ()
 - - - - - - - - - C++ programming language ()
+- - - - - - - - - - UnrealScript ()
+- - - - - - - - - Cool ()
 - - - - - - - - - CSound ()
 - - - - - - - - - - CSound Document (not yet documented)
 - - - - - - - - - - CSound Score (not yet documented)
@@ -573,6 +631,8 @@ This list is highly incomplete right now.
 - - - - - - - - - - C# programming language ()
 - - - - - - - - - - - Dafny ()
 - - - - - - - - - - - Q# ()
+- - - - - - - - - - - Uno ()
+- - - - - - - - - Slim ()
 - - - - - - - - - CLIPS ()
 - - - - - - - - - CMake programming language ()
 - - - - - - - - - D programming language ()
@@ -586,12 +646,15 @@ This list is highly incomplete right now.
 - - - - - - - - - HolyC programming language (not yet documented)
 - - - - - - - - - Java programming language ()
 - - - - - - - - - - ActionScript ()
+- - - - - - - - - - Ballerina ()
 - - - - - - - - - - C# ()
 - - - - - - - - - - - Dafny ()
 - - - - - - - - - - - Q# ()
+- - - - - - - - - - - Uno ()
 - - - - - - - - - - Ceylon ()
 - - - - - - - - - - Chapel ()
 - - - - - - - - - - Clojure ()
+- - - - - - - - - - Closure Templates ()
 - - - - - - - - - - DataWeave (not yet documented)
 - - - - - - - - - - EJS ()
 - - - - - - - - - - Fantom (not yet documented)
@@ -603,12 +666,16 @@ This list is highly incomplete right now.
 - - - - - - - - - - Kotlin ()
 - - - - - - - - - - PHP ()
 - - - - - - - - - - Python ()
+- - - - - - - - - - - Common Workflow Language ()
 - - - - - - - - - - - Cython ()
+- - - - - - - - - - - - Sage ()
 - - - - - - - - - - - Jinja (not yet documented)
 - - - - - - - - - - - Mako ()
 - - - - - - - - - - - Ren'Py ()
+- - - - - - - - - - - Sage ()
 - - - - - - - - - - Scala ()
 - - - - - - - - - - Seed7 (not yet documented)
+- - - - - - - - - - UnrealScript ()
 - - - - - - - - - - Vala ()
 - - - - - - - - - JavaScript programming language ()
 - - - - - - - - - - asm.js (not yet documented)
@@ -631,12 +698,15 @@ This list is highly incomplete right now.
 - - - - - - - - - - Groovy programming language (not yet documented)
 - - - - - - - - - - Java programming language ()
 - - - - - - - - - - - ActionScript ()
+- - - - - - - - - - - Ballerina ()
 - - - - - - - - - - - C# ()
 - - - - - - - - - - - - Dafny ()
 - - - - - - - - - - - - Q# ()
+- - - - - - - - - - - - Uno ()
 - - - - - - - - - - - Ceylon ()
 - - - - - - - - - - - Chapel ()
 - - - - - - - - - - - Clojure ()
+- - - - - - - - - - - Closure Templates ()
 - - - - - - - - - - - DataWeave (not yet documented)
 - - - - - - - - - - - EJS ()
 - - - - - - - - - - - Fantom (not yet documented)
@@ -648,14 +718,18 @@ This list is highly incomplete right now.
 - - - - - - - - - - - Kotlin ()
 - - - - - - - - - - - PHP ()
 - - - - - - - - - - - Python ()
+- - - - - - - - - - - - Common Workflow Language ()
 - - - - - - - - - - - - Cython ()
+- - - - - - - - - - - - - Sage ()
 - - - - - - - - - - - - Jinja (not yet documented)
 - - - - - - - - - - - - Mako ()
 - - - - - - - - - - - - Ren'Py ()
+- - - - - - - - - - - - Sage ()
 - - - - - - - - - - - Rascal ()
 - - - - - - - - - - - - RouterOS scrupt (assumed to be Rascal, but no sources found)
 - - - - - - - - - - - Scala ()
 - - - - - - - - - - - Seed7 (not yet documented)
+- - - - - - - - - - - UnrealScript ()
 - - - - - - - - - - - Vala ()
 - - - - - - - - - - Nu programming language (not yet documented)
 - - - - - - - - - - Objective-C++ programming language ()
@@ -663,8 +737,10 @@ This list is highly incomplete right now.
 - - - - - - - - - Perl programming language ()
 - - - - - - - - - PHP programming language ()
 - - - - - - - - - Python 2 programming language ()
+- - - - - - - - - - Common Workflow Language ()
 - - - - - - - - - - Ren'Py ()
 - - - - - - - - - - Cython ()
+- - - - - - - - - - - Sage ()
 - - - - - - - - - - Jinja (not yet documented)
 - - - - - - - - - - Mako ()
 - - - - - - - - - - reStructuredText ()
@@ -697,8 +773,11 @@ This list is highly incomplete right now.
 - - - - - - - - - - - QML ()
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
+- - - - - - - - - - Sage ()
 - - - - - - - - - Python 3 programming language ()
+- - - - - - - - - - Common Workflow Language ()
 - - - - - - - - - - Cython ()
+- - - - - - - - - - - Sage ()
 - - - - - - - - - - Jinja (not yet documented)
 - - - - - - - - - - Mako ()
 - - - - - - - - - - Ren'Py ()
@@ -732,6 +811,7 @@ This list is highly incomplete right now.
 - - - - - - - - - - - QML ()
 - - - - - - - - - - Swift (not yet documented)
 - - - - - - - - - - Ezhil ()
+- - - - - - - - - - Sage ()
 - - - - - - - - - R programming language ()
 - - - - - - - - - Rust programming language ()
 - - - - - - - - - Seed7 programming language (not yet documented)
@@ -742,11 +822,14 @@ This list is highly incomplete right now.
 - - - - - - - - - Zig programming language ()
 - - - - - Java programming language ()
 - - - - - - ActionScript ()
+- - - - - - Ballerina ()
 - - - - - - C# programming language (not yet documented)
 - - - - - - - Dafny ()
 - - - - - - - Q# ()
+- - - - - - - Uno ()
 - - - - - - Chapel programming language ()
 - - - - - - Clojure programming language ()
+- - - - - - Closure Templates ()
 - - - - - - EJS ()
 - - - - - - Fantom programming language (not yet documented)
 - - - - - - Groovy programming language (not yet documented)
@@ -755,13 +838,17 @@ This list is highly incomplete right now.
 - - - - - - Kotlin programming language ()
 - - - - - - PHP programming language ()
 - - - - - - Python programming language ()
+- - - - - - - Common Workflow Language ()
 - - - - - - - Cython ()
+- - - - - - - - Sage ()
 - - - - - - - Jinja (not yet documented)
 - - - - - - - Mako ()
 - - - - - - - Ren'Py ()
 - - - - - - - reStructuredText ()
+- - - - - - - Sage ()
 - - - - - - Scala programming language ()
 - - - - - - Seed7 programming language (not yet documented)
+- - - - - - UnrealScript ()
 - - - - - - Vala programming language
 - - - - - - JavaScript programming language ()
 - - - - - - - asm.js (not yet documented)
@@ -790,6 +877,8 @@ This list is highly incomplete right now.
 - - - - Io (not yet documented)
 - - - - Lisp Flavored Erlang (not yet documented)
 - - - - NewLisp (not yet documented)
+- - - - MDL (not yet documented)
+- - - - - ZIL ()
 - - - - PicoLisp (not yet documented)
 - - - - Racket (not yet documented)
 - IBM CP/CMS language (missing link)
@@ -811,6 +900,7 @@ This list is highly incomplete right now.
 - - - APL (not yet documented)
 - - - - MATLAB (not yet documented)
 - - - - - Octave ()
+- - - - q ()
 - - Metasyntax (not yet documented)
 - - - EBNF ()
 - - - - Creole (markup) ()
@@ -1001,7 +1091,7 @@ Python3 ✅️
 Python2 ✅️
 Pod ✅️
 QML ✅️
-Q 📋️
+Q ✅️
 Q-Sharp ✅️
 R ✅️
 Red ✅️
@@ -1016,14 +1106,14 @@ RouterOS-Script ✅️
 Scala ✅️
 Svelte ✅️
 Shell ✅️
-Sage 📋️
-Slim 📋️
+Sage ✅️
+Slim ✅️
 TypeScript ✅️
 Tcl ✅️
 TOML ✅️
 TeX ✅️
-UnrealScript 📋️
-Uno 📋️
+UnrealScript ✅️
+Uno ✅️
 URLL ✅️
 Vala ✅️
 VBScript ✅️
@@ -1036,8 +1126,8 @@ Windows-Registry-Entry 📋️
 YASnippet ✅️
 Zig ✅️
 ZenScript 📋️
-ZAP 📋️
-ZIL 📋️
+ZAP ✅️
+ZIL ✅️
 Zeek ✅️
 Eagle ✅️
 EmacsLisp ✅️
@@ -1070,11 +1160,13 @@ CAP-CDS ✅️
 Rascal ✅️
 Scheme ✅️
 CommonLisp ✅️
-Cool 📋️
-CommonWorkflowLanguage 📋️
-Closure Templates 📋️
-Classic ASP 📋️
-CUE 📋️
+Cool ✅️
+CommonWorkflowLanguage ✅️
+Closure Templates ✅️
+Classic ASP ✅️
+CUE ✅️
+Ballerina ✅️
+BASIC ✅️
 !-->
 
 <!--
@@ -1089,17 +1181,17 @@ CUE 📋️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `79 (2023, Sunday, August 19th at 10:20 pm PST)`
+**File version:** `80 (2023, Monday, August 21st at 07:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,760`
+**Line count (including blank lines and compiler line):** `2,875`
 
-**Word count:** `14,457`
+**Word count:** `14,892`
 
-**Character count (including spaces):** `106,201`
+**Character count (including spaces):** `110,377`
 
-**Character count (excluding spaces):** `87,669`
+**Character count (excluding spaces):** `90,791`
 
-**Size (in bytes):** `106,957`
+**Size (in bytes):** `111,129`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2745,6 +2837,29 @@ CUE 📋️
 - [ ] No other changes in version 79
 
 </details> <!-- V79 -->
+
+<details><summary><p lang="en"><b>Version 80 (2023, Monday, August 21st at 07:11 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I got further caught up with language documentation, but this progress is becoming an incalculable mess (language family tree) Continuing for a third consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 12 new entries, 161 out of 182 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 80
+- [ ] No other changes in version 80
+
+</details> <!-- V80 -->
 
 </details> <!-- End of file history !-->
 
