@@ -19,7 +19,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Monday, August 21st, there are `183` source code datasets (containing support for 182 languages) with many more coming in the coming months. They include:
+As of 2023, Wednesday, August 23rd, there are `187` source code datasets (containing support for 186 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -208,6 +208,10 @@ As of 2023, Monday, August 21st, there are `183` source code datasets (containin
 - - [:octocat: `AI2001 Category: Source Code ;SC: CUE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUE/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Ballerina`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ballerina/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: BASIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BASIC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Befunge`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Befunge/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Berry`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Berry/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BibTeX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BibTeX/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Bicep`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bicep/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -233,7 +237,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Monday, August 21st) `182` / `??` (`???.??%`)
+Total languages (2023, Wednesday, August 23rd) `186` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -245,7 +249,7 @@ Total languages (2023, Monday, August 21st) `182` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `161` out of `182` languages (`88.46%`) of the AI2001 linguistics toolchain, as of 2023, Monday, August 21st. It is currently missing `021` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off.
+> This listing includes `162` out of `186` languages (`87.09%`) of the AI2001 linguistics toolchain, as of 2023, Wednesasy, August 23rd. It is currently missing `024` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off.
 
 ##### Timeline
 
@@ -362,6 +366,7 @@ q
 Sage
 Slim
 ```
+On 2023, Tuesday, August 22nd, I took a break from the project entirely. On 2023, Wednesday, August 23rd, I came back to the project, and did not make any advances in languages, as I need time to work on other projects.
 
 </details>
 
@@ -375,7 +380,7 @@ Slim
 
 How languages are currently documented:
 
-Languages are currently documented in a recursive fashion that needs improvement. Languages are defined into families, similar to Linguistic family trees. Each descendent is determined based on what languages/methods it is influenced by, and/or what language it is a descendant of. Due to the fact that some languages have influenced multiple languages, some entries are listed several times in the tree, notably JavaScript, JavaScript++, Ruby, Python, and more. Older entries may have only been listed 1 to 2 times, and do not follow this recursive model. A better method is needed, and this tree will either need to be improved, or rewritten in the future, while it will always be maintained as a recursive tree. As a fallback, it also goes by the language used to write the influenced language, or the programming paradigm (if all 3 other conditions can't be found)
+Languages are currently documented in a recursive fashion that needs improvement. Languages are defined into families, similar to Linguistic family trees. Each descendent is determined based on what languages/methods it is influenced by, and/or what language it is a descendant of. Due to the fact that some languages have influenced multiple languages, some entries are listed several times in the tree, notably JavaScript, JavaScript++, Ruby, Python, and more. Older entries may have only been listed 1 to 2 times, and do not follow this recursive model. A better method is needed, and this tree will either need to be improved, or rewritten in the future, while it will always be maintained as a recursive tree. As a fallback, it also goes by the language used to write the influenced language, or the programming paradigm (if all 3 other conditions can't be found) A new practice was also introduced on 2023, Sunday, August 22nd, where a language can be appended to multiple list entries (based on its influences) was started, which further complicates the project.
 
 This list is highly incomplete right now.
 
@@ -906,7 +911,7 @@ This list is highly incomplete right now.
 - - - - Creole (markup) ()
 - - - - Ragel ()
 - - - TeX ()
-- - - - BibTeX (not yet documented)
+- - - - BibTeX ()
 - - Natural language
 - - - AppleScript ()
 - - Plain text (not yet documented)
@@ -1167,6 +1172,10 @@ Classic ASP ✅️
 CUE ✅️
 Ballerina ✅️
 BASIC ✅️
+Befunge 📋️
+Berry 📋️
+BibTeX ✅️
+Bicep 📋️
 !-->
 
 <!--
@@ -1181,17 +1190,17 @@ BASIC ✅️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `80 (2023, Monday, August 21st at 07:11 pm PST)`
+**File version:** `81 (2023, Wednesday, August 23rd at 07:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,875`
+**Line count (including blank lines and compiler line):** `2,907`
 
-**Word count:** `14,892`
+**Word count:** `15,187`
 
-**Character count (including spaces):** `110,377`
+**Character count (including spaces):** `112,280`
 
-**Character count (excluding spaces):** `90,791`
+**Character count (excluding spaces):** `92,408`
 
-**Size (in bytes):** `111,129`
+**Size (in bytes):** `113,051`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2860,6 +2869,29 @@ BASIC ✅️
 - [ ] No other changes in version 80
 
 </details> <!-- V80 -->
+
+<details><summary><p lang="en"><b>Version 81 (2023, Wednesday, August 23rd at 07:03 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I skipped work on this project yesterday, due to a lack of time and focus. I got the file back up to date today, but did not make any advances in the language family tree, as I needed time for other projects. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 186 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 81
+- [ ] No other changes in version 81
+
+</details> <!-- V81 -->
 
 </details> <!-- End of file history !-->
 
