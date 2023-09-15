@@ -15,11 +15,15 @@
 
 | 🎊️ | Milestone (2023, Saturday, June 24th) |
 |---|---|
-| 💯 | As of 2023, Saturday, June 24th, there is planned support for 100 different computing languages within the AI2001 toolchain. |
+| 1x💯 | As of 2023, Saturday, June 24th, there is planned support for 100 different computing languages within the AI2001 toolchain. |
+
+| 🎊️ | Milestone (2023, Saturday, August 26th) |
+|---|---|
+| 2x💯 | As of 2023, Saturday, August 26th, there is planned support for 200 different computing languages within the AI2001 toolchain. |
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Wednesday, August 23rd, there are `187` source code datasets (containing support for 186 languages) with many more coming in the coming months. They include:
+As of 2023, Thursday, September 14th, there are `235` source code datasets (containing support for 234 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -212,6 +216,54 @@ As of 2023, Wednesday, August 23rd, there are `187` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Berry`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Berry/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: BibTeX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BibTeX/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Bicep`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bicep/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BitBake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BitBake/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Blade`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Blade/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BLISS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BLISS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BlitzBasic`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlitzBasic/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BlitzMax`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlitzMax/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Boo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Boo/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Boogie`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Boogie/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Bro`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Bro/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BSDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BSDL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BlooP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlooP/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ABAP-CDS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ABAP-CDS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: AGS Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AGS-Script/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: AIDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AIDL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: AL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ALS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ALS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Alloy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Alloy/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: XML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: XTend`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XTend/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Antlers`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Antlers/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ANTLR`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ANTLR/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: YAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-YAML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Yacc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Yacc/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ApacheConf`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ApacheConf/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ApachePig`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ApachePig/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Apex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Apex/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: API Blueprint`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-API-Blueprint/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ASCIIDoc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASCIIDoc/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: AspectJ`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AspectJ/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Assembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Assembly/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: AssemblyScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AssemblyScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Augeas`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Augeas/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: AutoHotKey`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoHotKey/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: AutoIt`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoIt/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Beef`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Beef/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Genie`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genie/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gerber Image`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gerber-Image/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gosu`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gosu/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gleam`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gleam/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GnuPlot`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GnuPlot/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Groovy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Groovy/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Grammatical Framework`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GrammaticalFramework/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gradle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gradle/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GraphVizDOT`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GraphVizDOT/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GraphQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GraphQL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: G-CODE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-G-CODE/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GCC Machine Description`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GCC-Machine-Description/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GDB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDB/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GN`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GN/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -237,7 +289,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Wednesday, August 23rd) `186` / `??` (`???.??%`)
+Total languages (2023, Thursday, September 14th) `234` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -249,7 +301,7 @@ Total languages (2023, Wednesday, August 23rd) `186` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `186` languages (`87.09%`) of the AI2001 linguistics toolchain, as of 2023, Wednesasy, August 23rd. It is currently missing `024` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off.
+> This listing includes `162` out of `234` languages (`69.23%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, September 14th. It is currently missing `072` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off.
 
 ##### Timeline
 
@@ -367,6 +419,8 @@ Sage
 Slim
 ```
 On 2023, Tuesday, August 22nd, I took a break from the project entirely. On 2023, Wednesday, August 23rd, I came back to the project, and did not make any advances in languages, as I need time to work on other projects.
+
+Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took a break from all development of the 2 core AI2001 repositories. On 2023, Thursday, September 14th, I came back and caught them back up, but decided not to update the language family tree again until ready.
 
 </details>
 
@@ -1176,6 +1230,54 @@ Befunge 📋️
 Berry 📋️
 BibTeX ✅️
 Bicep 📋️
+BitBake ❌️
+Blade ❌️
+BLISS ❌️
+BlitzBasic ❌️
+BlitzMax ❌️
+Boo ❌️
+Boogie ❌️
+Bro ❌️
+BSDL ❌️
+BlooP ❌️
+ABAP-CDS ❌️
+AGS-Script ❌️
+AIDL ❌️
+AL ❌️
+ALS ❌️
+Alloy ❌️
+XML ❌️
+XTend ❌️
+Antlers ❌️
+ANTLR ❌️
+YAML ❌️
+Yacc ❌️
+ApacheConf ❌️
+ApachePig ❌️
+Apex ❌️
+API-Blueprint ❌️
+ASCIIDoc ❌️
+AspectJ ❌️
+Assembly ❌️
+AssemblyScript ❌️
+Augeas ❌️
+AutoHotKey ❌️
+AutoIt ❌️
+Beef ❌️
+Genie ❌️
+Gerber-Image ❌️
+Gosu ❌️
+Gleam ❌️
+GnuPlot ❌️
+Groovy ❌️
+GrammaticalFramework ❌️
+Gradle ❌️
+GraphVizDOT ❌️
+GraphQL ❌️
+G-CODE ❌️
+GCC-Machine-Description ❌️
+GDB ❌️
+GN ❌️
 !-->
 
 <!--
@@ -1190,17 +1292,17 @@ Bicep 📋️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `81 (2023, Wednesday, August 23rd at 07:03 pm PST)`
+**File version:** `82 (2023, Thursday, September 14th at 08:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,907`
+**Line count (including blank lines and compiler line):** `3,032`
 
-**Word count:** `15,187`
+**Word count:** `16,338`
 
-**Character count (including spaces):** `112,280`
+**Character count (including spaces):** `120,739`
 
-**Character count (excluding spaces):** `92,408`
+**Character count (excluding spaces):** `100,041`
 
-**Size (in bytes):** `113,051`
+**Size (in bytes):** `121,710`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -2892,6 +2994,29 @@ Bicep 📋️
 - [ ] No other changes in version 81
 
 </details> <!-- V81 -->
+
+<details><summary><p lang="en"><b>Version 82 (2023, Thursday, September 14th at 08:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I skipped work on this project for 3 full weeks, before coming back today. There was a recent productivity bubble burst, and it was really difficult to get every vassal under my control again. I added 1 vassal per day for several days, then on 2023, September 14th, I brought 7 vassals back into reach in one day, including this project. I hope to prevent this from happening again for so long (at least for the rest of the year) Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 48 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 234 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 82
+- [ ] No other changes in version 82
+
+</details> <!-- V82 -->
 
 </details> <!-- End of file history !-->
 
