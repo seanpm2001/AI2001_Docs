@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Thursday, September 14th, there are `235` source code datasets (containing support for 234 languages) with many more coming in the coming months. They include:
+As of 2023, Friday, September 15th, there are `237` source code datasets (containing support for 236 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -264,6 +264,8 @@ As of 2023, Thursday, September 14th, there are `235` source code datasets (cont
 - - [:octocat: `AI2001 Category: Source Code ;SC: GCC Machine Description`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GCC-Machine-Description/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: GDB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GDB/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: GN`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GN/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GetText Catalog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GetText-Catalog/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Google Apps Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Google-Apps-Script/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -301,7 +303,7 @@ Total languages (2023, Thursday, September 14th) `234` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `234` languages (`69.23%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, September 14th. It is currently missing `072` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off.
+> This listing includes `162` out of `236` languages (`68.64%`) of the AI2001 linguistics toolchain, as of 2023, Friday, September 15th. It is currently missing `074` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off.
 
 ##### Timeline
 
@@ -421,6 +423,8 @@ Slim
 On 2023, Tuesday, August 22nd, I took a break from the project entirely. On 2023, Wednesday, August 23rd, I came back to the project, and did not make any advances in languages, as I need time to work on other projects.
 
 Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took a break from all development of the 2 core AI2001 repositories. On 2023, Thursday, September 14th, I came back and caught them back up, but decided not to update the language family tree again until ready.
+
+As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
 </details>
 
@@ -1278,6 +1282,8 @@ G-CODE ❌️
 GCC-Machine-Description ❌️
 GDB ❌️
 GN ❌️
+GetText Catalog ❌️
+Google Apps Script ❌️
 !-->
 
 <!--
@@ -1292,17 +1298,17 @@ GN ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `82 (2023, Thursday, September 14th at 08:56 pm PST)`
+**File version:** `83 (2023, Friday, September 15th at 09:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,032`
+**Line count (including blank lines and compiler line):** `3,061`
 
-**Word count:** `16,338`
+**Word count:** `16,510`
 
-**Character count (including spaces):** `120,739`
+**Character count (including spaces):** `121,886`
 
-**Character count (excluding spaces):** `100,041`
+**Character count (excluding spaces):** `101,014`
 
-**Size (in bytes):** `121,710`
+**Size (in bytes):** `122,865`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3017,6 +3023,29 @@ GN ❌️
 - [ ] No other changes in version 82
 
 </details> <!-- V82 -->
+
+<details><summary><p lang="en"><b>Version 83 (2023, Friday, September 15th at 09:31 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 2nd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 164 out of 236 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 83
+- [ ] No other changes in version 83
+
+</details> <!-- V83 -->
 
 </details> <!-- End of file history !-->
 
