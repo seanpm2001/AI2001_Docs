@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Friday, September 15th, there are `237` source code datasets (containing support for 236 languages) with many more coming in the coming months. They include:
+As of 2023, Saturday, September 16th, there are `239` source code datasets (containing support for 238 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -266,6 +266,8 @@ As of 2023, Friday, September 15th, there are `237` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: GN`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GN/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: GetText Catalog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GetText-Catalog/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Google Apps Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Google-Apps-Script/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HAML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HCL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HCL/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -425,6 +427,8 @@ On 2023, Tuesday, August 22nd, I took a break from the project entirely. On 2023
 Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took a break from all development of the 2 core AI2001 repositories. On 2023, Thursday, September 14th, I came back and caught them back up, but decided not to update the language family tree again until ready.
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
+
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well.
 
 </details>
 
@@ -1298,17 +1302,17 @@ Google Apps Script ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `83 (2023, Friday, September 15th at 09:31 pm PST)`
+**File version:** `84 (2023, Saturday, September 16th at 10:21 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,061`
+**Line count (including blank lines and compiler line):** `3,088`
 
-**Word count:** `16,510`
+**Word count:** `16,683`
 
-**Character count (including spaces):** `121,886`
+**Character count (including spaces):** `123,019`
 
-**Character count (excluding spaces):** `101,014`
+**Character count (excluding spaces):** `101,971`
 
-**Size (in bytes):** `122,865`
+**Size (in bytes):** `123,998`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3046,6 +3050,29 @@ Google Apps Script ❌️
 - [ ] No other changes in version 83
 
 </details> <!-- V83 -->
+
+<details><summary><p lang="en"><b>Version 84 (2023, Saturday, September 16th at 10:21 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 3rd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 166 out of 238 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 84
+- [ ] No other changes in version 84
+
+</details> <!-- V84 -->
 
 </details> <!-- End of file history !-->
 
