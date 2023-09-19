@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, September 17th, there are `241` source code datasets (containing support for 240 languages) with many more coming in the coming months. They include:
+As of 2023, Monday, September 18th, there are `243` source code datasets (containing support for 242 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -270,6 +270,8 @@ As of 2023, Sunday, September 17th, there are `241` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: HCL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HCL/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: HiveQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HiveQL/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: HLSL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HLSL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HolyC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HolyC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HXML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HXML/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -307,7 +309,7 @@ Total languages (2023, Sunday, September 17th) `240` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `240` languages (`67.50%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, September 17th. It is currently missing `078` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off.
+> This listing includes `162` out of `242` languages (`66.94%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, September 17th. It is currently missing `080` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
 ##### Timeline
 
@@ -430,7 +432,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Sunday, September 17th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Monday, September 18th, I am still not ready yet.
 
 </details>
 
@@ -1304,17 +1306,17 @@ Google Apps Script ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `85 (2023, Sunday, September 17th at 09:39 pm PST)`
+**File version:** `86 (2023, Monday, September 18th at 07:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,113`
+**Line count (including blank lines and compiler line):** `3,138`
 
-**Word count:** `16,845`
+**Word count:** `16,991`
 
-**Character count (including spaces):** `124,092`
+**Character count (including spaces):** `125,084`
 
-**Character count (excluding spaces):** `102,880`
+**Character count (excluding spaces):** `1O3,722`
 
-**Size (in bytes):** `125,071`
+**Size (in bytes):** `126,063`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3042,7 +3044,7 @@ Google Apps Script ❌️
 - - [x] Added 2 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
-- - [x] Added 0 new entries, 164 out of 236 total
+- - [x] Added 0 new entries, 161 out of 236 total
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -3065,7 +3067,7 @@ Google Apps Script ❌️
 - - [x] Added 2 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
-- - [x] Added 0 new entries, 164 out of 238 total
+- - [x] Added 0 new entries, 161 out of 238 total
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -3088,7 +3090,7 @@ Google Apps Script ❌️
 - - [x] Added 2 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
-- - [x] Added 0 new entries, 164 out of 240 total
+- - [x] Added 0 new entries, 161 out of 240 total
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -3098,6 +3100,29 @@ Google Apps Script ❌️
 - [ ] No other changes in version 85
 
 </details> <!-- V85 -->
+
+<details><summary><p lang="en"><b>Version 86 (2023, Monday, September 18th at 07:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 5th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 242 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 86
+- [ ] No other changes in version 86
+
+</details> <!-- V86 -->
 
 </details> <!-- End of file history !-->
 
