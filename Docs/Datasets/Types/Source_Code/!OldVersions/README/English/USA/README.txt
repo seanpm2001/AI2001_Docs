@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Wednesday, September 20th, there are `247` source code datasets (containing support for 245/246 languages) with many more coming in the coming months. They include:
+As of 2023, Tuesday, September 26th, there are `259` source code datasets (containing support for 257/258 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -276,6 +276,18 @@ As of 2023, Wednesday, September 20th, there are `247` source code datasets (con
 - - [:octocat: `AI2001 Category: Source Code ;SC: Idris`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Idris/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: ImageJ (not a language)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: ImageJ Macro`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ImageJ-Macro/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Io`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Io/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Isabelle`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Isabelle/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jasmin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jasmin/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jinja`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jinja/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: jq`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-jq/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Julia`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Julia/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jupyter Notebook`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JupyterNotebook/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Harbour`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Harbour/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: kvlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-kvlang/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: KiCad`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: KiCad Layout`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Layout/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: KiCad Schematic`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Schematic/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -301,7 +313,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Wednesday, September 20th) `246` / `??` (`???.??%`)
+Total languages (2023, Tuesday, September 26th) `258` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -436,7 +448,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Wednesday, September 20th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Tuesday, September 26th, I am still not ready yet.
 
 </details>
 
@@ -1306,6 +1318,18 @@ IDL ❌️
 Idris ❌️
 ImageJ ❌️
 ImageJ Macro ❌️
+Io ❌️
+Isabelle ❌️
+Jasmin ❌️
+Jinja ❌️
+jq ❌️
+Julia ❌️
+JupyterNotebook ❌️
+Harbour ❌️
+kvlang ❌️
+KiCad ❌️
+KiCad-Layout ❌️
+KiCad-Schematic ❌️
 !-->
 
 <!--
@@ -1320,17 +1344,17 @@ ImageJ Macro ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `87 (2023, Wednesday, September 20th at 11:11 pm PST)`
+**File version:** `88 (2023, Tuesday, September 26th at 11:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,175`
+**Line count (including blank lines and compiler line):** `3,222`
 
-**Word count:** `17,235`
+**Word count:** `17,593`
 
-**Character count (including spaces):** `126,707`
+**Character count (including spaces):** `129,268`
 
-**Character count (excluding spaces):** `105,108`
+**Character count (excluding spaces):** `107,381`
 
-**Size (in bytes):** `127,726`
+**Size (in bytes):** `130,335`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3160,6 +3184,29 @@ ImageJ Macro ❌️
 - [ ] No other changes in version 87
 
 </details> <!-- V87 !-->
+
+<details><summary><p lang="en"><b>Version 88 (2023, Tuesday, September 26th at 11:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I have been going through a series of changes lately, and it took me until today to get this project back under my control. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 258 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 88
+- [ ] No other changes in version 88
+
+</details> <!-- V88 !-->
 
 </details> <!-- End of file history !-->
 
