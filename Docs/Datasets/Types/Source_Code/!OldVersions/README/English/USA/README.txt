@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Tuesday, September 26th, there are `259` source code datasets (containing support for 257/258 languages) with many more coming in the coming months. They include:
+As of 2023, Wednesday, September 27th, there are `261` source code datasets (containing support for 259/260 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -288,6 +288,8 @@ As of 2023, Tuesday, September 26th, there are `259` source code datasets (conta
 - - [:octocat: `AI2001 Category: Source Code ;SC: KiCad`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: KiCad Layout`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Layout/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: KiCad Schematic`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Schematic/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LABView`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LABView/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Latte`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Latte/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -448,7 +450,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Tuesday, September 26th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Wednesday, September 27th, I am still not ready yet.
 
 </details>
 
@@ -1330,6 +1332,8 @@ kvlang ❌️
 KiCad ❌️
 KiCad-Layout ❌️
 KiCad-Schematic ❌️
+LABView ❌️
+Latte ❌️
 !-->
 
 <!--
@@ -1344,17 +1348,17 @@ KiCad-Schematic ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `88 (2023, Tuesday, September 26th at 11:05 pm PST)`
+**File version:** `89 (2023, Wednesday, September 27th at 09:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,222`
+**Line count (including blank lines and compiler line):** `3,249`
 
-**Word count:** `17,593`
+**Word count:** `17,740`
 
-**Character count (including spaces):** `129,268`
+**Character count (including spaces):** `130,283`
 
-**Character count (excluding spaces):** `107,381`
+**Character count (excluding spaces):** `108,245`
 
-**Size (in bytes):** `130,335`
+**Size (in bytes):** `131,358`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3207,6 +3211,29 @@ KiCad-Schematic ❌️
 - [ ] No other changes in version 88
 
 </details> <!-- V88 !-->
+
+<details><summary><p lang="en"><b>Version 89 (2023, Wednesday, September 27th at 09:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for 2 consecutive days._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 260 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 89
+- [ ] No other changes in version 89
+
+</details> <!-- V89 !-->
 
 </details> <!-- End of file history !-->
 
