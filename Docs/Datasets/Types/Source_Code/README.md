@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Wednesday, September 27th, there are `261` source code datasets (containing support for 259/260 languages) with many more coming in the coming months. They include:
+As of 2023, Friday, September 29th, there are `265` source code datasets (containing support for 263/264 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -290,6 +290,10 @@ As of 2023, Wednesday, September 27th, there are `261` source code datasets (con
 - - [:octocat: `AI2001 Category: Source Code ;SC: KiCad Schematic`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KiCad-Schematic/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: LABView`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LABView/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Latte`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Latte/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Lex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lex/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LispFlavoredErlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LispFlavoredErlang/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Lingo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lingo/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Linker Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Linker-Script/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -450,7 +454,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Wednesday, September 27th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Friday, September 29th, I am still not ready yet.
 
 </details>
 
@@ -1334,6 +1338,10 @@ KiCad-Layout ❌️
 KiCad-Schematic ❌️
 LABView ❌️
 Latte ❌️
+Lex ❌️
+LispFlavoredErlang ❌️
+Lingo ❌️
+Linker Script ❌️
 !-->
 
 <!--
@@ -1348,17 +1356,17 @@ Latte ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `89 (2023, Wednesday, September 27th at 09:30 pm PST)`
+**File version:** `90 (2023, Friday, September 29th at 10:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,249`
+**Line count (including blank lines and compiler line):** `3,280`
 
-**Word count:** `17,740`
+**Word count:** `17,950`
 
-**Character count (including spaces):** `130,283`
+**Character count (including spaces):** `131,735`
 
-**Character count (excluding spaces):** `108,245`
+**Character count (excluding spaces):** `109,498`
 
-**Size (in bytes):** `131,358`
+**Size (in bytes):** `132,826`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3234,6 +3242,29 @@ Latte ❌️
 - [ ] No other changes in version 89
 
 </details> <!-- V89 !-->
+
+<details><summary><p lang="en"><b>Version 90 (2023, Friday, September 29th at 10:03 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I became way too distracted last night, and cut my work short, and it almost repeated exactly again tonight. I am coming back today. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 264 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 90
+- [ ] No other changes in version 90
+
+</details> <!-- V90 !-->
 
 </details> <!-- End of file history !-->
 
