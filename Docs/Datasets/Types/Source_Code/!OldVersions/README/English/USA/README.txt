@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Friday, September 29th, there are `265` source code datasets (containing support for 263/264 languages) with many more coming in the coming months. They include:
+As of 2023, Saturday, September 30th, there are `267` source code datasets (containing support for 265/266 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -294,6 +294,8 @@ As of 2023, Friday, September 29th, there are `265` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: LispFlavoredErlang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LispFlavoredErlang/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Lingo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lingo/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Linker Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Linker-Script/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LinuxKernelModule`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LinuxKernelModule/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Liquid`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Liquid/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -454,7 +456,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Friday, September 29th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Saturday, September 30th, I am still not ready yet.
 
 </details>
 
@@ -1342,6 +1344,8 @@ Lex ❌️
 LispFlavoredErlang ❌️
 Lingo ❌️
 Linker Script ❌️
+LinuxKernelModule ❌️
+Liquid ❌️
 !-->
 
 <!--
@@ -1356,17 +1360,17 @@ Linker Script ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `90 (2023, Friday, September 29th at 10:03 pm PST)`
+**File version:** `91 (2023, Saturday, September 30th at 11:18 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,280`
+**Line count (including blank lines and compiler line):** `3,307`
 
-**Word count:** `17,950`
+**Word count:** `18,098`
 
-**Character count (including spaces):** `131,735`
+**Character count (including spaces):** `132,785`
 
-**Character count (excluding spaces):** `109,498`
+**Character count (excluding spaces):** `110,396`
 
-**Size (in bytes):** `132,826`
+**Size (in bytes):** `133,884`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3265,6 +3269,29 @@ Linker Script ❌️
 - [ ] No other changes in version 90
 
 </details> <!-- V90 !-->
+
+<details><summary><p lang="en"><b>Version 91 (2023, Saturday, September 30th at 11:18 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 2nd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 266 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 91
+- [ ] No other changes in version 91
+
+</details> <!-- V91 !-->
 
 </details> <!-- End of file history !-->
 
