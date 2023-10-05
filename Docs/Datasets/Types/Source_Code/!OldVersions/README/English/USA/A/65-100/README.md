@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Saturday, September 30th, there are `267` source code datasets (containing support for 265/266 languages) with many more coming in the coming months. They include:
+As of 2023, Wednesday, October 4th, there are `275` source code datasets (containing support for 273/274 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -296,6 +296,14 @@ As of 2023, Saturday, September 30th, there are `267` source code datasets (cont
 - - [:octocat: `AI2001 Category: Source Code ;SC: Linker Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Linker-Script/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: LinuxKernelModule`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LinuxKernelModule/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Liquid`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Liquid/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LiveCode`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LiveCode/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LiveScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LiveScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LLVM`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LLVM/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Logcat`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Logcat/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LogTalk`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LogTalk/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LOLCODE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LOLCODE/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LookML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LookML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Lucid`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lucid/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -456,7 +464,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Saturday, September 30th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Wednesday, October 4th, I am still not ready yet.
 
 </details>
 
@@ -1346,6 +1354,14 @@ Lingo ❌️
 Linker Script ❌️
 LinuxKernelModule ❌️
 Liquid ❌️
+LiveCode ❌️
+LiveScript ❌️
+LLVM ❌️
+LogCat ❌️
+LogTalk ❌️
+LOLCODE ❌️
+LookML ❌️
+Lucid ❌️
 !-->
 
 <!--
@@ -1360,17 +1376,17 @@ Liquid ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `91 (2023, Saturday, September 30th at 11:18 pm PST)`
+**File version:** `92 (2023, Wednesday, October 4th at 11:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,307`
+**Line count (including blank lines and compiler line):** `3,346`
 
-**Word count:** `18,098`
+**Word count:** `18,390`
 
-**Character count (including spaces):** `132,785`
+**Character count (including spaces):** `134,811`
 
-**Character count (excluding spaces):** `110,396`
+**Character count (excluding spaces):** `112,169`
 
-**Size (in bytes):** `133,884`
+**Size (in bytes):** `135,942`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3292,6 +3308,29 @@ Liquid ❌️
 - [ ] No other changes in version 91
 
 </details> <!-- V91 !-->
+
+<details><summary><p lang="en"><b>Version 92 (2023, Wednesday, October 4th at 11:39 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I completely forgot to update the repository on 2023 October 1st, then it was too late. On the 2nd and 3rd, I didn't have the time. On the 4th, I am coming back to this project. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 274 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 92
+- [ ] No other changes in version 92
+
+</details> <!-- V92 !-->
 
 </details> <!-- End of file history !-->
 
