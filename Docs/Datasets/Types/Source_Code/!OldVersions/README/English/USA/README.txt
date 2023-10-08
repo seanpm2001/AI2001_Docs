@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Thursday, October 5th, there are `277` source code datasets (containing support for 275/276 languages) with many more coming in the coming months. They include:
+As of 2023, Sunday, October 8th, there are `283` source code datasets (containing support for 281/282 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -306,6 +306,12 @@ As of 2023, Thursday, October 5th, there are `277` source code datasets (contain
 - - [:octocat: `AI2001 Category: Source Code ;SC: Lucid`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lucid/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: M4`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M4/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: M4Sugar`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M4Sugar/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Mallard`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mallard/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MATLAB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MATLAB/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: mcFunction`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mcFunction/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Mercury`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mercury/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Meson`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Meson/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: mIRC-Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mIRC-Script/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -466,7 +472,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Thursday, October 5th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Sunday, October 8th, I am still not ready yet.
 
 </details>
 
@@ -1366,6 +1372,12 @@ LookML ❌️
 Lucid ❌️
 M4 ❌️
 M4Sugar ❌️
+Mallard ❌️
+MATLAB ❌️
+mcFunction ❌️
+Mercury ❌️
+Meson ❌️
+mIRC-Script ❌️
 !-->
 
 <!--
@@ -1380,17 +1392,17 @@ M4Sugar ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `93 (2023, Thursday, October 5th at 11:24 pm PST)`
+**File version:** `94 (2023, Sunday, October 8th at 04:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,373`
+**Line count (including blank lines and compiler line):** `3,408`
 
-**Word count:** `18,538`
+**Word count:** `18,829`
 
-**Character count (including spaces):** `135,807`
+**Character count (including spaces):** `137,708`
 
-**Character count (excluding spaces):** `113,013`
+**Character count (excluding spaces):** `114,653`
 
-**Size (in bytes):** `136,946`
+**Size (in bytes):** `138,871`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3358,6 +3370,29 @@ M4Sugar ❌️
 - [ ] No other changes in version 93
 
 </details> <!-- V93 !-->
+
+<details><summary><p lang="en"><b>Version 94 (2023, Sunday, October 8th at 4:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I was going to work on the project on 2023 October 6th, but I didn't have the time. I liked the chain I had where there were 2 days of updates, then one off day. I didn't have enough time yesterday, so the chain broke. I am coming back on it early today, to ensure it doesn't get held off to the very last minute again. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 6 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 282 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 94
+- [ ] No other changes in version 94
+
+</details> <!-- V94 !-->
 
 </details> <!-- End of file history !-->
 
