@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Monday, October 9th, there are `285` source code datasets (containing support for 283/284 languages) with many more coming in the coming months. They include:
+As of 2023, Tuesday, October 10th, there are `287` source code datasets (containing support for 285/286 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -314,6 +314,8 @@ As of 2023, Monday, October 9th, there are `285` source code datasets (containin
 - - [:octocat: `AI2001 Category: Source Code ;SC: mIRC-Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mIRC-Script/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: MLIR`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MLIR/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Modelica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modelica/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Modula-2`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modula-2/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Modula-3`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modula-3/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -474,7 +476,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Monday, October 9th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Tuesday, October 10th, I am still not ready yet.
 
 </details>
 
@@ -1382,6 +1384,8 @@ Meson ❌️
 mIRC-Script ❌️
 MLIR ❌️
 Modelica ❌️
+Modula-2 ❌️
+Modula-3 ❌️
 !-->
 
 <!--
@@ -1396,17 +1400,17 @@ Modelica ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `95 (2023, Monday, October 9th at 05:04 pm PST)`
+**File version:** `96 (2023, Tuesday, October 10th at 04:47 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,435`
+**Line count (including blank lines and compiler line):** `3,462`
 
-**Word count:** `18,989`
+**Word count:** `19,157`
 
-**Character count (including spaces):** `138,778`
+**Character count (including spaces):** `139,877`
 
-**Character count (excluding spaces):** `115,559`
+**Character count (excluding spaces):** `116,492`
 
-**Size (in bytes):** `139,949`
+**Size (in bytes):** `141,056`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3407,7 +3411,7 @@ Modelica ❌️
 > Changes:
 
 - [x] Updated the `Source Code types` section
-- - [x] Added 6 new entries
+- - [x] Added 2 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
 - - [x] Added 0 new entries, 161 out of 284 total
@@ -3420,6 +3424,29 @@ Modelica ❌️
 - [ ] No other changes in version 95
 
 </details> <!-- V95 !-->
+
+<details><summary><p lang="en"><b>Version 96 (2023, Tuesday, October 10th at 04:47 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 3rd consecutive day. Hopefully I can also succeed in a 4th consecutive day this time as well._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 286 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 96
+- [ ] No other changes in version 96
+
+</details> <!-- V96 !-->
 
 </details> <!-- End of file history !-->
 
