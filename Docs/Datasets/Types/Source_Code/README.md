@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, October 8th, there are `283` source code datasets (containing support for 281/282 languages) with many more coming in the coming months. They include:
+As of 2023, Monday, October 9th, there are `285` source code datasets (containing support for 283/284 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -312,6 +312,8 @@ As of 2023, Sunday, October 8th, there are `283` source code datasets (containin
 - - [:octocat: `AI2001 Category: Source Code ;SC: Mercury`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mercury/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Meson`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Meson/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: mIRC-Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mIRC-Script/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MLIR`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MLIR/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Modelica`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modelica/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -472,7 +474,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Sunday, October 8th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Monday, October 9th, I am still not ready yet.
 
 </details>
 
@@ -1378,6 +1380,8 @@ mcFunction ❌️
 Mercury ❌️
 Meson ❌️
 mIRC-Script ❌️
+MLIR ❌️
+Modelica ❌️
 !-->
 
 <!--
@@ -1392,17 +1396,17 @@ mIRC-Script ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `94 (2023, Sunday, October 8th at 04:45 pm PST)`
+**File version:** `95 (2023, Monday, October 9th at 05:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,408`
+**Line count (including blank lines and compiler line):** `3,435`
 
-**Word count:** `18,829`
+**Word count:** `18,989`
 
-**Character count (including spaces):** `137,708`
+**Character count (including spaces):** `138,778`
 
-**Character count (excluding spaces):** `114,653`
+**Character count (excluding spaces):** `115,559`
 
-**Size (in bytes):** `138,871`
+**Size (in bytes):** `139,949`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3393,6 +3397,29 @@ mIRC-Script ❌️
 - [ ] No other changes in version 94
 
 </details> <!-- V94 !-->
+
+<details><summary><p lang="en"><b>Version 95 (2023, Monday, October 9th at 5:04 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 2nd consecutive day. Hopefully I can also succeed in a 3rd consecutive day this time._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 6 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 284 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 95
+- [ ] No other changes in version 95
+
+</details> <!-- V95 !-->
 
 </details> <!-- End of file history !-->
 
