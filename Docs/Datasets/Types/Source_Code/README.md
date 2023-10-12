@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Wednesday, October 11th, there are `289` source code datasets (containing support for 287/288 languages) with many more coming in the coming months. They include:
+As of 2023, Thursday, October 12th, there are `291` source code datasets (containing support for 289/290 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -318,6 +318,8 @@ As of 2023, Wednesday, October 11th, there are `289` source code datasets (conta
 - - [:octocat: `AI2001 Category: Source Code ;SC: Modula-3`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Modula-3/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: ModuleManagementSystem`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ModuleManagementSystem/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: MoonScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MoonScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MTML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MTML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Mustache`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mustache/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -478,7 +480,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Wednesday, October 11th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Thursday, October 12th, I am still not ready yet.
 
 </details>
 
@@ -1404,17 +1406,17 @@ MoonScript ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `97 (2023, Wednesday, October 11th at 02:28 pm PST)`
+**File version:** `98 (2023, Thursday, October 12th at 04:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,489`
+**Line count (including blank lines and compiler line):** `3,514`
 
-**Word count:** `19,305`
+**Word count:** `19,451`
 
-**Character count (including spaces):** `140,953`
+**Character count (including spaces):** `141,938`
 
-**Character count (excluding spaces):** `117,416`
+**Character count (excluding spaces):** `118,253`
 
-**Size (in bytes):** `142,140`
+**Size (in bytes):** `143,125`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3474,6 +3476,29 @@ MoonScript ❌️
 - [ ] No other changes in version 97
 
 </details> <!-- V97 !-->
+
+<details><summary><p lang="en"><b>Version 98 (2023, Thursday, October 12th at 4:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Continuing for a 5th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 290 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 98
+- [ ] No other changes in version 98
+
+</details> <!-- V98 !-->
 
 </details> <!-- End of file history !-->
 
