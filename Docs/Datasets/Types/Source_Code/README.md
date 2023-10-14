@@ -23,7 +23,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Thursday, October 12th, there are `291` source code datasets (containing support for 289/290 languages) with many more coming in the coming months. They include:
+As of 2023, Friday, October 13th, there are `293` source code datasets (containing support for 291/292 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -320,6 +320,8 @@ As of 2023, Thursday, October 12th, there are `291` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: MoonScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MoonScript/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: MTML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MTML/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Mustache`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mustache/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NASL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NASL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: nesC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-nesC/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -480,7 +482,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Thursday, October 12th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Friday, October 13th, I am still not ready yet.
 
 </details>
 
@@ -1406,17 +1408,17 @@ MoonScript ❌️
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `98 (2023, Thursday, October 12th at 04:30 pm PST)`
+**File version:** `99 (2023, Friday, October 13th at 05:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,514`
+**Line count (including blank lines and compiler line):** `3,553`
 
-**Word count:** `19,451`
+**Word count:** `19,714`
 
-**Character count (including spaces):** `141,938`
+**Character count (including spaces):** `143,665`
 
-**Character count (excluding spaces):** `118,253`
+**Character count (excluding spaces):** `119,761`
 
-**Size (in bytes):** `143,125`
+**Size (in bytes):** `144,852`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1435,6 +1437,16 @@ MoonScript ❌️
 ## [File history](#File-history)
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+> **Note** _Entries 1 to 100 are going to be removed with the V102 entry. This will be done to clear up about 2000 lines. These older entries can be viewed in versions 102 and below._
+
+- [`View old versions [1-64]`](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/)
+- [`View old versions [65-100]`](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/65-100/)
+- [`View old versions [101-200]`](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/)
+
+<!-- - [`View old versions [201-300]`](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/201-300/) !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 1 (2023, Tuesday, March 21st at 3:04 pm PST)</b></p></summary>
 
@@ -3499,6 +3511,33 @@ MoonScript ❌️
 - [ ] No other changes in version 98
 
 </details> <!-- V98 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 99 (2023, Friday, October 13th at 5:07 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/65-100/README_V99.md)
+
+> **Note** _Continuing for a 6th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 292 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 99
+- [ ] No other changes in version 99
+
+</details> <!-- V99 !-->
 
 </details> <!-- End of file history !-->
 
