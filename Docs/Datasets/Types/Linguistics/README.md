@@ -21,7 +21,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Tuesday, October 17th, there are `106` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Friday, October 20th, there are `108` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -134,6 +134,8 @@ As of 2023, Tuesday, October 17th, there are `106` linguistic datasets, with man
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Tigrinya`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Tigrinya/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Slovenian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Slovenian/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Sinhala`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sinhala/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Serbian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Serbian/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Croatian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Croatian/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -176,7 +178,7 @@ There are plans to support all language families, starting with major ones, and 
 
 This is a very long term goal that will require a lot of community work. The current documented language families include:
 
-Total languages (as of 2023, Friday, August 4th) `104` / `~8,570` (`001.21%`)
+Total languages (as of 2023, Friday, October 20th) `108` / `~8,570` (`001.26%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -584,6 +586,10 @@ Wolof ✅️
 Bambara ✅️
 Cebuano ✅️
 Tigrinya ✅️
+Slovenian ❌️
+Sinhala ❌️
+Serbian ❌️
+Croatian ❌️
 !-->
 
 <details open><summary><p><b>Click/tap here to expand/collapse the writing system family tree</b></p></summary>
@@ -662,17 +668,17 @@ This list is highly incomplete right now.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `48 (2023, Tuesday, October 17th at 08:12 pm PST)`
+**File version:** `49 (2023, Friday, October 20th at 07:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,703`
+**Line count (including blank lines and compiler line):** `1,733`
 
-**Word count:** `8,294`
+**Word count:** `8,453`
 
-**Character count (with spaces):** `62,551`
+**Character count (with spaces):** `63,677`
 
-**Character count (without spaces):** `52,714`
+**Character count (without spaces):** `53,670`
 
-**Size (in bytes):** `63,130`
+**Size (in bytes):** `64,272`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1688,6 +1694,30 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 48
 
 </details> <!-- V48 !-->
+
+<details><summary><p lang="en"><b>Version 49 (2023, Friday, October 20th at 07:24 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Work for today was part of my schedule, but will not resume tomorrow._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the `file info` section
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte count
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 49
+- [ ] No other changes in version 49
+
+</details> <!-- V49 !-->
 
 </details> <!-- End of file history !-->
 
