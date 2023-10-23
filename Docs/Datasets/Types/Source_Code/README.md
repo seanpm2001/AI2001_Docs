@@ -27,7 +27,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, October 21st, there are `309` source code datasets (containing support for 307/308 languages) with many more coming in the coming months. They include:
+As of 2023, Sunday, October 22nd, there are `313` source code datasets (containing support for 311/312 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -342,6 +342,10 @@ As of 2023, Sunday, October 21st, there are `309` source code datasets (containi
 - - [:octocat: `AI2001 Category: Source Code ;SC: FreeMarker`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FreeMarker/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: F*`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FStar/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Fortran`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Java Server Pages`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JavaServerPages/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Handlebars`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Handlebars/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CSound Document`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSound-Document/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CSound Score`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CSound-Score/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -367,7 +371,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Saturday, October 21st) `308` / `??` (`???.??%`)
+Total languages (2023, Sunday, October 22nd) `312` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -379,7 +383,7 @@ Total languages (2023, Saturday, October 21st) `308` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `308` languages (`52.59%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, October 21st. It is currently missing `146` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
+> This listing includes `162` out of `312` languages (`51.92%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, October 21st. It is currently missing `150` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
 ##### Timeline
 
@@ -502,7 +506,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Saturday, October 21st, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Sunday, October 22nd, I am still not ready yet.
 
 </details>
 
@@ -1434,6 +1438,10 @@ FreeBASIC ❌️
 FreeMarker ❌️
 F* ❌️
 Fortran ❌️
+JavaServerPages ❌️
+Handlebars ❌️
+CSound Document ❌️
+CSound Score ❌️
 !-->
 
 <!--
@@ -1447,12 +1455,12 @@ Fortran ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `107 (2023, Saturday, October 21st at 08:12 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,685`
-- **Word count:** `09,966`
-- **Character count (including spaces):** `082,001`
-- **Character count (excluding spaces):** `069,334`
-- **Size (in bytes):** `083,276`
+- **File version:** `108 (2023, Sunday, October 22nd at 08:00 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,720`
+- **Word count:** `10,177`
+- **Character count (including spaces):** `083,501`
+- **Character count (excluding spaces):** `070,646`
+- **Size (in bytes):** `084,792`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1668,6 +1676,33 @@ Fortran ❌️
 - [ ] No other changes in version 107
 
 </details> <!-- V107 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 108 (2023, Sunday, October 22nd at 08:00 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V108.md)
+
+> **Note** _Continuing for a 15th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 312 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 108
+- [ ] No other changes in version 108
+
+</details> <!-- V108 !-->
 
 ---
 
