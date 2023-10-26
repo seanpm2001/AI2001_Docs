@@ -13,21 +13,33 @@
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
+<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse the 100 language milestone notice</u></b></p></summary>
+
 | 🎊️ | Milestone (2023, Saturday, June 24th) |
 |---|---|
 | 1x💯 | As of 2023, Saturday, June 24th, there is planned support for 100 different computing languages within the AI2001 toolchain. |
+
+</details> <!-- End of 100 language milestone notice !-->
+
+<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse the 200 language milestone notice</u></b></p></summary>
 
 | 🎊️ | Milestone (2023, Saturday, August 26th) |
 |---|---|
 | 2x💯 | As of 2023, Saturday, August 26th, there is planned support for 200 different computing languages within the AI2001 toolchain. |
 
+</details> <!-- End of 200 language milestone notice !-->
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the 300 language milestone notice</u></b></p></summary>
+
 | 🎊️ | Milestone (2023, Tuesday, October 17th) |
 |---|---|
 | 3x💯 | As of 2023, Tuesday, October 17th, there is planned support for 300 different computing languages within the AI2001 toolchain. |
 
+</details> <!-- End of 300 language milestone notice !-->
+
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Tuesday, October 24th, there are `317` source code datasets (containing support for 315/316 languages) with many more coming in the coming months. They include:
+As of 2023, Thursday, October 26th, there are `321` source code datasets (containing support for 319/320 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -350,6 +362,10 @@ As of 2023, Tuesday, October 24th, there are `317` source code datasets (contain
 - - [:octocat: `AI2001 Category: Source Code ;SC: ooc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ooc/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: OpenCL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenCL/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: OpenEdge ABL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenEdge-ABL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Open Policy Agent`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenPolicyAgent/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: OpenQASM`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenQASM/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: OpenSCAD`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenSCAD/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Org`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Org/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -375,7 +391,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Tuesday, October 24th) `316` / `??` (`???.??%`)
+Total languages (2023, Thursday, October 26th) `320` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -387,7 +403,7 @@ Total languages (2023, Tuesday, October 24th) `316` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `316` languages (`51.26%`) of the AI2001 linguistics toolchain, as of 2023, Tuesday, October 24th. It is currently missing `154` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
+> This listing includes `162` out of `320` languages (`50.62%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, October 26th. It is currently missing `158` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
 ##### Timeline
 
@@ -510,7 +526,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Tuesday, October 24th, I am still not ready yet.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Thursday, October 26th, I am still not ready yet.
 
 </details>
 
@@ -1450,6 +1466,10 @@ Oberon ❌️
 ooc ❌️
 OpenCL ❌️
 OpenEdge ABL ❌️
+OpenPolicyAgent ❌️
+OpenQASM ❌️
+OpenSCAD ❌️
+Org ❌️
 !-->
 
 <!--
@@ -1463,12 +1483,12 @@ OpenEdge ABL ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `110 (2023, Tuesday, October 24th at 04:10 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,782`
-- **Word count:** `10,524`
-- **Character count (including spaces):** `085,845`
-- **Character count (excluding spaces):** `072,659`
-- **Size (in bytes):** `087,152`
+- **File version:** `111 (2023, Thursday, October 26th at 03:48 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,829`
+- **Word count:** `10,841`
+- **Character count (including spaces):** `088,012`
+- **Character count (excluding spaces):** `074,554`
+- **Size (in bytes):** `089,335`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1765,6 +1785,33 @@ OpenEdge ABL ❌️
 - [ ] No other changes in version 110
 
 </details> <!-- V110 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 111 (2023, Thursday, October 26th at 03:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V110.md)
+
+> **Note** _The 17 day streak was broken yesterday, due to time issues involving procrastination. A basic update was done today, and a new streak has started. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 320 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 111
+- [ ] No other changes in version 111
+
+</details> <!-- V111 !-->
 
 ---
 
