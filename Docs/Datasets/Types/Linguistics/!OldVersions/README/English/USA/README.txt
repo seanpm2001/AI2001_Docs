@@ -15,13 +15,17 @@
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the 100 language milestone notice</u></b></p></summary>
+
 | 🎊️ | Milestone (2023, Tuesday, August 1st) |
 |---|---|
 | 💯 | As of 2023, Tuesday, August 1st, there is planned support for 100 different spoken languages within the AI2001 toolchain. |
 
+</details> <!-- End of 100 language milestone notice !-->
+
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Friday, October 20th, there are `108` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Wednesday, October 25th, there are `110/111` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -136,6 +140,8 @@ As of 2023, Friday, October 20th, there are `108` linguistic datasets, with many
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Sinhala`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Sinhala/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Serbian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Serbian/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Croatian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Croatian/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Bodo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bodo/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Dogri`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dogri/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -174,11 +180,11 @@ Some of the planned Linguistic dataset sources include:
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-There are plans to support all language families, starting with major ones, and the most threatened ones. THis means that there will be support for over 8,570 languages, including Pidgin languages, extinct languages, ancient/classical languages, dialects, and sign languages.
+There are plans to support all language families, starting with major ones, and the most threatened ones. This means that there will be support for over 8,570 languages, including Pidgin languages, extinct languages, ancient/classical languages, dialects, and sign languages.
 
 This is a very long term goal that will require a lot of community work. The current documented language families include:
 
-Total languages (as of 2023, Friday, October 20th) `108` / `~8,570` (`001.26%`)
+Total languages (as of 2023, Wednesday, October 25th) `110` / `~8,570` (`001.28%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -590,6 +596,8 @@ Slovenian ❌️
 Sinhala ❌️
 Serbian ❌️
 Croatian ❌️
+Bodo ❌️
+Dogri ❌️
 !-->
 
 <details open><summary><p><b>Click/tap here to expand/collapse the writing system family tree</b></p></summary>
@@ -646,7 +654,7 @@ Other hieroglyphic entries ⌛️ On hold
 > I lost 12 languages in a computer crash upon updating this file on day 1, nearly half an hour of work. I will just go with the plan of creating 5, 10, 15, or 20 per day until I am caught back up, along with the addition of new entries. The next day, I got it all back, and went way above my personal limit, adding 62 languages to the list, and leaving 18 for another time.
 !-->
 
-> This listing includes `102` out of `104` languages (`98.07%`) of the AI2001 linguistics toolchain, as of 2023, Friday, August 4th. It is currently missing `002` languages.
+> This listing includes `102` out of `110` languages (`92.72%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, October 26th. It is currently missing `008` languages.
 
 > **()** _empty brackets_ indicate that dialects have not yet been determined.
 
@@ -668,17 +676,17 @@ This list is highly incomplete right now.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `49 (2023, Friday, October 20th at 07:24 pm PST)`
+**File version:** `50 (2023, Thursday, October 26th at 03:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,733`
+**Line count (including blank lines and compiler line):** `1,870`
 
-**Word count:** `8,453`
+**Word count:** `08,686`
 
-**Character count (with spaces):** `63,677`
+**Character count (with spaces):** `065,504`
 
-**Character count (without spaces):** `53,670`
+**Character count (without spaces):** `055,160`
 
-**Size (in bytes):** `64,272`
+**Size (in bytes):** `066,107`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -698,6 +706,8 @@ This list is highly incomplete right now.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
+---
+
 <details><summary><p lang="en"><b>Version 1 (2023, Tuesday, March 21st at 3:17 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -714,6 +724,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 1
 
 </details> <!-- V01 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 2 (2023, Wednesday, March 22nd at 3:59 pm PST)</b></p></summary>
 
@@ -740,6 +752,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V02 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 3 (2023, Thursday, March 23rd at 3:58 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -759,6 +773,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 3
 
 </details> <!-- V03 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 4 (2023, Friday, March 24th at 6:07 pm PST)</b></p></summary>
 
@@ -780,6 +796,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V04 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 5 (2023, Saturday, March 25th at 9:37 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -799,6 +817,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 5
 
 </details> <!-- V05 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 6 (2023, Sunday, March 26th at 10:13 pm PST)</b></p></summary>
 
@@ -820,6 +840,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V06 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 7 (2023, Monday, March 27th at 3:37 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -839,6 +861,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 7
 
 </details> <!-- V07 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 8 (2023, Tuesday, March 28th at 3:17 pm PST)</b></p></summary>
 
@@ -860,6 +884,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V08 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 9 (2023, Wednesday, March 29th at 8:15 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -879,6 +905,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 9
 
 </details> <!-- V09 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 10 (2023, Friday, March 31st at 10:28 pm PST)</b></p></summary>
 
@@ -900,6 +928,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V10 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 11 (2023, Saturday, April 1st at 6:38 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -920,6 +950,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V11 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 12 (2023, Sunday, April 2nd at 3:34 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -939,6 +971,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 12
 
 </details> <!-- V12 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 13 (2023, Monday, April 3rd at 4:17 pm PST)</b></p></summary>
 
@@ -961,6 +995,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V13 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 14 (2023, Wednesday, April 5th at 3:20 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -980,6 +1016,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 14
 
 </details> <!-- V14 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 15 (2023, Friday, April 7th at 7:01 pm PST)</b></p></summary>
 
@@ -1002,6 +1040,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V15 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 16 (2023, Saturday, April 8th at 3:45 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1021,6 +1061,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 16
 
 </details> <!-- V16 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 17 (2023, Sunday, April 9th at 10:43 pm PST)</b></p></summary>
 
@@ -1042,6 +1084,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V17 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 18 (2023, Monday, April 10th at 6:13 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1061,6 +1105,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 18
 
 </details> <!-- V18 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 19 (2023, Tuesday, April 11th at 4:40 pm PST)</b></p></summary>
 
@@ -1082,6 +1128,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V19 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 20 (2023, Wednesday, April 12th at 7:42 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1101,6 +1149,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 20
 
 </details> <!-- V20 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 21 (2023, Thursday, April 13th at 5:38 pm PST)</b></p></summary>
 
@@ -1122,6 +1172,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V21 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 22 (2023, Friday, April 14th at 7:01 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1141,6 +1193,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 22
 
 </details> <!-- V22 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 23 (2023, Sunday, April 16th at 6:25 pm PST)</b></p></summary>
 
@@ -1162,6 +1216,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V23 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 24 (2023, Monday, April 17th at 5:48 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1181,6 +1237,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 24
 
 </details> <!-- V24 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 25 (2023, Tuesday, April 18th at 3:28 pm PST)</b></p></summary>
 
@@ -1202,6 +1260,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V25 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 26 (2023, Wednesday, April 19th at 4:56 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1221,6 +1281,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 26
 
 </details> <!-- V26 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 27 (2023, Thursday, April 20th at 5:17 pm PST)</b></p></summary>
 
@@ -1242,6 +1304,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V27 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 28 (2023, Friday, April 21st at 7:05 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1261,6 +1325,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 28
 
 </details> <!-- V28 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 29 (2023, Saturday, April 22nd at 6:36 pm PST)</b></p></summary>
 
@@ -1282,6 +1348,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V29 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 30 (2023, Sunday, April 23rd at 5:45 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1301,6 +1369,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 30
 
 </details> <!-- V30 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 31 (2023, Monday, April 24th at 4:50 pm PST)</b></p></summary>
 
@@ -1322,6 +1392,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V31 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 32 (2023, Tuesday, April 25th at 11:25 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1341,6 +1413,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 32
 
 </details> <!-- V32 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 33 (2023, Wednesday, April 26th at 2:48 pm PST)</b></p></summary>
 
@@ -1362,6 +1436,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V33 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 34 (2023, Thursday, April 27th at 5:14 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1381,6 +1457,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 34
 
 </details> <!-- V34 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 35 (2023, Friday, April 28th at 3:56 pm PST)</b></p></summary>
 
@@ -1402,6 +1480,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V35 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 36 (2023, Friday, May 5th at 7:59 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1422,6 +1502,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V36 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 37 (2023, Saturday, May 6th at 7:24 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1440,6 +1522,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 37
 
 </details> <!-- V37 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 38 (2023, Thursday, July 20th at 12:42 pm PST)</b></p></summary>
 
@@ -1461,6 +1545,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V38 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 39 (2023, Friday, July 21st at 06:07 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1480,6 +1566,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 39
 
 </details> <!-- V39 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 40 (2023, Saturday, July 22nd at 04:52 pm PST)</b></p></summary>
 
@@ -1501,6 +1589,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V40 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 41 (2023, Saturday, July 29th at 07:05 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1520,6 +1610,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 41
 
 </details> <!-- V41 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 42 (2023, Sunday, July 30th at 06:45 pm PST)</b></p></summary>
 
@@ -1543,6 +1635,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V42 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 43 (2023, Sunday, July 30th at 08:05 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1561,6 +1655,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 43
 
 </details> <!-- V43 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 44 (2023, Monday, July 31st at 04:26 pm PST)</b></p></summary>
 
@@ -1585,6 +1681,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V44 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 45 (2023, Tuesday, August 1st at 06:29 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1607,6 +1705,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 45
 
 </details> <!-- V45 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 46 (2023, Wednesday, August 2nd at 07:33 pm PST)</b></p></summary>
 
@@ -1638,6 +1738,8 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 46
 
 </details> <!-- V46 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 47 (2023, Friday, August 4th at 07:07 pm PST)</b></p></summary>
 
@@ -1671,6 +1773,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V47 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 48 (2023, Tuesday, October 17th at 08:12 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1695,6 +1799,8 @@ This list is highly incomplete right now.
 
 </details> <!-- V48 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 49 (2023, Friday, October 20th at 07:24 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -1718,6 +1824,37 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 49
 
 </details> <!-- V49 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 50 (2023, Thursday, October 26th at 03:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Work for today was supposed to be done yesterday, but I didn't have the time. There won't be any new entries here for tomorrow._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 2 new entries to the list
+- [x] Updated the language percentage counter (for all languages that exist)
+- [x] Updated the language percentage counter (for all languages that are in this project)
+- [x] Updated the `file info` section
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte count
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added divider lines between all entries
+- - [x] Added an entry for version 50
+- [ ] No other changes in version 50
+
+</details> <!-- V50 !-->
+
+---
 
 </details> <!-- End of file history !-->
 
