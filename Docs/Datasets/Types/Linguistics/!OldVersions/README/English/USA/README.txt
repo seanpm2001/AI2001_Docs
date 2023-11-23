@@ -25,7 +25,7 @@
 
 Linguistic datasets are used for various linguistic tasks, including translation, word generation, spell checking, and more.
 
-As of 2023, Wednesday, October 25th, there are `110/111` linguistic datasets, with many more planned in the coming months. They include:
+As of 2023, Wednesday, November 22nd, there are `114/115` linguistic datasets, with many more planned in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -142,6 +142,10 @@ As of 2023, Wednesday, October 25th, there are `110/111` linguistic datasets, wi
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Croatian`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Croatian/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Bodo`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Bodo/)
 - - [:octocat: `AI2001 Category: Linguistics ;SC: Dogri`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Dogri/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Hausa`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Hausa/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Kannada`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Kannada/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Assamese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Assamese/)
+- - [:octocat: `AI2001 Category: Linguistics ;SC: Odia`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Odia/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -184,7 +188,7 @@ There are plans to support all language families, starting with major ones, and 
 
 This is a very long term goal that will require a lot of community work. The current documented language families include:
 
-Total languages (as of 2023, Wednesday, October 25th) `110` / `~8,570` (`001.28%`)
+Total languages (as of 2023, Wednesday, November 22nd) `114` / `~8,570` (`001.33%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -598,6 +602,10 @@ Serbian ❌️
 Croatian ❌️
 Bodo ❌️
 Dogri ❌️
+Hausa ❌️
+Kannada ❌️
+Assamese ❌️
+Odia ❌️
 !-->
 
 <details open><summary><p><b>Click/tap here to expand/collapse the writing system family tree</b></p></summary>
@@ -676,17 +684,17 @@ This list is highly incomplete right now.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `50 (2023, Thursday, October 26th at 03:44 pm PST)`
+**File version:** `51 (2023, Wednesday, November 22nd at 07:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,870`
+**Line count (including blank lines and compiler line):** `1,907`
 
-**Word count:** `08,686`
+**Word count:** `08,917`
 
-**Character count (with spaces):** `065,504`
+**Character count (with spaces):** `067,149`
 
-**Character count (without spaces):** `055,160`
+**Character count (without spaces):** `056,572`
 
-**Size (in bytes):** `066,107`
+**Size (in bytes):** `067,768`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1853,6 +1861,35 @@ This list is highly incomplete right now.
 - [ ] No other changes in version 50
 
 </details> <!-- V50 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 51 (2023, Wednesday, November 22nd at 07:31 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This file was updated as part of a catchup update process done today. This file won't be edited again for a while._
+
+> Changes:
+
+- [x] Updated the `Linguistics types` section
+- - [x] Added 4 new entries to the list
+- [x] Updated the language percentage counter (for all languages that exist)
+- [x] Updated the language percentage counter (for all languages that are in this project)
+- [x] Updated the `file info` section
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte count
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added divider lines between all entries
+- - [x] Added an entry for version 51
+- [ ] No other changes in version 51
+
+</details> <!-- V51 !-->
 
 ---
 
