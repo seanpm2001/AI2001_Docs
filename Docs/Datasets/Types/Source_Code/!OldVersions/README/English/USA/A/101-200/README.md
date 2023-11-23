@@ -39,7 +39,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Friday, October 27th, there are `323` source code datasets (containing support for 321/322 languages) with many more coming in the coming months. They include:
+As of 2023, Wednesday, November 22nd, there are `374` source code datasets (containing support for 373/374 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -368,6 +368,57 @@ As of 2023, Friday, October 27th, there are `323` source code datasets (containi
 - - [:octocat: `AI2001 Category: Source Code ;SC: Org`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Org/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Orwell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Orwell/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Oxygene`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Oxygene/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PlantUML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlantUML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PlPGSQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlPGSQL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Pod6`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pod6/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Pony`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pony/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PostScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PostScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: POV-RAY SDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-POV-Ray-SDL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PowerShell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PowerShell/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Processing`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Processing/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ProGuard`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ProGuard/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Processing.js`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Processing.js/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Prolog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Prolog/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Protocol-Buffer`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Protocol-Buffer/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Pug`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pug/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Puppet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Puppet/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PureData`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PureData/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PureScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PureScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Pawn`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pawn/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Perl6`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Perl6/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PicoLisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PicoLisp/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PigLatin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PigLatin/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: QMake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QMake/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Qt-Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Qt-Script/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: QueryByExample`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QueryByExample/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RAML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RDoc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RDoc/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ReasonML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReasonML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: REBOL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REBOL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RenderScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RenderScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: REXX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REXX/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RichTextFormat`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RichTextFormat/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RobotFramework`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RobotFramework/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Roff`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Roff/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RPC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RPC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RPGLE`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RPGLE/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ruby`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ruby/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RUNOFF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RUNOFF/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SaltStack`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SaltStack/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SAS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SAS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SASS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SASS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SciLab`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SciLab/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SCSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SCSS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: sed`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sed/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Singularity`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Singularity/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Slash`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slash/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Smali`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smali/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Smalltalk`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smalltalk/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Smarty`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Smarty/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SMT`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SMT/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Solidity`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Solidity/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SQF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SQF/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SQL/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -393,7 +444,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Friday, October 27th) `322` / `??` (`???.??%`)
+Total languages (2023, Wednesday, November 22nd) `373` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -405,7 +456,7 @@ Total languages (2023, Friday, October 27th) `322` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `322` languages (`50.31%`) of the AI2001 linguistics toolchain, as of 2023, Friday, October 27th. It is currently missing `160` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
+> This listing includes `162` out of `374` languages (`43.31%`) of the AI2001 linguistics toolchain, as of 2023, Wednesday, November 22nd. It is currently missing `212` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive. <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
 ##### Timeline
 
@@ -528,7 +579,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Friday, October 27th, I am still not ready yet. Progress has dropped by nearly 50% in this time, and it will take a lot of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Wednesday, November 22nd, I am still not ready yet. Progress has dropped by nearly 50% in this time, and it will take a lot of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1474,6 +1525,57 @@ OpenSCAD ❌️
 Org ❌️
 Orwell ❌️
 Oxygene ❌️
+PlantUML ❌️
+PlPGSQL ❌️
+Pod6 ❌️
+Pony ❌️
+PostScript ❌️
+POV-Ray-SDL ❌️
+PowerShell ❌️
+Processing ❌️
+ProGuard ❌️
+Processing.js ❌️
+Prolog ❌️
+Protocol-Buffer ❌️
+Pug ❌️
+Puppet ❌️
+PureData ❌️
+PureScript ❌️
+Pawn ❌️
+Perl6 ❌️
+PicoLisp ❌️
+PigLatin ❌️
+QMake ❌️
+Qt-Script ❌️
+QueryByExample ❌️
+RAML ❌️
+RDoc ❌️
+ReasonML ❌️
+REBOL ❌️
+RenderScript ❌️
+REXX ❌️
+RichTextFormat ❌️
+RobotFramework ❌️
+Roff ❌️
+RPC ❌️
+RPGLE ❌️
+Ruby ❌️
+RUNOFF ❌️
+SaltStack ❌️
+SAS ❌️
+SASS ❌️
+SciLab ❌️
+SCSS ❌️
+Sed ❌️
+Singularity ❌️
+Slash ❌️
+Smali ❌️
+Smalltalk ❌️
+Smarty ❌️
+SMT ❌️
+Solidity ❌️
+SQF ❌️
+SQL ❌️
 !-->
 
 <!--
@@ -1487,12 +1589,12 @@ Oxygene ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `112 (2023, Friday, October 27th at 04:23 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,861`
-- **Word count:** `011,048`
-- **Character count (including spaces):** `089,358`
-- **Character count (excluding spaces):** `075,699`
-- **Size (in bytes):** `090,689`
+- **File version:** `113 (2023, Wednesday, November 22nd at 07:25 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,990`
+- **Word count:** `012,123`
+- **Character count (including spaces):** `097,549`
+- **Character count (excluding spaces):** `083,180`
+- **Size (in bytes):** `099,084`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1825,7 +1927,7 @@ Oxygene ❌️
 
 - [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V112.md)
 
-> **Note** _Just a basic maintenace update today. Continuing for a second consecutive day._
+> **Note** _Just a basic maintenance update today. Continuing for a second consecutive day._
 
 > Changes:
 
@@ -1844,6 +1946,33 @@ Oxygene ❌️
 - [ ] No other changes in version 112
 
 </details> <!-- V112 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 113 (2023, Wednesday, November 22nd at 07:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V113.md)
+
+> **Note** _A maintenance update was done today after a nearly month-long hiatus. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 51 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 374 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 113
+- [ ] No other changes in version 113
+
+</details> <!-- V113 !-->
 
 ---
 
