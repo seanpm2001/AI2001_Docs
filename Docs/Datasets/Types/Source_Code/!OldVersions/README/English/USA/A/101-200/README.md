@@ -39,7 +39,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, November 26th, there are `382` source code datasets (containing support for 381/382 languages) with many more coming in the coming months. They include:
+As of 2023, Monday, November 27th, there are `384` source code datasets (containing support for 383/384 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -427,6 +427,8 @@ As of 2023, Sunday, November 26th, there are `382` source code datasets (contain
 - - [:octocat: `AI2001 Category: Source Code ;SC: Starlark`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Starlark/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Stata`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Stata/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: StringTemplate`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-StringTemplate/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Stylus`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Stylus/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SugarSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SugarSS/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -589,7 +591,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Sunday, November 26th, I am still not ready yet. Progress has dropped by nearly 50% in this time, and it will take a lot of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Monday, November 27th, I am still not ready yet. Progress has dropped by nearly 50% in this time, and it will take a lot of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1594,6 +1596,8 @@ STAR ❌️
 Starlark ❌️
 Stata ❌️
 StringTemplate ❌️
+Stylus ❌️
+SugarSS ❌️
 !-->
 
 <!--
@@ -1607,12 +1611,12 @@ StringTemplate ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `117 (2023, Sunday, November 26th at 09:26 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,117`
-- **Word count:** `012,834`
-- **Character count (including spaces):** `102,386`
-- **Character count (excluding spaces):** `087,331`
-- **Size (in bytes):** `103,953`
+- **File version:** `118 (2023, Monday, November 27th at 08:36 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,149`
+- **Word count:** `013,020`
+- **Character count (including spaces):** `103,634`
+- **Character count (excluding spaces):** `088,398`
+- **Size (in bytes):** `105,209`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2075,7 +2079,7 @@ StringTemplate ❌️
 
 ---
 
-<details><summary><p lang="en"><b>Version 117 (2023, Sunday, November 25th at 09:26 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 117 (2023, Sunday, November 26th at 09:26 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -2100,6 +2104,34 @@ StringTemplate ❌️
 - [ ] No other changes in version 117
 
 </details> <!-- V117 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 118 (2023, Monday, November 27th at 08:36 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V118.md)
+
+> **Note** _A daily maintenance update was done yet again today. Continuing for a 6th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 2 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 384 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Fixed a typo in the entry for version 117
+- - [x] Added an entry for version 118
+- [ ] No other changes in version 118
+
+</details> <!-- V118 !-->
 
 ---
 
