@@ -31,9 +31,7 @@
 
 </details> <!-- End of 200 language milestone notice !-->
 
-</details>
-
-<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the 300 language milestone notice</u></b></p></summary>
+<details><summary><p lang="en"><b><u>Click/tap here to expand/collapse the 300 language milestone notice</u></b></p></summary>
 
 | 🎊️ | Milestone (2023, Tuesday, October 17th) |
 |---|---|
@@ -41,9 +39,20 @@
 
 </details> <!-- End of 300 language milestone notice !-->
 
+</details>
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the 400 language milestone notice</u></b></p></summary>
+
+| 🎊️ | Milestone (2023, Tuesday, December 5th) |
+|---|---|
+| 4x💯 | As of 2023, Tuesday, December 5th, there is planned support for 400 different computing languages within the AI2001 toolchain. |
+
+</details> <!-- End of 400 language milestone notice !-->
+
+
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Thursday, November 30th, there are `390` source code datasets (containing support for 389/390 languages) with many more coming in the coming months. They include:
+As of 2023, Wednesday, December 13th, there are `418` source code datasets (containing support for 413/418 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -439,8 +448,44 @@ As of 2023, Thursday, November 30th, there are `390` source code datasets (conta
 - - [:octocat: `AI2001 Category: Source Code ;SC: Swift`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Swift/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: SWIG`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SWIG/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: SystemVerilog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SystemVerilog/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Terra`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Terra/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Textile`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Textile/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Thrift`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Thrift/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: TLA`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TLA/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: TSQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TSQL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Twig`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Twig/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: TXL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TXL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Unity3D Asset`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Unity3DAsset/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: UNIX-Assembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-UNIX-Assembly/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: VBA`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VBA/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: VCL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VCL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Verilog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Verilog/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Verilog AMS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Verilog-AMS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Verona`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Verona/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Vim Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vim-Script/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Vim Snippet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vim-Snippet/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Vue`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vue/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Vue.js`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vue.js/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: WaveFront Material`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WaveFront-Material/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: WaveFront Object`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WaveFront-Object/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: WDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WDL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: WebIDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebIDL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: WebVTT`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WebVTT/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: WikiText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WikiText/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: XBase`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XBase/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: XProc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XProc/)
 
 </details> <!-- End of language list dropdown !-->
+
+**Disputed:**
+
+```diff
+--- Perl6 ==> (Perl/Raku)
+--- Python2 & Python3 ==> (Python)
+--- Vue.js ==> (Vue)
+--- UNIX Assembly ==> (Assembly)
+--- Verilog AMS ==> (Verilog)
+```
 
 </details> <!-- End of linguistic datasets section dropdown !-->
 
@@ -464,7 +509,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Thursday, November 30th) `390` / `??` (`???.??%`)
+Total languages (2023, Wednesday, December 13th) `418` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -476,7 +521,7 @@ Total languages (2023, Thursday, November 30th) `390` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `390` languages (`41.53%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, November 30th. It is currently missing `248` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `418` languages (`38.75%`) of the AI2001 linguistics toolchain, as of 2023, Wednesday, December 13th. It is currently missing `274` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -1614,6 +1659,32 @@ Sweave ❌️
 Swift ❌️
 SWIG ❌️
 SystemVerilog ❌️
+Terra ❌️
+Textile ❌️
+Thrift ❌️
+TLA ❌️
+TSQL ❌️
+Twig ❌️
+TXL ❌️
+Unity3DAsset ❌️
+UNIX-Assembly ❌️
+VBA ❌️
+VCL ❌️
+Verilog ❌️
+Verilog-AMS ❌️
+Verona ❌️
+Vim-Script ❌️
+Vim-Snippet ❌️
+Vue ❌️
+Vue.js ❌️
+WaveFront-Material ❌️
+WaveFront-Object ❌️
+WDL ❌️
+WebIDL ❌️
+WebVTT ❌️
+WikiText ❌️
+XBase ❌️
+XProc ❌️
 !-->
 
 <!--
@@ -1627,12 +1698,12 @@ SystemVerilog ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `121 (2023, Thursday, November 30th at 07:33 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,246`
-- **Word count:** `013,570`
-- **Character count (including spaces):** `107,398`
-- **Character count (excluding spaces):** `091,643`
-- **Size (in bytes):** `108,997`
+- **File version:** `122 (2023, Wednesday, December 13th at 06:10 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,344`
+- **Word count:** `014,275`
+- **Character count (including spaces):** `112,600`
+- **Character count (excluding spaces):** `096,318`
+- **Size (in bytes):** `114,311`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2209,7 +2280,7 @@ SystemVerilog ❌️
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V120.md)
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V121.md)
 
 > **Note** _A daily maintenance update was done yet again today. Continuing for a 9th consecutive day._
 
@@ -2229,6 +2300,33 @@ SystemVerilog ❌️
 - [ ] No other changes in version 121
 
 </details> <!-- V121 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 122 (2023, Wednesday, December 13th at 06:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V122.md)
+
+> **Note** _Bringing the project back up to date today after 12-13 days of inactivity. Continuing for one consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 26 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 418 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 122
+- [ ] No other changes in version 122
+
+</details> <!-- V122 !-->
 
 ---
 
