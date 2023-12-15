@@ -52,7 +52,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Wednesday, December 13th, there are `418` source code datasets (containing support for 413/418 languages) with many more coming in the coming months. They include:
+As of 2023, Thursday, December 14th, there are `420` source code datasets (containing support for 415/4120 languages) with many more coming in the coming months. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -474,6 +474,8 @@ As of 2023, Wednesday, December 13th, there are `418` source code datasets (cont
 - - [:octocat: `AI2001 Category: Source Code ;SC: WikiText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WikiText/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: XBase`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XBase/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: XProc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XProc/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: XQuery`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XQuery/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: XS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XS/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -509,7 +511,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Wednesday, December 13th) `418` / `??` (`???.??%`)
+Total languages (2023, Thursday, December 14th) `420` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -521,7 +523,7 @@ Total languages (2023, Wednesday, December 13th) `418` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `418` languages (`38.75%`) of the AI2001 linguistics toolchain, as of 2023, Wednesday, December 13th. It is currently missing `274` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `420` languages (`38.57%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, December 14th. It is currently missing `276` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -1685,6 +1687,8 @@ WebVTT ❌️
 WikiText ❌️
 XBase ❌️
 XProc ❌️
+XQuery ❌️
+XS ❌️
 !-->
 
 <!--
@@ -1698,12 +1702,12 @@ XProc ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `122 (2023, Wednesday, December 13th at 06:10 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,344`
-- **Word count:** `014,275`
-- **Character count (including spaces):** `112,600`
-- **Character count (excluding spaces):** `096,318`
-- **Size (in bytes):** `114,311`
+- **File version:** `123 (2023, Thursday, December 14th at 11:39 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,375`
+- **Word count:** `014,442`
+- **Character count (including spaces):** `113,733`
+- **Character count (excluding spaces):** `097,291`
+- **Size (in bytes):** `115,452`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2327,6 +2331,33 @@ XProc ❌️
 - [ ] No other changes in version 122
 
 </details> <!-- V122 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 123 (2023, Thursday, December 14th at 11:39 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V123.md)
+
+> **Note** _Continuing for a second consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 26 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 420 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 123
+- [ ] No other changes in version 123
+
+</details> <!-- V123 !-->
 
 ---
 
