@@ -52,7 +52,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, December 17th, there are `426` source code datasets (containing support for 420/426 languages) with many more coming in the coming months. They include:
+As of 2023, Monday, December 18th, there are `428` source code datasets (containing support for 422/428 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -482,6 +482,8 @@ As of 2023, Sunday, December 17th, there are `426` source code datasets (contain
 - - [:octocat: `AI2001 Category: Source Code ;SC: FuzzyMarkupLanguage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FuzzyMarkupLanguage/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Cairo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cairo/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Plankalkül`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Plankalk-u-l/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Whitespace`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Whitespace/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Wisp`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Wisp/)
 
 
 </details> <!-- End of language list dropdown !-->
@@ -519,7 +521,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Sunday, December 17th) `426` / `??` (`???.??%`)
+Total languages (2023, Monday, December 18th) `428` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -531,7 +533,7 @@ Total languages (2023, Sunday, December 17th) `426` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `426` languages (`38.02%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, December 17th. It is currently missing `284` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `428` languages (`37.85%`) of the AI2001 linguistics toolchain, as of 2023, Monday, December 18th. It is currently missing `286` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -1703,6 +1705,8 @@ Tampio ❌️
 FuzzyMarkupLanguage ❌️
 Cairo ❌️
 Plankalkül ❌️
+Whitespace ❌️
+Wisp ❌️
 !-->
 
 <!--
@@ -1716,12 +1720,12 @@ Plankalkül ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `126 (2023, Sunday, December 17th at 11:32 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,470`
-- **Word count:** `014,948`
-- **Character count (including spaces):** `117,239`
-- **Character count (excluding spaces):** `100,311`
-- **Size (in bytes):** `118,984`
+- **File version:** `127 (2023, Monday, December 18th at 11:43 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,501`
+- **Word count:** `015,111`
+- **Character count (including spaces):** `118,369`
+- **Character count (excluding spaces):** `101,285`
+- **Size (in bytes):** `120,122`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2453,6 +2457,33 @@ Plankalkül ❌️
 - [ ] No other changes in version 126
 
 </details> <!-- V126 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 127 (2023, Monday, December 18th at 11:43 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V127.md)
+
+> **Note** _Continuing for a sixth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 26 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 428 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 127
+- [ ] No other changes in version 127
+
+</details> <!-- V127 !-->
 
 ---
 
