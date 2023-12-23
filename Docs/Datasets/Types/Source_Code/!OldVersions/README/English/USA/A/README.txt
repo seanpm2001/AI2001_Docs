@@ -52,7 +52,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Thursday, December 21st, there are `434` source code datasets (containing support for 428/434 languages) with more coming soon. They include:
+As of 2023, Friday, December 22nd, there are `436` source code datasets (containing support for 430/436 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -490,6 +490,8 @@ As of 2023, Thursday, December 21st, there are `434` source code datasets (conta
 - - [:octocat: `AI2001 Category: Source Code ;SC: BennuGD`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BennuGD/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Mojo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mojo/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Triton`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Triton/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MQL4`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MQL4/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MQL5`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MQL5/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -538,7 +540,7 @@ Total languages (2023, Thursday, December 21st) `434` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `434` languages (`37.32%`) of the AI2001 linguistics toolchain, as of 2023, Thursday, December 21st. It is currently missing `292` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `436` languages (`37.15%`) of the AI2001 linguistics toolchain, as of 2023, Friday, December 22nd. It is currently missing `294` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -663,7 +665,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Thursday, November 30th, I am still not ready yet. Progress has dropped by nearly 50% in this time, and it will take a lot of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Friday, Decemnber 22nd, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1718,6 +1720,8 @@ GolfScript ❌️
 BennuGD ❌️
 Mojo ❌️
 Triton ❌️
+MQL4 ❌️
+MQL5 ❌️
 !-->
 
 <!--
@@ -1731,12 +1735,12 @@ Triton ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `129 (2023, Thursday, December 21st at 04:27 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,567`
-- **Word count:** `015,495`
-- **Character count (including spaces):** `121,034`
-- **Character count (excluding spaces):** `103,594`
-- **Size (in bytes):** `122,811`
+- **File version:** `130 (2023, Friday, December 22nd at 05:34 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,598`
+- **Word count:** `015,662`
+- **Character count (including spaces):** `122,155`
+- **Character count (excluding spaces):** `104,555`
+- **Size (in bytes):** `123,940`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2529,7 +2533,7 @@ Triton ❌️
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V129..md)
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V129.md)
 
 > **Note** _Continuing for a 2nd consecutive day._
 
@@ -2550,6 +2554,33 @@ Triton ❌️
 
 </details> <!-- V129 !-->
 
+
+---
+
+<details><summary><p lang="en"><b>Version 130 (2023, Friday, December 22nd at 05:34 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V130.md)
+
+> **Note** _Continuing for a 3rd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 26 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 436 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 130
+- [ ] No other changes in version 130
+
+</details> <!-- V130 !-->
 
 ---
 
