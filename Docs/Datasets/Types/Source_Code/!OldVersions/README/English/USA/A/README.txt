@@ -51,7 +51,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Saturday, December 23rd, there are `438` source code datasets (containing support for 432/438 languages) with more coming soon. They include:
+As of 2023, Sunday, December 24th, there are `440` source code datasets (containing support for 434/440 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -493,6 +493,8 @@ As of 2023, Saturday, December 23rd, there are `438` source code datasets (conta
 - - [:octocat: `AI2001 Category: Source Code ;SC: MQL5`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MQL5/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CWEB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CWEB/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: WEB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WEB/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Turing`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Turing/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Noop`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Noop/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -529,7 +531,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Saturday, December 23rd) `438` / `??` (`???.??%`)
+Total languages (2023, Sunday, December 24th) `440` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -541,7 +543,7 @@ Total languages (2023, Saturday, December 23rd) `438` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `438` languages (`36.98%`) of the AI2001 linguistics toolchain, as of 2023, Saturday, December 23rd. It is currently missing `296` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `440` languages (`36.81%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, December 24th. It is currently missing `298` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -666,7 +668,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Saturday, Decemnber 23rd, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Sunday, Decemnber 24th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1725,6 +1727,8 @@ MQL4 ❌️
 MQL5 ❌️
 CWEB ❌️
 WEB ❌️
+Turing ❌️
+Noop ❌️
 !-->
 
 <!--
@@ -1738,12 +1742,12 @@ WEB ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `131 (2023, Saturday, December 23rd at 07:24 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,627`
-- **Word count:** `015,829`
-- **Character count (including spaces):** `123,291`
-- **Character count (excluding spaces):** `105,533`
-- **Size (in bytes):** `125,084`
+- **File version:** `132 (2023, Sunday, December 24th at 06:57 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,658`
+- **Word count:** `015,996`
+- **Character count (including spaces):** `124,418`
+- **Character count (excluding spaces):** `106,500`
+- **Size (in bytes):** `126,219`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2610,6 +2614,33 @@ WEB ❌️
 - [ ] No other changes in version 131
 
 </details> <!-- V131 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 132 (2023, Sunday, December 24th at 06:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V132.md)
+
+> **Note** _Continuing for a 5th consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 26 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 440 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 132
+- [ ] No other changes in version 132
+
+</details> <!-- V132 !-->
 
 ---
 
