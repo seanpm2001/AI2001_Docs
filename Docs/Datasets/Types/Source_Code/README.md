@@ -51,7 +51,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Sunday, December 24th, there are `440` source code datasets (containing support for 434/440 languages) with more coming soon. They include:
+As of 2023, Wednesday, December 27th, there are `444` source code datasets (containing support for 438/444 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -495,6 +495,10 @@ As of 2023, Sunday, December 24th, there are `440` source code datasets (contain
 - - [:octocat: `AI2001 Category: Source Code ;SC: WEB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WEB/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Turing`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Turing/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Noop`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Noop/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Lobster`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lobster/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CPL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CPL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: FLOW-MATIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FLOW-MATIC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ARITH-MATIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ARITH-MATIC/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -531,7 +535,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Sunday, December 24th) `440` / `??` (`???.??%`)
+Total languages (2023, Wednesday, December 27th) `444` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -543,7 +547,7 @@ Total languages (2023, Sunday, December 24th) `440` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `440` languages (`36.81%`) of the AI2001 linguistics toolchain, as of 2023, Sunday, December 24th. It is currently missing `298` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `444` languages (`36.48%`) of the AI2001 linguistics toolchain, as of 2023, Wednesday, December 27th. It is currently missing `302` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -668,7 +672,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Sunday, Decemnber 24th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Wednesday, December 27th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1729,6 +1733,10 @@ CWEB ❌️
 WEB ❌️
 Turing ❌️
 Noop ❌️
+Lobster ❌️
+CPL ❌️
+FLOW-MATIC ❌️
+ARITH-MATIC ❌️
 !-->
 
 <!--
@@ -1742,12 +1750,12 @@ Noop ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `132 (2023, Sunday, December 24th at 06:57 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,658`
-- **Word count:** `015,996`
-- **Character count (including spaces):** `124,418`
-- **Character count (excluding spaces):** `106,500`
-- **Size (in bytes):** `126,219`
+- **File version:** `133 (2023, Wednesday, December 27th at 06:45 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,693`
+- **Word count:** `016,209`
+- **Character count (including spaces):** `125,899`
+- **Character count (excluding spaces):** `107,795`
+- **Size (in bytes):** `127,716`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2641,6 +2649,33 @@ Noop ❌️
 - [ ] No other changes in version 132
 
 </details> <!-- V132 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 133 (2023, Wednesday, December 27th at 06:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V133.md)
+
+> **Note** _Coming back after 2 days. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 26 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 440 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 133
+- [ ] No other changes in version 133
+
+</details> <!-- V133 !-->
 
 ---
 
