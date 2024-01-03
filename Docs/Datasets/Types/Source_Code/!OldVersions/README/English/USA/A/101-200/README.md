@@ -51,7 +51,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2023, Friday, December 29th, there are `448` source code datasets (containing support for 441/448 languages) with more coming soon. They include:
+As of 2024, Tuesday, January 2nd, there are `456` source code datasets (containing support for 441/448 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -504,6 +504,15 @@ As of 2023, Friday, December 29th, there are `448` source code datasets (contain
 - - [:octocat: `AI2001 Category: Source Code ;SC: POP-1`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-POP-1/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: PLANNER`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PLANNER/)
 
+- - [:octocat: `AI2001 Category: Source Code ;SC: POP-2`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-POP-2/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MDX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MDX/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SCRIPT`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SCRIPT/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Generalized Markup Language (GML)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Generalized-Markup-Language-GML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: EasyScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EasyScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: APL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-APL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CAP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAP/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CDS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CDS/)
+
 </details> <!-- End of language list dropdown !-->
 
 **Disputed (7):**
@@ -540,7 +549,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2023, Friday, December 29th) `448` / `??` (`???.??%`)
+Total languages (2024, Tuesday, January 2nd) `456` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -552,7 +561,7 @@ Total languages (2023, Friday, December 29th) `448` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `448` languages (`36.16%`) of the AI2001 linguistics toolchain, as of 2023, Friday, December 29th. It is currently missing `306` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `456` languages (`35.52%`) of the AI2001 linguistics toolchain, as of 2024, Tuesday, January 2nd. It is currently missing `314` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -677,7 +686,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2023, Friday, December 29th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Tuesday, January 2nd, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1746,6 +1755,14 @@ asm.js ❌️
 Information Processing Language ❌️
 POP-1 ❌️
 PLANNER ❌️
+POP-2 ❌️
+MDX ❌️
+SCRIPT ❌️
+Generalized-Markup-Language-GML ❌️
+EasyScript ❌️
+APL ❌️
+CAP ❌️
+CDS ❌️
 !-->
 
 <!--
@@ -1759,12 +1776,12 @@ PLANNER ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `134 (2023, Friday, December 29th at 06:57 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,729`
-- **Word count:** `016,433`
-- **Character count (including spaces):** `127,431`
-- **Character count (excluding spaces):** `109,131`
-- **Size (in bytes):** `129,264`
+- **File version:** `135 (2024, Tuesday, January 2nd at 08:12 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,773`
+- **Word count:** `016,730`
+- **Character count (including spaces):** `129,510`
+- **Character count (excluding spaces):** `110,970`
+- **Size (in bytes):** `131,375`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2712,6 +2729,33 @@ PLANNER ❌️
 - [ ] No other changes in version 134
 
 </details> <!-- V134 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 135 (2024, Tuesday, January 2nd at 08:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V135.md)
+
+> **Note** _Coming back after 3 days of inactivity. First update of 2024. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 452 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 135
+- [ ] No other changes in version 135
+
+</details> <!-- V135 !-->
 
 ---
 
