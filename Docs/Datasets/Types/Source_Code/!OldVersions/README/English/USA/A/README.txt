@@ -51,7 +51,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2024, Tuesday, January 2nd, there are `456` source code datasets (containing support for 441/448 languages) with more coming soon. They include:
+As of 2024, Thursday, January 11th, there are `470` source code datasets (containing support for 452/462 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -513,9 +513,28 @@ As of 2024, Tuesday, January 2nd, there are `456` source code datasets (containi
 - - [:octocat: `AI2001 Category: Source Code ;SC: CAP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CAP/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CDS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CDS/)
 
+- - [:octocat: `AI2001 Category: Source Code ;SC: SpeedCode`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SpeedCode/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PDoublePrime`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PDoublePrime/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SKILL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SKILL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: EJSS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EJSS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MDL)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Arc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Arc/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: AdBlock Filter List`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AdBlock-Filter-List/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Mermaid`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mermaid/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Hestia`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hestia/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Visual Basic 6`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Visual-Basic-6/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: EmberScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EmberScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: DenizenScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DenizenScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Marko`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Marko/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ASN.1`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASN.1/)
+
 </details> <!-- End of language list dropdown !-->
 
-**Disputed (7):**
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse this subsection (disputed languages)</b></p></summary>
+
+**Disputed (10):**
 
 ```diff
 --- Perl6 ==> (Perl/Raku)
@@ -525,7 +544,16 @@ As of 2024, Tuesday, January 2nd, there are `456` source code datasets (containi
 --- Verilog AMS ==> (Verilog)
 --- FuzzyMarkupLanguage ==> (XML)
 --- asm.js ==> (JavaScript)
+--- AdBlock Filter List ==> (Plain Text / Config)
+--- Visual Basic 6.0 ==> (VBA/VBScript)
+--- EJSS ==> (EJS)
 ```
+
+</details> <!-- End of disputed languages subsection dropdown !-->
+
+---
+
+***End of list.***
 
 </details> <!-- End of linguistic datasets section dropdown !-->
 
@@ -549,7 +577,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2024, Tuesday, January 2nd) `456` / `??` (`???.??%`)
+Total languages (2024, Thursday, January 11th) `470` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -561,7 +589,7 @@ Total languages (2024, Tuesday, January 2nd) `456` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `456` languages (`35.52%`) of the AI2001 linguistics toolchain, as of 2024, Tuesday, January 2nd. It is currently missing `314` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `470` languages (`34.46%`) of the AI2001 linguistics toolchain, as of 2024, Thursday, January 11th. It is currently missing `328` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -686,7 +714,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Tuesday, January 2nd, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Thursday, January 11th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1763,6 +1791,20 @@ EasyScript ❌️
 APL ❌️
 CAP ❌️
 CDS ❌️
+SpeedCode ❌️
+PDoublePrime ❌️
+SKILL ❌️
+EJSS ❌️
+MDL ❌️
+Arc ❌️
+AdBlock-Filter-List ❌️
+Mermaid ❌️
+Hestia ❌️
+Visual-Basic-6 ❌️
+EmberScript ❌️
+DenizenScript ❌️
+Marko ❌️
+ASN.1 ❌️
 !-->
 
 <!--
@@ -1776,12 +1818,12 @@ CDS ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `135 (2024, Tuesday, January 2nd at 08:12 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,773`
-- **Word count:** `016,730`
-- **Character count (including spaces):** `129,510`
-- **Character count (excluding spaces):** `110,970`
-- **Size (in bytes):** `131,375`
+- **File version:** `136 (2024, Thursday, January 11th at 09:42 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,844`
+- **Word count:** `017,182`
+- **Character count (including spaces):** `132,833`
+- **Character count (excluding spaces):** `113,936`
+- **Size (in bytes):** `134,754`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2759,6 +2801,33 @@ CDS ❌️
 
 ---
 
+<details><summary><p lang="en"><b>Version 136 (2024, Thursday, January 11th at 09:42 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V136.md)
+
+> **Note** _Coming back after 9 days of inactivity. Second update of 2024. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 470 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 136
+- [ ] No other changes in version 136
+
+</details> <!-- V136 !-->
+
+---
+
 </details> <!-- End of file history !-->
 
 ***
@@ -2768,5 +2837,7 @@ CDS ❌️
 You have reached the bottom of this page
 
 ( [Back to top](#AI2001-Docs) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
+
+###### [EOF](#EOF)
 
 ***
