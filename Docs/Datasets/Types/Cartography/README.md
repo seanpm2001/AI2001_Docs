@@ -17,7 +17,7 @@
 
 Cartography datasets are used for maps of the planet Earth, and other planets, space regions and objects. They are reliant on open source map technologies, such as [OpenStreetMap](https://www.openstreetmap.org/).
 
-As of 2023, Saturday, January 13th, there are `4/5` cartography datasets, with many more planned in the coming months/years. They include:
+As of 2023, Monday, January 15th, there are `6/7` cartography datasets, with many more planned in the coming months/years. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -26,12 +26,30 @@ As of 2023, Saturday, January 13th, there are `4/5` cartography datasets, with m
 - [:octocat: `AI2001 Category: Cartography`](https://github.com/seanpm2001/AI2001_Category-Cartography/)
 - - [:octocat: `AI2001 Category: Cartography ;SC: Earth`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth/)
 - - [:octocat: `AI2001 Category: Cartography ;SC: Mars`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Mars/)
-- - [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Africa`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-S-Africa/)
-- - [:octocat: `AI2001 Category: Cartography ;SC: Earth`;S: Asia](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-S-Asia/)
+- - [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Africa`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Africa/)
+- - [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Asia`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Asia/)
+- - [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Europe`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Europe/)
+- - [:octocat: `AI2001 Category: Cartography ;SC: Earth ;S: Oceania`](https://github.com/seanpm2001/AI2001_Category-Cartography-SC-Earth-S-Europe/)
 
 </details> <!-- End of map list dropdown !-->
 
-</details> <!-- End of linguistic datasets section dropdown !-->
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse this subsection (disputed maps)</b></p></summary>
+
+**Disputed (1):**
+
+```diff
+--- Earth/Oceania ==> Earth/Australia
+```
+
+</details> <!-- End of disputed maps subsection dropdown !-->
+
+---
+
+***End of list.***
+
+</details> <!-- End of cartography datasets section dropdown !-->
 
 ***
 
@@ -74,12 +92,16 @@ The map explorer is just a section for making a map of all map datasets. The dat
 
 This is a very long term goal that will require a lot of community work. The current documented maps include:
 
-<details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
+<details open><summary><p><b>Click/tap here to expand/collapse the map navigational tree</b></p></summary>
 
 - Earth
 - - Africa
 - - - null
 - - Asia
+- - - null
+- - Europe
+- - - null
+- - Oceania
 - - - null
 - - null
 - Mars
@@ -96,12 +118,12 @@ This is a very long term goal that will require a lot of community work. The cur
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `1 (2024, Saturday, January 13th at 08:21 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,170`
-- **Word count:** `00,891`
-- **Character count (with spaces):** `06,001`
-- **Character count (without spaces):** `05,155`
-- **Size (in bytes):** `06,006`
+- **File version:** `3 (2024, Monday, January 15th at 04:36 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,211`
+- **Word count:** `01,060`
+- **Character count (with spaces):** `07,222`
+- **Character count (without spaces):** `06,204`
+- **Size (in bytes):** `07,227`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -156,10 +178,29 @@ This is a very long term goal that will require a lot of community work. The cur
 
 ---
 
+<details><summary><p lang="en"><b>Version 3 (2024, Monday, January 15th at 04:36 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The third release, now containing more datasets to go with the page._
+
+- [x] Updated the `Title` section
+- [x] Updated the map listing
+- - [x] Added the `Disputed` section
+- [x] Updated the `EXPLORER` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
+
+</details> <!-- V03 !-->
+
+---
+
 </details> <!-- End of file history !-->
 
 ***
-
+*
 ## [Footer](#Footer)
 
 You have reached the bottom of this page.
