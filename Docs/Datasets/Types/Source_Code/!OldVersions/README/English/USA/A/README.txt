@@ -51,7 +51,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2024, Monday, January 15th, there are `472` source code datasets (containing support for 454/464 languages) with more coming soon. They include:
+As of 2024, Tuesday, January 16th, there are `474` source code datasets (containing support for 456/466 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -529,6 +529,8 @@ As of 2024, Monday, January 15th, there are `472` source code datasets (containi
 - - [:octocat: `AI2001 Category: Source Code ;SC: ASN.1`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ASN.1/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Action Message Format (AMF)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AMF-ActionMessageFormat/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Apache Avro`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Apache-Avro/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Tab Separated Values (TSV)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TSV-Tab-Separated-Values/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Erlang Doc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Erlang-Doc/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -579,7 +581,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2024, Monday, January 15th) `472` / `??` (`???.??%`)
+Total languages (2024, Tuesday, January 16th) `474` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -591,7 +593,7 @@ Total languages (2024, Monday, January 15th) `472` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `472` languages (`34.32%`) of the AI2001 linguistics toolchain, as of 2024, Monday, January 15th. It is currently missing `330` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `474` languages (`34.17%`) of the AI2001 linguistics toolchain, as of 2024, Tuesday, January 16th. It is currently missing `332` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -716,7 +718,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Monday, January 15th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Tuesday, January 16th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1809,6 +1811,8 @@ Marko ❌️
 ASN.1 ❌️
 Action Message Format (AMF) ❌️
 Apache Avro ❌️
+Tab Separated Values (TSV) ❌️
+Erlang Doc ❌️
 !-->
 
 <!--
@@ -1822,12 +1826,12 @@ Apache Avro ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `137 (2024, Monday, January 15th at 04:38 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,875`
-- **Word count:** `017,393`
-- **Character count (including spaces):** `134,236`
-- **Character count (excluding spaces):** `115,137`
-- **Size (in bytes):** `136,165`
+- **File version:** `138 (2024, Tuesday, January 16th at 05:41 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,906`
+- **Word count:** `017,572`
+- **Character count (including spaces):** `135,453`
+- **Character count (excluding spaces):** `116,186`
+- **Size (in bytes):** `137,390`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2836,7 +2840,7 @@ Apache Avro ❌️
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V136.md)
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V137.md)
 
 > **Note** _There were a few days without new source code dataset entries, as I temporaily transitioned to cartography. I came back with new source code datasets today, so now there is something to work with here. Continuing for 1 consecutive day._
 
@@ -2856,6 +2860,33 @@ Apache Avro ❌️
 - [ ] No other changes in version 137
 
 </details> <!-- V137 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 138 (2024, Tuesday, January 16th at 05:41 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V138.md)
+
+> **Note** _Continuing for a 2nd consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 4 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 474 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 138
+- [ ] No other changes in version 138
+
+</details> <!-- V138 !-->
 
 ---
 
