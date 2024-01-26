@@ -51,7 +51,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2024, Wednesday, January 17th, there are `476` source code datasets (containing support for 456/466 languages) with more coming soon. They include:
+As of 2024, Thursday, January 25th, there are `492` source code datasets (containing support for 472/482 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -533,6 +533,22 @@ As of 2024, Wednesday, January 17th, there are `476` source code datasets (conta
 - - [:octocat: `AI2001 Category: Source Code ;SC: Erlang Doc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Erlang-Doc/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Web Ontology Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Web-Ontology-Language/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: MATH-MATIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MATH-MATIC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PDDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PDDL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Lasso`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Lasso/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Elvish`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elvish/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NuShell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NuShell/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Nearley`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nearley/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: DataLog`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DataLog/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Flix`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Flix/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Semantic-Web-Rule-Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Semantic-Web-Rule-Language/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RuleML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RuleML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Semantic-Query-Web-Rule-Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Semantic-Query-Web-Rule-Language/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: DARPA-Agent-Markup-Language-DAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DARPA-Agent-Markup-Language-DAML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: REWERSE-Rule-Markup-Language-R2ML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-REWERSE-Rule-Markup-Language-R2ML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Rule-Interchange-Format-RIF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rule-Interchange-Format-RIF/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LegalXML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LegalXML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LilyPond`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LilyPond/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Git-Attributes`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Attributes/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -583,7 +599,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2024, Wednesday, January 17th) `476` / `??` (`???.??%`)
+Total languages (2024, Thursday, January 25th) `492` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -595,7 +611,7 @@ Total languages (2024, Wednesday, January 17th) `476` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `476` languages (`34.03%`) of the AI2001 linguistics toolchain, as of 2024, Wednesday, January 17th. It is currently missing `334` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `492` languages (`32.92%`) of the AI2001 linguistics toolchain, as of 2024, Thursday, January 25th. It is currently missing `334` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -720,7 +736,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Wednesday, January 17th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Thursday, January 25th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1817,6 +1833,22 @@ Tab Separated Values (TSV) ❌️
 Erlang Doc ❌️
 Web Ontology Language ❌️
 MATH-MATIC ❌️
+PDDL ❌️
+Lasso ❌️
+Elvish ❌️
+NuShell ❌️
+Nearley ❌️
+DataLog ❌️
+Flix ❌️
+Semantic-Web-Rule-Language ❌️
+RuleML ❌️
+Semantic-Query-Web-Rule-Language ❌️
+DARPA-Agent-Markup-Language-DAML ❌️
+REWERSE-Rule-Markup-Language-R2ML ❌️
+Rule-Interchange-Format-RIF ❌️
+LegalXML ❌️
+LilyPond ❌️
+Git-Attributes ❌️
 !-->
 
 <!--
@@ -1830,12 +1862,12 @@ MATH-MATIC ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `139 (2024, Wednesday, January 17th at 04:51 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,937`
-- **Word count:** `017,748`
-- **Character count (including spaces):** `136,664`
-- **Character count (excluding spaces):** `117,233`
-- **Size (in bytes):** `138,609`
+- **File version:** `140 (2024, Thursday, January 25th at 04:44 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,996`
+- **Word count:** `018,228`
+- **Character count (including spaces):** `140,164`
+- **Character count (excluding spaces):** `120,415`
+- **Size (in bytes):** `142,173`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2918,6 +2950,33 @@ MATH-MATIC ❌️
 - [ ] No other changes in version 139
 
 </details> <!-- V139 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 140 (2024, Thursday, January 25th at 04:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V140.md)
+
+> **Note** _Getting caught back up here. Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 16 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 476 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 140
+- [ ] No other changes in version 140
+
+</details> <!-- V140 !-->
 
 ---
 
