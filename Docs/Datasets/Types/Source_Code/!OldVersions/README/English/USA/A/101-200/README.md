@@ -51,7 +51,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2024, Thursday, January 25th, there are `492` source code datasets (containing support for 472/482 languages) with more coming soon. They include:
+As of 2024, Friday, January 26th, there are `494` source code datasets (containing support for 474/484 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -549,6 +549,8 @@ As of 2024, Thursday, January 25th, there are `492` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: LegalXML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LegalXML/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: LilyPond`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LilyPond/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Git-Attributes`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Attributes/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cassandra Query Language (CQL)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CassandraQueryLanguage-CQL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Virtual Reality Model Language (VRML)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VRML)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -599,7 +601,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2024, Thursday, January 25th) `492` / `??` (`???.??%`)
+Total languages (2024, Friday, January 26th) `494` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -611,7 +613,7 @@ Total languages (2024, Thursday, January 25th) `492` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `492` languages (`32.92%`) of the AI2001 linguistics toolchain, as of 2024, Thursday, January 25th. It is currently missing `334` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `494` languages (`32.79%`) of the AI2001 linguistics toolchain, as of 2024, Friday, January 26th. It is currently missing `332` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -736,7 +738,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Thursday, January 25th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Friday, January 26th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1849,6 +1851,8 @@ Rule-Interchange-Format-RIF ❌️
 LegalXML ❌️
 LilyPond ❌️
 Git-Attributes ❌️
+Cassandra Query Language (CQL) ❌️
+Virtual Reality Model Language (VRML) ❌️
 !-->
 
 <!--
@@ -1862,12 +1866,12 @@ Git-Attributes ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `140 (2024, Thursday, January 25th at 04:44 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,996`
-- **Word count:** `018,228`
-- **Character count (including spaces):** `140,164`
-- **Character count (excluding spaces):** `120,415`
-- **Size (in bytes):** `142,173`
+- **File version:** `141 (2024, Friday, January 26th at 05:04 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,027`
+- **Word count:** `018,410`
+- **Character count (including spaces):** `141,426`
+- **Character count (excluding spaces):** `121,503`
+- **Size (in bytes):** `143,443`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2967,7 +2971,7 @@ Git-Attributes ❌️
 - - [x] Added 16 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
-- - [x] Added 0 new entries, 161 out of 476 total
+- - [x] Added 0 new entries, 161 out of 492 total
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -2977,6 +2981,33 @@ Git-Attributes ❌️
 - [ ] No other changes in version 140
 
 </details> <!-- V140 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 141 (2024, Friday, January 26th at 05:04 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V141.md)
+
+> **Note** _Continuing for a second consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 16 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 494 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 141
+- [ ] No other changes in version 141
+
+</details> <!-- V141 !-->
 
 ---
 
