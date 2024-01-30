@@ -13,11 +13,13 @@
 
 Audio datasets are used for speech synthesis, music upscaling and enhancing, and more.
 
-As of 2023, Saturday, January 27th, there are `7/8` audio datasets, with many more planned in the coming months/years. They include:
+As of 2023, Monday, January 29th, there are `9/10` audio datasets, with many more planned in the coming months/years. They include:
 
 - [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
 - - [:octocat: `AI2001 Category: Audio ;SC: Instruments`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Electric Guitar`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Electric-Guitar/)
+- - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Piano`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Piano/)
+- - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Violin`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Violin/)
 - - [:octocat: `AI2001 Category: Audio ;SC: Music`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Music S: Ambient`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Ambient/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Music S: Vocals`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Music-S-Vocals/)
@@ -81,12 +83,12 @@ Some of the planned audio dataset sources include:
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `2 (2024, Saturday, January 27th at 05:48 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,160`
-- **Word count:** `00,746`
-- **Character count (with spaces):** `05,216`
-- **Character count (without spaces):** `04,517`
-- **Size (in bytes):** `05,221`
+- **File version:** `3 (2024, Monday, January 29th at 05:20 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,178`
+- **Word count:** `00,867`
+- **Character count (with spaces):** `06,036`
+- **Character count (without spaces):** `05,227`
+- **Size (in bytes):** `06,041`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -139,6 +141,22 @@ Some of the planned audio dataset sources include:
 - [ ] No other changes in version 2
 
 </details> <!-- V02 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 3 (2024, Monday, January 29th at 05:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The third release, now containing 2 new datasets, with a total of 10 repositories listed. Still a very small branch,_
+
+- [x] Added 2 new datasets
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
+
+</details> <!-- V03 !-->
 
 ---
 
