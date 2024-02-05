@@ -13,7 +13,7 @@
 
 Audio datasets are used for speech synthesis, music upscaling and enhancing, and more.
 
-As of 2023, Saturday, February 3rd, there are `19/20` audio datasets, with many more planned in the coming months/years. They include:
+As of 2023, Sunday, February 4th, there are `21/22` audio datasets, with many more planned in the coming months/years. They include:
 
 - [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
 - - [:octocat: `AI2001 Category: Audio ;SC: Instruments`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments/)
@@ -22,9 +22,11 @@ As of 2023, Saturday, February 3rd, there are `19/20` audio datasets, with many 
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Electric Guitar`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Electric-Guitar/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Flute`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Flute/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Guitar`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Guitar/)
+- - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Kazoo`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Kazoo/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Pan Flute`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Pan-Flute/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Piano`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Piano/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Slide Whistle`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Slide-whistle/)
+- - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Snare drum`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Snare-Drum/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Trombone`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Trombone/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Trumpet`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Trumpet/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Tuba`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Tuba/)
@@ -93,7 +95,7 @@ Some of the planned audio dataset sources include:
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `7 (2024, Saturday, February 3rd at 11:13 pm PST)`
+- **File version:** `8 (2024, Sunday, February 4th at 06:47 pm PST)`
 - **Line count (including blank lines and compiler line):** `00,252`
 - **Word count:** `001,141`
 - **Character count (with spaces):** `009,408`
@@ -229,6 +231,22 @@ Some of the planned audio dataset sources include:
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details> <!-- V07 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 8 (2024, Sunday, February 4th at 06:47 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The eighth release, adding 2 additional datasets._
+
+- [x] Added 2 new datasets
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details> <!-- V07 !-->
 
