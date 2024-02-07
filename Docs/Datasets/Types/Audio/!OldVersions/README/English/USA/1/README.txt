@@ -13,7 +13,7 @@
 
 Audio datasets are used for speech synthesis, music upscaling and enhancing, and more.
 
-As of 2023, Monday, February 5th, there are `23/24` audio datasets, with many more planned in the coming months/years. They include:
+As of 2023, Tuesday, February 6th, there are `25/26` audio datasets, with many more planned in the coming months/years. They include:
 
 - [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/)
 - - [:octocat: `AI2001 Category: Audio ;SC: Instruments`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments/)
@@ -24,9 +24,11 @@ As of 2023, Monday, February 5th, there are `23/24` audio datasets, with many mo
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Flute`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Flute/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Guitar`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Guitar/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Kazoo`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Kazoo/)
+- - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Oboe`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Oboe/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Pan Flute`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Pan-Flute/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Piano`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Piano/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Recorder`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Recorder/)
+- - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Saxophone`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Saxophone/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Slide Whistle`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Slide-whistle/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Snare drum`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Snare-Drum/)
 - - - [:octocat: `AI2001 Category: Audio ;SC: Instruments S: Trombone`](https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Trombone/)
@@ -97,12 +99,12 @@ Some of the planned audio dataset sources include:
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `9 (2024, Monday, February 5th at 07:06 pm PST)`
-- **Line count (including blank lines and compiler line):** `00,288`
-- **Word count:** `001,559`
-- **Character count (with spaces):** `010,929`
-- **Character count (without spaces):** `009,513`
-- **Size (in bytes):** `010,934`
+- **File version:** `10 (2024, Tuesday, February 6th at 07:10 pm PST)`
+- **Line count (including blank lines and compiler line):** `00,306`
+- **Word count:** `001,667`
+- **Character count (with spaces):** `011,695`
+- **Character count (without spaces):** `010,182`
+- **Size (in bytes):** `011,700`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -267,6 +269,22 @@ Some of the planned audio dataset sources include:
 - [ ] No other changes in version 9
 
 </details> <!-- V09 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 10 (2024, Tuesday, February 6th at 07:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The tenth release, adding 2 additional datasets._
+
+- [x] Added 2 new datasets
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
+
+</details> <!-- V10 !-->
 
 ---
 
