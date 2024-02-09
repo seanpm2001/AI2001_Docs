@@ -51,7 +51,7 @@
 
 Source Code datasets are used for various computer programming tasks.
 
-As of 2024, Friday, January 26th, there are `494` source code datasets (containing support for 474/484 languages) with more coming soon. They include:
+As of 2024, Thursday, February 8th, there are `496` source code datasets (containing support for 475/486 languages) with more coming soon. They include:
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this listing</u></b></p></summary>
 
@@ -551,6 +551,8 @@ As of 2024, Friday, January 26th, there are `494` source code datasets (containi
 - - [:octocat: `AI2001 Category: Source Code ;SC: Git-Attributes`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Attributes/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Cassandra Query Language (CQL)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CassandraQueryLanguage-CQL/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Virtual Reality Model Language (VRML)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VRML)
+- - [:octocat: `AI2001 Category: Source Code ;SC: PlainText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlainText/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GitAttributes`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GitAttributes/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -558,7 +560,7 @@ As of 2024, Friday, January 26th, there are `494` source code datasets (containi
 
 <details open><summary><p><b>Click/tap here to expand/collapse this subsection (disputed languages)</b></p></summary>
 
-**Disputed (10):**
+**Disputed (11):**
 
 ```diff
 --- Perl6 ==> (Perl/Raku)
@@ -571,6 +573,7 @@ As of 2024, Friday, January 26th, there are `494` source code datasets (containi
 --- AdBlock Filter List ==> (Plain Text / Config)
 --- Visual Basic 6.0 ==> (VBA/VBScript)
 --- EJSS ==> (EJS)
+--- GitAttributes ==> Git Attributes (I KNOW this is a duplicate, but it was too late for me to go back and fix it, as I don't have anything worth replacing it with. It will serve as a redirect in the future)
 ```
 
 </details> <!-- End of disputed languages subsection dropdown !-->
@@ -601,7 +604,7 @@ The current planned usage for these datasets is source code automation and assis
 
 I have started to document language families for programming languages today. It was inspired by the way linguistics are organized by families.
 
-Total languages (2024, Friday, January 26th) `494` / `??` (`???.??%`)
+Total languages (2024, Thursday, February 8th) `496` / `??` (`???.??%`)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language family tree</b></p></summary>
 
@@ -613,7 +616,7 @@ Total languages (2024, Friday, January 26th) `494` / `??` (`???.??%`)
 
 **Notes**
 
-> This listing includes `162` out of `494` languages (`32.79%`) of the AI2001 linguistics toolchain, as of 2024, Friday, January 26th. It is currently missing `332` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
+> This listing includes `162` out of `496` languages (`32.66%`) of the AI2001 linguistics toolchain, as of 2024, Thursday, February 8th. It is currently missing `334` languages. I will try to add more daily. It is a struggle, as there is no hard concept for programming language families, and my method is getting a bit recursive.
 
 <!-- When calculating these notes, the entries from today, along with the 1 blue checkmark, keeps throwing me off. !-->
 
@@ -738,7 +741,7 @@ Between 2023, Thursday, August 24th and 2023, Wednesday, September 13th, I took 
 
 As of 2023, Friday, September 15th, I am still not ready to resume this process.
 
-The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Friday, January 26th, I am still not ready yet. Progress has dropped by over 60% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
+The next day (2023, Saturday, September 16th) I am still not ready, as I am again struggling with my schedule, and I lacked the motivation as well. From 2023, Saturday, September 16th to 2024, Thursday, February 8th, I am still not ready yet. Progress has dropped by over 62% in this time, and it will take A LOT of work to get it back to where it was percentage-wise.
 
 </details>
 
@@ -1853,6 +1856,8 @@ LilyPond ❌️
 Git-Attributes ❌️
 Cassandra Query Language (CQL) ❌️
 Virtual Reality Model Language (VRML) ❌️
+PlainText ❌️
+GitAttributes ❌️
 !-->
 
 <!--
@@ -1866,12 +1871,12 @@ Virtual Reality Model Language (VRML) ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `141 (2024, Friday, January 26th at 05:04 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,027`
-- **Word count:** `018,410`
-- **Character count (including spaces):** `141,426`
-- **Character count (excluding spaces):** `121,503`
-- **Size (in bytes):** `143,443`
+- **File version:** `142 (2024, Thursday, February 8th at 06:56 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,061`
+- **Word count:** `018,640`
+- **Character count (including spaces):** `142,951`
+- **Character count (excluding spaces):** `122,803`
+- **Size (in bytes):** `144,976`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3010,6 +3015,35 @@ Virtual Reality Model Language (VRML) ❌️
 </details> <!-- V141 !-->
 
 ---
+
+<details><summary><p lang="en"><b>Version 142 (2024, Thursday, February 8th at 06:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V142.md)
+
+> **Note** _Coming back after a 12 day hiatus, as I switched priorities for this time (switching to audio datasets) Continuing for one consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 16 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 496 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 142
+- [ ] No other changes in version 142
+
+</details> <!-- V142 !-->
+
+---
+
+End of file history section.
 
 </details> <!-- End of file history !-->
 
