@@ -1,4 +1,8 @@
 
+<!-- TODO
+Entries from 2024, February 9th to 2025, June 13th may be missing
+!-->
+
 ***
 
 # [AI2001 Docs](#AI2001-Docs)
@@ -553,6 +557,31 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Virtual Reality Model Language (VRML)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VRML)
 - - [:octocat: `AI2001 Category: Source Code ;SC: PlainText`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PlainText/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: GitAttributes`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GitAttributes/)
+- - **BREAK POINT (Some entries between 2024, Februaury 8th, and 2025, June 13th may be missing**
+- - [:octocat: `AI2001 Category: Source Code ;SC: Volt`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Volt
+- - [:octocat: `AI2001 Category: Source Code ;SC: EdgeQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EdgeQL
+- - [:octocat: `AI2001 Category: Source Code ;SC: Edge`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Edge
+- - [:octocat: `AI2001 Category: Source Code ;SC: Talon`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Talon
+- - [:octocat: `AI2001 Category: Source Code ;SC: Faust`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Faust
+- - [:octocat: `AI2001 Category: Source Code ;SC: Fennel`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fennel
+- - [:octocat: `AI2001 Category: Source Code ;SC: Imba`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Imba
+- - [:octocat: `AI2001 Category: Source Code ;SC: LigoLANG`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LigoLANG
+- - [:octocat: `AI2001 Category: Source Code ;SC: Pan`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pan
+- - [:octocat: `AI2001 Category: Source Code ;SC: Roc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Roc
+- - [:octocat: `AI2001 Category: Source Code ;SC: Pep8`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pep8
+- - [:octocat: `AI2001 Category: Source Code ;SC: Rez`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rez
+- - [:octocat: `AI2001 Category: Source Code ;SC: Game Maker Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Game-Maker-Language
+- - [:octocat: `AI2001 Category: Source Code ;SC: Rush`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rush
+- - [:octocat: `AI2001 Category: Source Code ;SC: C3`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C3
+- - [:octocat: `AI2001 Category: Source Code ;SC: RBS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RBS
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jolie`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jolie
+- - [:octocat: `AI2001 Category: Source Code ;SC: IGOR Pro`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IGOR-Pro
+- - [:octocat: `AI2001 Category: Source Code ;SC: HOCON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HOCON
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ioke`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ioke
+- - [:octocat: `AI2001 Category: Source Code ;SC: JCL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JCL
+- - [:octocat: `AI2001 Category: Source Code ;SC: Janet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Janet
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jison`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jison Lex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison-Lex
 
 </details> <!-- End of language list dropdown !-->
 
@@ -1858,6 +1887,30 @@ Cassandra Query Language (CQL) ❌️
 Virtual Reality Model Language (VRML) ❌️
 PlainText ❌️
 GitAttributes ❌️
+Volt ❌️
+EdgeQL ❌️
+Edge ❌️
+Talon ❌️
+Faust ❌️
+Fennel ❌️
+Imba ❌️
+LigoLANG ❌️
+Pan ❌️
+Roc ❌️
+Pep8 ❌️
+Rez ❌️
+Game-Maker-Language ❌️
+Rush ❌️
+C3 ❌️
+RBS ❌️
+Jolie ❌️
+IGOR-Pro ❌️
+HOCON ❌️
+Ioke ❌️
+JCL ❌️
+Janet ❌️
+Jison ❌️
+Jison-Lex ❌️
 !-->
 
 <!--
@@ -1871,12 +1924,12 @@ GitAttributes ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `142 (2024, Thursday, February 8th at 06:56 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,061`
-- **Word count:** `018,640`
-- **Character count (including spaces):** `142,951`
-- **Character count (excluding spaces):** `122,803`
-- **Size (in bytes):** `144,976`
+- **File version:** `143 (2025, Tuesday, June 17th at 06:57 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,141`
+- **Word count:** `019,281`
+- **Character count (including spaces):** `147,427`
+- **Character count (excluding spaces):** `126,803`
+- **Size (in bytes):** `149,548`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3040,6 +3093,33 @@ GitAttributes ❌️
 - [ ] No other changes in version 142
 
 </details> <!-- V142 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 143 (2025, Tuesday, June 17th at 06:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V143.md)
+
+> **Note** _Coming back after a 1+ year hiatus, as I switched to other projects for a while, and didn't udpate this README until day 4 of resuming. Entries from 2024, February 9th to 2025, June 13th may be missing. Continuing for one consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 24 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 520 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 143
+- [ ] No other changes in version 143
+
+</details> <!-- V143 !-->
 
 ---
 
