@@ -1,6 +1,8 @@
 
 <!-- TODO
 Entries from 2024, February 9th to 2025, June 13th may be missing
+
+DUPLICATE AI2001 repository: _JANET
 !-->
 
 ***
@@ -599,6 +601,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: vCard`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-vCard/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: AutoLISP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-AutoLISP/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: OpenLISP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenLISP/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BASIC Plus`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BASIC-Plus/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: B4X`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-B4X/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BlueSpec`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlueSpec/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BlueSpec BH`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BlueSpec-BH/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BrowsersList`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BrowsersList/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Valve Data Format`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Valve-Data-Format/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Typst`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Typst/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Toit`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Toit/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -1944,6 +1954,14 @@ Turtle ❌️
 vCard ❌️
 AutoLISP ❌️
 OpenLISP ❌️
+BASIC-Plus ❌️
+B4X ❌️
+BlueSpec ❌️
+BlueSpec-BH ❌️
+BrowsersList ❌️
+Valve-Data-Format ❌️
+Typst ❌️
+Toit ❌️
 !-->
 
 <!--
@@ -1957,12 +1975,12 @@ OpenLISP ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `146 (2025, Thursday, June 19th at 06:43 pm PST)`
-- **Line count (including blank lines and compiler line):** `6,260`
-- **Word count:** `036,015`
-- **Character count (including spaces):** `270,235`
-- **Character count (excluding spaces):** `234,905`
-- **Size (in bytes):** `272,472`
+- **File version:** `147 (2025, Friday, June 20th at 07:21 pm PST)`
+- **Line count (including blank lines and compiler line):** `6,305`
+- **Word count:** `036,329`
+- **Character count (including spaces):** `272,452`
+- **Character count (excluding spaces):** `236,864`
+- **Size (in bytes):** `274,721`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3207,6 +3225,33 @@ OpenLISP ❌️
 - [ ] No other changes in version 146
 
 </details> <!-- V146 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 147 (2025, Friday, June 20th at xx:xx pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V147.md)
+
+> **Note** _Continuing for a fourth consecutive day. A major conflict occurred on 2025, Thursday, June 19th, between version 145, and 2 other version 145 files. The conflict is still unresolved_
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 147
+- [ ] No other changes in version 147
+
+</details> <!-- V147 !-->
 
 ---
 
