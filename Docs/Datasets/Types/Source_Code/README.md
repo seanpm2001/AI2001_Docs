@@ -609,16 +609,26 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Valve Data Format`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Valve-Data-Format/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Typst`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Typst/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Toit`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Toit/)
-- - [:octocat: `AI2001 Category: Source Code ;SC: Tea`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tea
-- - [:octocat: `AI2001 Category: Source Code ;SC: Templ`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Templ
-- - [:octocat: `AI2001 Category: Source Code ;SC: Darcs Patch`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Darcs-Patch
-- - [:octocat: `AI2001 Category: Source Code ;SC: Velocity Template Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Velocity-Template-Language
-- - [:octocat: `AI2001 Category: Source Code ;SC: FIRRTL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FIRRTL
-- - [:octocat: `AI2001 Category: Source Code ;SC: CIL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CIL
-- - [:octocat: `AI2001 Category: Source Code ;SC: Circom`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Circom
-- - [:octocat: `AI2001 Category: Source Code ;SC: Cirru`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cirru
-- - [:octocat: `AI2001 Category: Source Code ;SC: Clarion`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clarion
-- - [:octocat: `AI2001 Category: Source Code ;SC: Charity`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Charity
+- - [:octocat: `AI2001 Category: Source Code ;SC: Tea`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tea/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Templ`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Templ/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Darcs Patch`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Darcs-Patch/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Velocity Template Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Velocity-Template-Language/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: FIRRTL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FIRRTL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CIL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CIL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Circom`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Circom/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cirru`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cirru/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Clarion`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clarion/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Charity`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Charity/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Clarity`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Clarity/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: EQ`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EQ/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: eC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-eC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: EcMarkup`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EcMarkup/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Dune`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dune/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: dircolors`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-dircolors/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cycript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cycript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cylc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cylc/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Crontab`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Crontab/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: COLLDADA`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COLLADA/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -1995,12 +2005,12 @@ Charity ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `147.0 (2025, Saturday, June 21st at 06:51 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,320`
-- **Word count:** `020,533`
-- **Character count (including spaces):** `156,268`
-- **Character count (excluding spaces):** `134,617`
-- **Size (in bytes):** `158,525`
+- **File version:** `148 (2025, Sunday, June 22nd at 07:39 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,358`
+- **Word count:** `020,833`
+- **Character count (including spaces):** `158,434`
+- **Character count (excluding spaces):** `136,554`
+- **Size (in bytes):** `160,691`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3286,7 +3296,7 @@ Charity ❌️
 > Changes:
 
 - [x] Updated the `Source Code types` section
-- - [x] Added 8 new entries
+- - [x] Added 10 new entries
 - [x] Updated the programming language family tree
 - - [x] Updated notes
 - - [x] Added 0 new entries, 161 out of 528 total
@@ -3299,6 +3309,34 @@ Charity ❌️
 - [ ] No other changes in version 147
 
 </details> <!-- V147 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 148 (2025, Sunday, June 22nd at 07:39 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V148.md)
+
+> **Note** _Continuing for a sixth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 10 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 148
+- [ ] No other changes in version 148
+
+</details> <!-- V148 !-->
+
 
 ---
 
