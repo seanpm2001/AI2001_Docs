@@ -628,7 +628,15 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Cycript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cycript/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Cylc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cylc/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Crontab`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Crontab/)
-- - [:octocat: `AI2001 Category: Source Code ;SC: COLLDADA`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COLLADA/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: COLLADA`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-COLLADA/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Scaml`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scaml/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Noir`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Noir/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Caddyfile`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Caddyfile/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: FIGlet Font`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-FIGlet-Font/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: iCalendar`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-iCalendar/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MooCode`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MooCode/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Riot`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Riot/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GAMS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GAMS/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -1992,6 +2000,14 @@ Circom ❌️
 Cirru ❌️
 Clarion ❌️
 Charity ❌️
+Scaml ❌️
+Noir ❌️
+Caddyfile ❌️
+FIGlet-Font ❌️
+iCalendar ❌️
+MooCode ❌️
+Riot ❌️
+GAMS ❌️
 !-->
 
 <!--
@@ -2005,12 +2021,12 @@ Charity ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `148 (2025, Sunday, June 22nd at 07:39 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,358`
-- **Word count:** `020,833`
-- **Character count (including spaces):** `158,434`
-- **Character count (excluding spaces):** `136,554`
-- **Size (in bytes):** `160,691`
+- **File version:** `149 (2025, Monday, June 23rd at 08:53 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,400`
+- **Word count:** `021,113`
+- **Character count (including spaces):** `160,442`
+- **Character count (excluding spaces):** `138,334`
+- **Size (in bytes):** `162,731`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3337,6 +3353,32 @@ Charity ❌️
 
 </details> <!-- V148 !-->
 
+---
+
+<details><summary><p lang="en"><b>Version 149 (2025, Monday, June 23rd at 08:53 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V149.md)
+
+> **Note** _Continuing for a seventh consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 149
+- [ ] No other changes in version 149
+
+</details> <!-- V149 !-->
 
 ---
 
