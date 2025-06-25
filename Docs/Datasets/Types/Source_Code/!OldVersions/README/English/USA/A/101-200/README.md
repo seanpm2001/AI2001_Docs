@@ -637,6 +637,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: MooCode`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MooCode/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Riot`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Riot/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: GAMS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GAMS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Futhark`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Futhark/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RON/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gemini`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gemini/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Genshi`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genshi/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: edn`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-edn/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MiniD`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniD/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NEON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NEON/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Nasal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nasal/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2008,6 +2016,14 @@ iCalendar ❌️
 MooCode ❌️
 Riot ❌️
 GAMS ❌️
+Futhark ❌️
+RON ❌️
+Gemini ❌️
+Genshi ❌️
+edn ❌️
+MiniD ❌️
+NEON ❌️
+Nasal ❌️
 !-->
 
 <!--
@@ -2021,12 +2037,12 @@ GAMS ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `149 (2025, Monday, June 23rd at 08:53 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,400`
-- **Word count:** `021,113`
-- **Character count (including spaces):** `160,442`
-- **Character count (excluding spaces):** `138,334`
-- **Size (in bytes):** `162,731`
+- **File version:** `150 (2025, Tuesday, June 24th at 07:40 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,443`
+- **Word count:** `021,390`
+- **Character count (including spaces):** `162,412`
+- **Character count (excluding spaces):** `140,076`
+- **Size (in bytes):** `164,733`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3379,6 +3395,33 @@ GAMS ❌️
 - [ ] No other changes in version 149
 
 </details> <!-- V149 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 150 (2025, Tuesday, June 24th at 07:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V150.md)
+
+> **Note** _Continuing for an eighth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 150
+- [ ] No other changes in version 150
+
+</details> <!-- V150 !-->
 
 ---
 
