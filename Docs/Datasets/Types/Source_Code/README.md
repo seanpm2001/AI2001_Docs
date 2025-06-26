@@ -645,6 +645,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: MiniD`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniD/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: NEON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NEON/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Nasal`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nasal/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Myghty`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Myghty/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MUF`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MUF/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: mupad`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-mupad/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NanoRC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NanoRC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NetLinx`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NetLinx/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Quantum Computation Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Quantum-Computation-Language/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Email`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Email/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2024,6 +2032,14 @@ edn ❌️
 MiniD ❌️
 NEON ❌️
 Nasal ❌️
+Myghty ❌️
+MUF ❌️
+mupad ❌️
+NanoRC ❌️
+NetLinx ❌️
+NL ❌️
+Quantum-Computation-Language ❌️
+Email ❌️
 !-->
 
 <!--
@@ -2037,12 +2053,12 @@ Nasal ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `150 (2025, Tuesday, June 24th at 07:40 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,443`
-- **Word count:** `021,390`
-- **Character count (including spaces):** `162,412`
-- **Character count (excluding spaces):** `140,076`
-- **Size (in bytes):** `164,733`
+- **File version:** `151 (2025, Wednesday, June 25th at 08:53 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,486`
+- **Word count:** `021,673`
+- **Character count (including spaces):** `164,452`
+- **Character count (excluding spaces):** `141,886`
+- **Size (in bytes):** `166,805`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3422,6 +3438,33 @@ Nasal ❌️
 - [ ] No other changes in version 150
 
 </details> <!-- V150 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 151 (2025, Wednesday, June 25th at 08:53 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V151.md)
+
+> **Note** _Continuing for a ninth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 151
+- [ ] No other changes in version 151
+
+</details> <!-- V151 !-->
 
 ---
 
