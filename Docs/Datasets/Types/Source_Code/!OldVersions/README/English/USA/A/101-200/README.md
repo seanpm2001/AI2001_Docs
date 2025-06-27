@@ -654,6 +654,15 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Quantum Computation Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Quantum-Computation-Language/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Email`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Email/)
 
+- - [:octocat: `AI2001 Category: Source Code ;SC: XC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Hollywood`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hollywood/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: RPM Spec`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-RPM-Spec/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Filebench WML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Filebench-WML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MoonBit`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MoonBit/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: JSONLD`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSONLD/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Muse`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Muse/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MiniYAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniYAML/)
+
 </details> <!-- End of language list dropdown !-->
 
 ---
@@ -2040,6 +2049,14 @@ NetLinx ❌️
 NL ❌️
 Quantum-Computation-Language ❌️
 Email ❌️
+XC ❌️
+Hollywood ❌️
+RPM-Spec ❌️
+Filebench-WML ❌️
+MoonBit ❌️
+JSONLD ❌️
+Muse ❌️
+MiniYAML ❌️
 !-->
 
 <!--
@@ -2053,12 +2070,12 @@ Email ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `151 (2025, Wednesday, June 25th at 08:53 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,486`
-- **Word count:** `021,673`
-- **Character count (including spaces):** `164,452`
-- **Character count (excluding spaces):** `141,886`
-- **Size (in bytes):** `166,805`
+- **File version:** `152 (2025, Thursday, June 26th at 06:48 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,530`
+- **Word count:** `021,956`
+- **Character count (including spaces):** `166,474`
+- **Character count (excluding spaces):** `143,677`
+- **Size (in bytes):** `168,859`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3465,6 +3482,33 @@ Email ❌️
 - [ ] No other changes in version 151
 
 </details> <!-- V151 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 152 (2025, Thursday, June 26th at 06:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V152.md)
+
+> **Note** _Continuing for a tenth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 152
+- [ ] No other changes in version 152
+
+</details> <!-- V152 !-->
 
 ---
 
