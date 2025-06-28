@@ -662,6 +662,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: JSONLD`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JSONLD/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Muse`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Muse/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: MiniYAML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniYAML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NMODL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NMODL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NWScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NWScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Praat`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Praat/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Prisma`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Prisma/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Promela`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Promela/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Pyret`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pyret/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Shen`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Shen/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ATS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ATS/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2057,6 +2065,14 @@ MoonBit ❌️
 JSONLD ❌️
 Muse ❌️
 MiniYAML ❌️
+NMODL ❌️
+NWScript ❌️
+Praat ❌️
+Prisma ❌️
+Promela ❌️
+Pyret ❌️
+Shen ❌️
+ATS ❌️
 !-->
 
 <!--
@@ -2070,12 +2086,12 @@ MiniYAML ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `152 (2025, Thursday, June 26th at 06:48 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,530`
-- **Word count:** `021,956`
-- **Character count (including spaces):** `166,474`
-- **Character count (excluding spaces):** `143,677`
-- **Size (in bytes):** `168,859`
+- **File version:** `153 (2025, Friday, June 27th at 05:59 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,573`
+- **Word count:** `022,233`
+- **Character count (including spaces):** `168,454`
+- **Character count (excluding spaces):** `145,429`
+- **Size (in bytes):** `170,871`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3509,6 +3525,33 @@ MiniYAML ❌️
 - [ ] No other changes in version 152
 
 </details> <!-- V152 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 153 (2025, Friday, June 27th at 05:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V153.md)
+
+> **Note** _Continuing for an eleventh consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 153
+- [ ] No other changes in version 153
+
+</details> <!-- V153 !-->
 
 ---
 
