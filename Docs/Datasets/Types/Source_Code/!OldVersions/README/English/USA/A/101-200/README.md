@@ -670,6 +670,16 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Pyret`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pyret/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Shen`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Shen/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: ATS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ATS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CameLIGO`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CameLIGO/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jule`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jule/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Glimmer JS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Glimmer-JS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Glimmer TS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Glimmer-TS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Glyph`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Glyph/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: 2-Dimensional Array`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-2-Dimensional-Array/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: 4D`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-4D/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Adobe Font Metrics`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Adobe-Font-Metrics/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Alpine ABuild`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Alpine-ABuild/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Altium Designer`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2073,6 +2083,16 @@ Promela ❌️
 Pyret ❌️
 Shen ❌️
 ATS ❌️
+CameLIGO ❌️
+Jule ❌️
+Glimmer-JS ❌️
+Glimmer-TS ❌️
+Glyph ❌️
+2-Dimensional-Array ❌️
+4D ❌️
+Adobe-Font-Metrics ❌️
+Alpine-ABuild ❌️
+Altium-Designer ❌️
 !-->
 
 <!--
@@ -2086,12 +2106,12 @@ ATS ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `153 (2025, Friday, June 27th at 05:59 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,573`
-- **Word count:** `022,233`
-- **Character count (including spaces):** `168,454`
-- **Character count (excluding spaces):** `145,429`
-- **Size (in bytes):** `170,871`
+- **File version:** `154 (2025, Saturday, June 28th at 05:55 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,620`
+- **Word count:** `022,570`
+- **Character count (including spaces):** `170,863`
+- **Character count (excluding spaces):** `147,581`
+- **Size (in bytes):** `173,320`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3552,6 +3572,33 @@ ATS ❌️
 - [ ] No other changes in version 153
 
 </details> <!-- V153 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 154 (2025, Saturday, June 28th at 05:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V154.md)
+
+> **Note** _Continuing for a twelfth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 154
+- [ ] No other changes in version 154
+
+</details> <!-- V154 !-->
 
 ---
 
