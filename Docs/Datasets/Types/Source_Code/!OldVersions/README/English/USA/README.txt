@@ -680,6 +680,16 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Adobe Font Metrics`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Adobe-Font-Metrics/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Alpine ABuild`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Alpine-ABuild/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Altium Designer`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ant Build System`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ant-Build-System/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Apollo Guidance Computer`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Apollo-Guidance-Computer/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Asymptote`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Asymptote/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cabal Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cabal-Config/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: C-ObjDump`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C-ObjDump/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: C2Hs-Haskell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-C2Hs-Haskell/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Cloud Firestore Security Rules`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cloud-Firestore-Security-Rules/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CoNLL-U`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CoNLL-U/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: cURL Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-cURL-Config/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ecere Projects`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ecere-Projects/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2093,6 +2103,16 @@ Glyph ❌️
 Adobe-Font-Metrics ❌️
 Alpine-ABuild ❌️
 Altium-Designer ❌️
+Ant-Build-System ❌️
+Apollo-Guidance-Computer ❌️
+Asymptote ❌️
+Cabal-Config ❌️
+C-ObjDump ❌️
+C2Hs-Haskell ❌️
+Cloud-Firestore-Security-Rules ❌️
+CoNLL-U ❌️
+cURL-Config ❌️
+Ecere-Projects ❌️
 !-->
 
 <!--
@@ -2106,12 +2126,12 @@ Altium-Designer ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `154 (2025, Saturday, June 28th at 05:55 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,620`
-- **Word count:** `022,570`
-- **Character count (including spaces):** `170,863`
-- **Character count (excluding spaces):** `147,581`
-- **Size (in bytes):** `173,320`
+- **File version:** `155 (2025, Sunday, June 29th at 06:15 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,667`
+- **Word count:** `022,922`
+- **Character count (including spaces):** `173,389`
+- **Character count (excluding spaces):** `149,847`
+- **Size (in bytes):** `175,886`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3599,6 +3619,33 @@ Altium-Designer ❌️
 - [ ] No other changes in version 154
 
 </details> <!-- V154 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 155 (2025, Sunday, June 29th at 06:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V155.md)
+
+> **Note** _Continuing for a thirteenth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 155
+- [ ] No other changes in version 155
+
+</details> <!-- V155 !-->
 
 ---
 
