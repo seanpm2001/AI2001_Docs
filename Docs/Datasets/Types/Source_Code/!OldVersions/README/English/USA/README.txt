@@ -698,6 +698,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Cairo Zero`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cairo-Zero/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Amiga E`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Amiga-E/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: XCOmpose`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XCompose/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: TextGrids`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TextGrids/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: TexInfo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TexInfo/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: EO`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-EO/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: STON`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-STON/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Snakemake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Snakemake/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Soong`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Soong/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SELinux Policy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SELinux-Policy/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Spline Font Database`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Spline-Font-Database/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2129,6 +2137,14 @@ Avro-IDL ❌️
 Cairo-Zero ❌️
 Amiga-E ❌️
 XCompose ❌️
+TextGrids ❌️
+TexInfo ❌️
+EO ❌️
+STON ❌️
+Snakemake ❌️
+Soong ❌️
+SELinux-Policy ❌️
+Spline-Font-Database ❌️
 !-->
 
 <!--
@@ -2142,12 +2158,12 @@ XCompose ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `156 (2025, Monday, June 30th at 07:43 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,710`
-- **Word count:** `023,235`
-- **Character count (including spaces):** `175,579`
-- **Character count (excluding spaces):** `151,798`
-- **Size (in bytes):** `178,108`
+- **File version:** `157 (2025, Tuesday, July 1st at 06:45 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,753`
+- **Word count:** `023,521`
+- **Character count (including spaces):** `177,642`
+- **Character count (excluding spaces):** `153,630`
+- **Size (in bytes):** `180,203`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3689,6 +3705,33 @@ XCompose ❌️
 - [ ] No other changes in version 156
 
 </details> <!-- V156 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 157 (2025, Tuesday, July 1st at 06:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V157.md)
+
+> **Note** _Continuing for a fifteenth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 157
+- [ ] No other changes in version 157
+
+</details> <!-- V157 !-->
 
 ---
 
