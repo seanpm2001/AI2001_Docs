@@ -706,6 +706,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Soong`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Soong/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: SELinux Policy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SELinux-Policy/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Spline Font Database`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Spline-Font-Database/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Scenic`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scenic/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Tact`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tact/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Nial`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nial/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ivy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ivy/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SaC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SaC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Dex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dex/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: DotEnv`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DotEnv/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Mask`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mask/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2145,6 +2153,14 @@ Snakemake ❌️
 Soong ❌️
 SELinux-Policy ❌️
 Spline-Font-Database ❌️
+Scenic ❌️
+Tact ❌️
+Nial ❌️
+Ivy ❌️
+SaC ❌️
+Dex ❌️
+DotEnv ❌️
+Mask ❌️
 !-->
 
 <!--
@@ -2158,12 +2174,12 @@ Spline-Font-Database ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `157 (2025, Tuesday, July 1st at 06:45 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,753`
-- **Word count:** `023,521`
-- **Character count (including spaces):** `177,642`
-- **Character count (excluding spaces):** `153,630`
-- **Size (in bytes):** `180,203`
+- **File version:** `158 (2025, Wednesday, July 2nd at 07:40 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,796`
+- **Word count:** `023,798`
+- **Character count (including spaces):** `179,598`
+- **Character count (excluding spaces):** `155,358`
+- **Size (in bytes):** `182,191`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3732,6 +3748,33 @@ Spline-Font-Database ❌️
 - [ ] No other changes in version 157
 
 </details> <!-- V157 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 158 (2025, Wednesday, July 2nd at 07:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V158.md)
+
+> **Note** _Continuing for a sixteenth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 158
+- [ ] No other changes in version 158
+
+</details> <!-- V158 !-->
 
 ---
 
