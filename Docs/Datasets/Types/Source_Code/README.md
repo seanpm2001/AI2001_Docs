@@ -2,7 +2,7 @@
 <!-- TODO
 Entries from 2024, February 9th to 2025, June 13th may be missing
 
-DUPLICATE AI2001 repository: _JANET
+DUPLICATE AI2001 repository: _JANET (archived, but needs to be listed and delisted here)
 !-->
 
 ***
@@ -714,6 +714,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Dex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Dex/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: DotEnv`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-DotEnv/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Mask`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mask/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NumPy`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NumPy/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Options List`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Options-list/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Parrot Assembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Parrot-Assembly/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Parrot Internal Representation`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Parrot-Internal-Representation/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: X10`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-X10/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: TSPLIB Data`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TSPLIB-data/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MiniZinc`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniZinc/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: OverpassQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OverpassQL/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2161,6 +2169,14 @@ SaC ❌️
 Dex ❌️
 DotEnv ❌️
 Mask ❌️
+NumPy ❌️
+Options-list ❌️
+Parrot-Assembly ❌️
+Parrot-Internal-Representation ❌️
+X10 ❌️
+TSPLIB-data ❌️
+MiniZinc ❌️
+OverpassQL ❌️
 !-->
 
 <!--
@@ -2174,12 +2190,12 @@ Mask ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `158 (2025, Wednesday, July 2nd at 07:40 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,796`
-- **Word count:** `023,798`
-- **Character count (including spaces):** `179,598`
-- **Character count (excluding spaces):** `155,358`
-- **Size (in bytes):** `182,191`
+- **File version:** `159 (2025, Thursday, July 3rd at 07:22 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,839`
+- **Word count:** `024,099`
+- **Character count (including spaces):** `181,788`
+- **Character count (excluding spaces):** `157,306`
+- **Size (in bytes):** `184,413`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3775,6 +3791,33 @@ Mask ❌️
 - [ ] No other changes in version 158
 
 </details> <!-- V158 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 159 (2025, Thursday, July 3rd at 07:22 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V159.md)
+
+> **Note** _Continuing for a seventeenth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 159
+- [ ] No other changes in version 159
+
+</details> <!-- V159 !-->
 
 ---
 
