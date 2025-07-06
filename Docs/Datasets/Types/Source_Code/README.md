@@ -730,6 +730,16 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Pic`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Pic/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: MiniZinc Data`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MiniZinc-Data/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: XMake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-XMake/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Hare`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Hare/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ISPC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ISPC/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jai`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jai/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Portugol`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Portugol/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Public Key`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Public-Key/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ignore List`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ignore-List/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gemfile.lock`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gemfile.lock/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CPP-ObjDump`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cpp-ObjDump/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: World of Warcraft Addon Data`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-World-of-Warcraft-Addon-Data/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Move`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Move/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2192,7 +2202,17 @@ Tcsh ❌️
 Pickle ❌️
 Pic ❌️
 MiniZinc-Data ❌️
-XMake
+XMake ❌️
+Hare ❌️
+ISPC ❌️
+Jai ❌️
+Portugol ❌️
+Public-Key ❌️
+Ignore-List ❌️
+Gemfile.lock ❌️
+Cpp-ObjDump ❌️
+World-of-Warcraft-Addon-Data ❌️
+Move
 !-->
 
 <!--
@@ -2206,12 +2226,12 @@ XMake
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `160 (2025, Friday, July 4th at 07:35 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,882`
-- **Word count:** `024,385`
-- **Character count (including spaces):** `183,811`
-- **Character count (excluding spaces):** `159,099`
-- **Size (in bytes):** `186,464`
+- **File version:** `161 (2025, Saturday, July 5th at 06:27 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,929`
+- **Word count:** `024,722`
+- **Character count (including spaces):** `186,195`
+- **Character count (excluding spaces):** `161,227`
+- **Size (in bytes):** `188,888`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3861,6 +3881,33 @@ XMake
 - [ ] No other changes in version 160
 
 </details> <!-- V160 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 161 (2025, Saturday, July 5th at 06:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V161.md)
+
+> **Note** _Continuing for a nineteenth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 161
+- [ ] No other changes in version 161
+
+</details> <!-- V161 !-->
 
 ---
 
