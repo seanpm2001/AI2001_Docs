@@ -739,7 +739,17 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Gemfile.lock`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gemfile.lock/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: CPP-ObjDump`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cpp-ObjDump/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: World of Warcraft Addon Data`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-World-of-Warcraft-Addon-Data/)
-- - [:octocat: `AI2001 Category: Source Code ;SC: Move`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Move/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Move-1`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Move-1/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Quake`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Quake/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Slang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Slang/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Rouge`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rouge/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Vim Help File`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vim-Help-File/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Win32 Message File`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Win32-Message-File/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: WGet Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-WGet-Config/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Survex Data`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Survex-Data/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ShellSession`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ShellSession/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ShellCheck Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ShellCheck-Config/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Witcher Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Witcher-Script/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2212,7 +2222,17 @@ Ignore-List ❌️
 Gemfile.lock ❌️
 Cpp-ObjDump ❌️
 World-of-Warcraft-Addon-Data ❌️
-Move
+Move-1 ❌️
+Quake ❌️
+Slang ❌️
+Rouge ❌️
+Vim-Help-File ❌️
+Win32-Message-File ❌️
+WGet-Config ❌️
+Survex-Data ❌️
+ShellSession ❌️
+ShellCheck-Config ❌️
+Witcher-Script ❌️
 !-->
 
 <!--
@@ -2226,12 +2246,12 @@ Move
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `161 (2025, Saturday, July 5th at 06:27 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,929`
-- **Word count:** `024,722`
-- **Character count (including spaces):** `186,195`
-- **Character count (excluding spaces):** `161,227`
-- **Size (in bytes):** `188,888`
+- **File version:** `162 (2025, Sunday, July 6th at 06:57 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,976`
+- **Word count:** `025,062`
+- **Character count (including spaces):** `188,629`
+- **Character count (excluding spaces):** `163,402`
+- **Size (in bytes):** `191,366`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3908,6 +3928,33 @@ Move
 - [ ] No other changes in version 161
 
 </details> <!-- V161 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 162 (2025, Sunday, July 6th at 06:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V162.md)
+
+> **Note** _Continuing for a twentieth consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 162
+- [ ] No other changes in version 162
+
+</details> <!-- V162 !-->
 
 ---
 
