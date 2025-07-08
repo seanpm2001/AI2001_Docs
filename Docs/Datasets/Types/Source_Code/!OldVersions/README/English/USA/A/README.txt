@@ -750,6 +750,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: ShellSession`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ShellSession/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: ShellCheck Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ShellCheck-Config/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Witcher Script`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Witcher-Script/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MFM MissKey`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MFM-MissKey/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: KDL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-KDL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: NPM Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-NPM-Config/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: X-BitMap`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-X-BitMap/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: QuickBASIC`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-QuickBasic/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Redirect Rules`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Redirect-Rules/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LTSpice Symbol`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LTspice-Symbol/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Formatted`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Formatted/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2233,6 +2241,14 @@ Survex-Data ❌️
 ShellSession ❌️
 ShellCheck-Config ❌️
 Witcher-Script ❌️
+MFM-MissKey ❌️
+KDL ❌️
+NPM-Config ❌️
+X-BitMap ❌️
+QuickBasic ❌️
+Redirect-Rules ❌️
+LTspice-Symbol ❌️
+Formatted ❌️
 !-->
 
 <!--
@@ -2246,12 +2262,12 @@ Witcher-Script ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `162 (2025, Sunday, July 6th at 06:57 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,976`
-- **Word count:** `025,062`
-- **Character count (including spaces):** `188,629`
-- **Character count (excluding spaces):** `163,402`
-- **Size (in bytes):** `191,366`
+- **File version:** `163 (2025, Monday, July 7th at 07:06 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,019`
+- **Word count:** `025,355`
+- **Character count (including spaces):** `190,721`
+- **Character count (excluding spaces):** `165,262`
+- **Size (in bytes):** `193,490`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3955,6 +3971,33 @@ Witcher-Script ❌️
 - [ ] No other changes in version 162
 
 </details> <!-- V162 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 163 (2025, Monday, July 7th at 07:06 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V163.md)
+
+> **Note** _Continuing for a twenty-first consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 8 new entries
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 163
+- [ ] No other changes in version 163
+
+</details> <!-- V163 !-->
 
 ---
 
