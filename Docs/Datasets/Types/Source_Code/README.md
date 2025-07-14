@@ -759,6 +759,16 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: LTSpice Symbol`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LTspice-Symbol/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Formatted`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Formatted/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: TextMate Properties`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TextMate-Properties/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Catrobat`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Catrobat/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: CODEOWNERS`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CODEOWNERS/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Frege`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Frege/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Grace`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Grace/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Sieve`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sieve/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Ink`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ink/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: LoomScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LoomScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ObjectScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ObjectScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Mint`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mint/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Nit`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nit/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2251,6 +2261,16 @@ Redirect-Rules ❌️
 LTspice-Symbol ❌️
 Formatted ❌️
 TextMate-Properties ❌️
+Catrobat ❌️
+CODEOWNERS ❌️
+Frege ❌️
+Grace ❌️
+Sieve ❌️
+Ink ❌️
+LoomScript ❌️
+ObjectScript ❌️
+Mint ❌️
+Nit ❌️
 !-->
 
 <!--
@@ -2264,12 +2284,12 @@ TextMate-Properties ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `164 (2025, Tuesday, July 8th at 07:32 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,048`
-- **Word count:** `025,510`
-- **Character count (including spaces):** `191,787`
-- **Character count (excluding spaces):** `166,176`
-- **Size (in bytes):** `194,560`
+- **File version:** `165 (2025, Sunday, July 13th at 07:26 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,095`
+- **Word count:** `025,822`
+- **Character count (including spaces):** `194,065`
+- **Character count (excluding spaces):** `168,205`
+- **Size (in bytes):** `196,878`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4027,6 +4047,33 @@ TextMate-Properties ❌️
 - [ ] No other changes in version 164
 
 </details> <!-- V164 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 165 (2025, Sunday, July 13th at 07:26 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V165.md)
+
+> **Note** _Continuing for 1 consecutive day._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 165
+- [ ] No other changes in version 165
+
+</details> <!-- V165 !-->
 
 ---
 
