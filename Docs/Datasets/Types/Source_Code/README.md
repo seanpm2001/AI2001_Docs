@@ -769,6 +769,8 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: ObjectScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ObjectScript/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Mint`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Mint/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Nit`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nit/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Terraform Template`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Learn-Terraform-Template/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SSH Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2271,6 +2273,8 @@ LoomScript ❌️
 ObjectScript ❌️
 Mint ❌️
 Nit ❌️
+AI2001_Category-Source_Code-SC-Learn-Terraform-Template ❌️
+seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config ❌️
 !-->
 
 <!--
@@ -2284,12 +2288,12 @@ Nit ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `165 (2025, Sunday, July 13th at 07:26 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,095`
-- **Word count:** `025,822`
-- **Character count (including spaces):** `194,065`
-- **Character count (excluding spaces):** `168,205`
-- **Size (in bytes):** `196,878`
+- **File version:** `166 (2025, Tuesday, July 22nd at 08:28 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,126`
+- **Word count:** `026,010`
+- **Character count (including spaces):** `195,352`
+- **Character count (excluding spaces):** `169,328`
+- **Size (in bytes):** `198,173`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4074,6 +4078,33 @@ Nit ❌️
 - [ ] No other changes in version 165
 
 </details> <!-- V165 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 166 (2025, Tuesday, July 22nd at 08:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V166.md)
+
+> **Note** _Coming back to add 2 repositories._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 166
+- [ ] No other changes in version 166
+
+</details> <!-- V166 !-->
 
 ---
 
