@@ -771,6 +771,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Nit`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Nit/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Terraform Template`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Learn-Terraform-Template/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: SSH Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Roff Manpage`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Roff-Manpage/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Readline Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Readline-Config/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Propeller Spin`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Propeller-Spin/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: OpenType Feature File`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenType-Feature-File/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: OpenStep Property List`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenStep-Property-List/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: OpenRC RunScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenRC-RunScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: OpenAPI Specification V2`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenAPI-Specification-V2/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: OpenAPI Specification V3`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OpenAPI-Specification-V3/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2275,6 +2283,14 @@ Mint ❌️
 Nit ❌️
 AI2001_Category-Source_Code-SC-Learn-Terraform-Template ❌️
 seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config ❌️
+Roff Manpage ❌️
+Readline-Config ❌️
+Propeller-Spin ❌️
+OpenType-Feature-File ❌️
+OpenStep Property List ❌️
+OpenRC-RunScript ❌️
+OpenAPI-Specification-V2 ❌️
+OpenAPI-Specification-V3 ❌️
 !-->
 
 <!--
@@ -2288,12 +2304,12 @@ seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `166 (2025, Tuesday, July 22nd at 08:28 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,126`
-- **Word count:** `026,010`
-- **Character count (including spaces):** `195,352`
-- **Character count (excluding spaces):** `169,328`
-- **Size (in bytes):** `198,173`
+- **File version:** `167 (2025, Thursday, July 24th at 08:55 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,169`
+- **Word count:** `026,323`
+- **Character count (including spaces):** `197,641`
+- **Character count (excluding spaces):** `171,374`
+- **Size (in bytes):** `200,494`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4105,6 +4121,33 @@ seanpm2001/AI2001_Category-Source_Code-SC-SSH-Config ❌️
 - [ ] No other changes in version 166
 
 </details> <!-- V166 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 167 (2025, Thursday, July 24th at 08:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V167.md)
+
+> **Note** _Coming back to add 8 repositories._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 167
+- [ ] No other changes in version 167
+
+</details> <!-- V167 !-->
 
 ---
 
