@@ -785,7 +785,6 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Rocq Prover`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rocq-Prover/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Record Jar`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Record-Jar/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: ReasonLIGO`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ReasonLIGO/)
-
 - - [:octocat: `AI2001 Category: Source Code ;SC: Protocol Buffer Text Format`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Protocol-Buffer-Text-Format/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: PIP Requirements`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-PIP-Requirements/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Object Data Instance Notation`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Object-Data-Instance-Notation/)
@@ -794,6 +793,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: OASv2-json`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv2-json/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: OASv3-yaml`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv3-yaml/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: OASv3-json`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-OASv3-json/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Literate Haskell`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Literate-Haskell/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Literate CoffeeScript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Literate-CoffeeScript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Literate Agda`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Literate-Agda/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: JavaScript+ERB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JavaScript-ERB/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: JAR Manifest`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JAR-Manifest/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Isabelle ROOT`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Isabelle-ROOT/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: IRC Log`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IRC-Log/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HTML+Razor`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML-Razor/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2320,6 +2327,14 @@ OASv2-yaml ❌️
 OASv2-json ❌️
 OASv3-yaml ❌️
 OASv3-json ❌️
+Literate-Haskell ❌️
+Literate-CoffeeScript ❌️
+Literate-Agda ❌️
+JavaScript+ERB ❌️
+JAR-Manifest ❌️
+Isabelle-ROOT ❌️
+IRC-Log ❌️
+HTML+Razor ❌️
 !-->
 
 <!--
@@ -2333,12 +2348,12 @@ OASv3-json ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `169 (2025, Saturday, July 26th at 07:38 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,252`
-- **Word count:** `026,891`
-- **Character count (including spaces):** `201,629`
-- **Character count (excluding spaces):** `174,912`
-- **Size (in bytes):** `204,538`
+- **File version:** `170 (2025, Monday, July 28th at 07:41 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,294`
+- **Word count:** `027,192`
+- **Character count (including spaces):** `203,786`
+- **Character count (excluding spaces):** `176,836`
+- **Size (in bytes):** `206,727`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4231,6 +4246,33 @@ OASv3-json ❌️
 - [ ] No other changes in version 169
 
 </details> <!-- V169 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 170 (2025, Monday, July 28th at 07:41 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V170.md)
+
+> **Note** _Coming back to add 8 repositories._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 170
+- [ ] No other changes in version 170
+
+</details> <!-- V170 !-->
 
 ---
 
