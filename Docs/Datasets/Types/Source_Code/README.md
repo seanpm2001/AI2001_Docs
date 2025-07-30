@@ -1,8 +1,6 @@
 
 <!-- TODO
 Entries from 2024, February 9th to 2025, June 13th may be missing
-
-DUPLICATE AI2001 repository: _JANET (archived, but needs to be listed and delisted here)
 !-->
 
 ***
@@ -582,6 +580,7 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Ioke`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ioke/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: JCL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-JCL/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Janet`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Janet/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Janet (duplicate)`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC_Janet/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Jison`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Jison Lex`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jison-Lex/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: LSL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-LSL/)
@@ -801,6 +800,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Isabelle ROOT`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Isabelle-ROOT/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: IRC Log`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-IRC-Log/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: HTML+Razor`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML-Razor/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HTML+PHP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML-PHP/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HTML+ERB`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML-ERB/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HTML+EEX`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML-EEX/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HTML+ECR`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HTML-ECR/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Graph Modeling Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Graph-Modeling-Language/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Go Workspace`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-Workspace/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Git Revision List`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Revision-List/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gentoo Eclass`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gentoo-Eclass/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2335,6 +2342,14 @@ JAR-Manifest ❌️
 Isabelle-ROOT ❌️
 IRC-Log ❌️
 HTML+Razor ❌️
+HTML+PHP ❌️
+HTML+ERB ❌️
+HTML+EEX ❌️
+HTML+ECR ❌️
+Graph-Modeling-Language ❌️
+Go-Workspace ❌️
+Git-Revision-List ❌️
+Gentoo-Eclass ❌️
 !-->
 
 <!--
@@ -2348,12 +2363,12 @@ HTML+Razor ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `170 (2025, Monday, July 28th at 07:41 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,294`
-- **Word count:** `027,192`
-- **Character count (including spaces):** `203,786`
-- **Character count (excluding spaces):** `176,836`
-- **Size (in bytes):** `206,727`
+- **File version:** `171 (2025, Tuesday, July 29th at 08:54 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,336`
+- **Word count:** `027,504`
+- **Character count (including spaces):** `205,970`
+- **Character count (excluding spaces):** `178,790`
+- **Size (in bytes):** `208,943`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4273,6 +4288,33 @@ HTML+Razor ❌️
 - [ ] No other changes in version 170
 
 </details> <!-- V170 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 171 (2025, Tuesday, July 29th at 08:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V171.md)
+
+> **Note** _Coming back to add 8 repositories._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 171
+- [ ] No other changes in version 171
+
+</details> <!-- V171 !-->
 
 ---
 
