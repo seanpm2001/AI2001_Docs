@@ -808,6 +808,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Go Workspace`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-Workspace/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Git Revision List`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Git-Revision-List/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Gentoo Eclass`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gentoo-Eclass/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gentoo Ebuild`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gentoo-Ebuild/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Fortran Free Form`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Fortran-Free-Form/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: ECLiPSe`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-ECLiPSe/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Java Template Engine`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java-Template-Engine/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Gradle Kotlin DSL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Gradle-Kotlin-DSL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Elvish Transcript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elvish-Transcript/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: BuildStream`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BuildStream/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Genero Per`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Per/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2350,6 +2358,14 @@ Graph-Modeling-Language ❌️
 Go-Workspace ❌️
 Git-Revision-List ❌️
 Gentoo-Eclass ❌️
+Gentoo-Ebuild ❌️
+Fortran-Free-Form ❌️
+ECLiPSe ❌️
+Java-Template-Engine ❌️
+Gradle-Kotlin-DSL ❌️
+Elvish-Transcript ❌️
+BuildStream ❌️
+Genero-Per ❌️
 !-->
 
 <!--
@@ -2363,12 +2379,12 @@ Gentoo-Eclass ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `171 (2025, Tuesday, July 29th at 08:54 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,336`
-- **Word count:** `027,504`
-- **Character count (including spaces):** `205,970`
-- **Character count (excluding spaces):** `178,790`
-- **Size (in bytes):** `208,943`
+- **File version:** `172 (2025, Wednesday, July 30th at 06:47 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,379`
+- **Word count:** `027,809`
+- **Character count (including spaces):** `208,158`
+- **Character count (excluding spaces):** `180,740`
+- **Size (in bytes):** `211,163`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4315,6 +4331,33 @@ Gentoo-Eclass ❌️
 - [ ] No other changes in version 171
 
 </details> <!-- V171 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 172 (2025, Wednesday, July 30th at 06:47 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V172.md)
+
+> **Note** _Coming back to add 8 more repositories._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 172
+- [ ] No other changes in version 172
+
+</details> <!-- V172 !-->
 
 ---
 
