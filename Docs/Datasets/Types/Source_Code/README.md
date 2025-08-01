@@ -816,6 +816,14 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Elvish Transcript`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Elvish-Transcript/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: BuildStream`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BuildStream/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Genero Per`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Per/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: GoDot Resource`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-GoDot-resource/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Daslang`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Daslang/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Edje Data Collection`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Edje-Data-Collection/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Go Module`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-Module/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Go Checksums`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Go-Checksums/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Java Properties`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Java-Properties/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: SPARQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SPARQL/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Sail`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sail/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2366,6 +2374,14 @@ Gradle-Kotlin-DSL ❌️
 Elvish-Transcript ❌️
 BuildStream ❌️
 Genero-Per ❌️
+GoDot-resource ❌️
+Daslang ❌️
+Edje-Data-Collection ❌️
+Go-Module ❌️
+Go-Checksums ❌️
+Java-Properties ❌️
+SPARQL ❌️
+Sail ❌️
 !-->
 
 <!--
@@ -2379,12 +2395,12 @@ Genero-Per ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `172 (2025, Wednesday, July 30th at 06:47 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,379`
-- **Word count:** `027,809`
-- **Character count (including spaces):** `208,158`
-- **Character count (excluding spaces):** `180,740`
-- **Size (in bytes):** `211,163`
+- **File version:** `173 (2025, Thursday, July 31st at 07:51 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,422`
+- **Word count:** `028,107`
+- **Character count (including spaces):** `210,277`
+- **Character count (excluding spaces):** `182,622`
+- **Size (in bytes):** `213,314`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4358,6 +4374,33 @@ Genero-Per ❌️
 - [ ] No other changes in version 172
 
 </details> <!-- V172 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 173 (2025, Thursday, July 31st at 07:51 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V173.md)
+
+> **Note** _Coming back to add another set of 8 repositories._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 173
+- [ ] No other changes in version 173
+
+</details> <!-- V173 !-->
 
 ---
 
