@@ -825,6 +825,15 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: SPARQL`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-SPARQL/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Sail`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Sail/)
 
+- - [:octocat: `AI2001 Category: Source Code ;SC: Microsoft Visual Studio Solution`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Microsoft-Visual-Studio-Solution/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Jest Snapshot`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Jest-Snapshot/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: HIP`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-HIP/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Leo`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Leo/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Vento`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Vento/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Genero Forms`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Forms/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Answer Set Programming`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Answer-Set-Programming/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: MIT TIML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MIT-TIML/)
+
 </details> <!-- End of language list dropdown !-->
 
 ---
@@ -2395,12 +2404,12 @@ Sail ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `173 (2025, Thursday, July 31st at 07:51 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,422`
-- **Word count:** `028,107`
-- **Character count (including spaces):** `210,277`
-- **Character count (excluding spaces):** `182,622`
-- **Size (in bytes):** `213,314`
+- **File version:** `174 (2025, Friday, August 1st at 09:16 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,458`
+- **Word count:** `028,402`
+- **Character count (including spaces):** `212,238`
+- **Character count (excluding spaces):** `184,452`
+- **Size (in bytes):** `215,375`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4401,6 +4410,33 @@ Sail ❌️
 - [ ] No other changes in version 173
 
 </details> <!-- V173 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 174 (2025, Friday, August 1st at 09:16 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V174.md)
+
+> **Note** _Coming back to add another set of 8 repositories, before taking a break for the weekend._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 174
+- [ ] No other changes in version 174
+
+</details> <!-- V174 !-->
 
 ---
 
