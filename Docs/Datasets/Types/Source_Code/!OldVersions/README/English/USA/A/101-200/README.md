@@ -833,6 +833,9 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Genero Forms`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Genero-Forms/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Answer Set Programming`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Answer-Set-Programming/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: MIT TIML`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-MIT-TIML/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Raw Token Data`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Raw-Token-Data/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Python Console`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Python-Console/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Aiken`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Aiken/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2391,6 +2394,9 @@ Go-Checksums ❌️
 Java-Properties ❌️
 SPARQL ❌️
 Sail ❌️
+Raw-Token-Data ❌️
+Python-Console ❌️
+Aiken ❌️
 !-->
 
 <!--
@@ -2404,12 +2410,12 @@ Sail ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `174 (2025, Friday, August 1st at 09:16 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,458`
-- **Word count:** `028,402`
-- **Character count (including spaces):** `212,238`
-- **Character count (excluding spaces):** `184,452`
-- **Size (in bytes):** `215,375`
+- **File version:** `175 (2025, Tuesday, August 5th at 08:53 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,491`
+- **Word count:** `028,598`
+- **Character count (including spaces):** `213,677`
+- **Character count (excluding spaces):** `185,615`
+- **Size (in bytes):** `216,726`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4437,6 +4443,33 @@ Sail ❌️
 - [ ] No other changes in version 174
 
 </details> <!-- V174 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 175 (2025, Tuesday, August 5th at 08:53 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V175.md)
+
+> **Note** _Coming back to add 3 repositories._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 175
+- [ ] No other changes in version 175
+
+</details> <!-- V175 !-->
 
 ---
 
