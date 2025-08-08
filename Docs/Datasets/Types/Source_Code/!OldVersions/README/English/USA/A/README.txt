@@ -845,6 +845,12 @@ As of 2024, Thursday, February 8th, there are `496` source code datasets (contai
 - - [:octocat: `AI2001 Category: Source Code ;SC: Untyped Plutus Core`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Untyped-Plutus-Core/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: TypeSpec`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-TypeSpec/)
 - - [:octocat: `AI2001 Category: Source Code ;SC: Tor Config`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Tor-Config/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: X Font Directory Index`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-X-Font-Directory-Index/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Type Language`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Type-Language/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Motorola 68K Assembly`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Motorola-68K-Assembly/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Microsoft Developer Studio Project`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Microsoft-Developer-Studio-Project/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: Maven POM`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Maven-POM/)
+- - [:octocat: `AI2001 Category: Source Code ;SC: M3U`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-M3U/)
 
 </details> <!-- End of language list dropdown !-->
 
@@ -2414,6 +2420,12 @@ WebAssembly-Interface-Type ❌️
 Untyped-Plutus-Core ❌️
 TypeSpec ❌️
 Tor-Config ❌️
+X-Font-Directory-Index ❌️
+Type-Language ❌️
+Motorola-68K-Assembly ❌️
+Microsoft-Developer-Studio-Project ❌️
+Maven-POM ❌️
+M3U ❌️
 !-->
 
 <!--
@@ -2427,12 +2439,12 @@ Tor-Config ❌️
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `176 (2025, Wednesday, August 6th at 09:25 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,535`
-- **Word count:** `028,894`
-- **Character count (including spaces):** `215,804`
-- **Character count (excluding spaces):** `187,508`
-- **Size (in bytes):** `218,885`
+- **File version:** `177 (2025, Thursday, August 7th at 09:22 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,574`
+- **Word count:** `029,173`
+- **Character count (including spaces):** `217,705`
+- **Character count (excluding spaces):** `189,195`
+- **Size (in bytes):** `220,810`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4514,6 +4526,33 @@ Tor-Config ❌️
 - [ ] No other changes in version 176
 
 </details> <!-- V176 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 177 (2025, Thursday, August 7th at 09:22 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+- [View this version separately](/Docs/Datasets/Types/Source_Code/!OldVersions/README/English/USA/A/101-200/README_V177.md)
+
+> **Note** _Adding 6 more repositories._
+
+> Changes:
+
+- [x] Updated the `Source Code types` section
+- - [x] Added 1 new entry
+- [x] Updated the programming language family tree
+- - [x] Updated notes
+- - [x] Added 0 new entries, 161 out of 528 total (outdated counter)
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 177
+- [ ] No other changes in version 177
+
+</details> <!-- V177 !-->
 
 ---
 
